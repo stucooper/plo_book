@@ -1,6 +1,9 @@
 CASINO CASH CHIPS
 
-Updated: 20180613
+Updated: 20180808
+
+"Whoever invented gambling was smart,
+ whoever invented chips was a genius" - Old Poker Saying.
 
 The Star uses chips in the following familiar denominations:
 $1 (blue), $5 (red), $25 (green), $100 (black) and $1000 (orange).
@@ -40,7 +43,7 @@ and announce the bet to the other players at the table. They'll raise
 or check-raise in a similar silent fashion. I always announce what
 I'm doing and the amount of my call, bet or raise. "Call fifteen.
 Raise to 40 total. Fold". If I'm going to raise the pot, I make
-100% sure that I have the dealer's attention and I 200% doubly sure that
+100% sure that I have the dealer's attention and doubly sure that
 action's on me and that I'm not acting out of turn. I often
 confirm it's my turn with the question "Is it on me? Yes?? OK, I
 raise the pot". 
@@ -91,7 +94,15 @@ me 20 x $5 chips, 4 x $25 chips and 1 x $100 chip. I use the
 reds and two of the greens for a $150 buyin, with 2 more greens
 and the black in my pocket for a $150 rebuy if the first buyin
 goes bust. If I lose both buyins, it's back to the buyin desk
-for the same procedure, giving me another two $150 reloads.
+for the same procedure, giving me two more $150 buyins. If there's
+plenty of red chips at the table, I'll go for a quick rebuy
+of two blacks four greens for my $300, if I think I won't
+easily be able to change my black chip I'll get a red tower
+from the buyin desk.
+
+A few players hate the $25 green chips but I really like them.
+They make bet sizing very easy compared to a stack of red chips
+that could be a $55,$60,$65 or $70 bet.
 
 Some players have a handbag or shoulder bag or bum bag with their
 extra chips in them. A few of the bigger players keep a $1000 chip
@@ -118,10 +129,10 @@ it in so it lands from a height of 10 centimetres or so.
 They almost splash the pot with it, they don't carefully
 place it in their normal betting area.
 
-This is a carefree "oooh I'm tossing this black chip away,
+This is a carefree "oooh I'm tossing this black chip in,
 I really don't care about it" act, and belongs in the
 class of "Weak means Strong" tells. Unless you've got a nutty
-hand, don't call this $100 bet. 
+hand, or a strong draw to a winner, don't call this $100 bet.
 
 I've found myself doing the same thing when I'm nut peddling
 a hand on the river and hoping to get someone to call for $100.
@@ -147,6 +158,14 @@ few big value ones (I'm a bit like this myself, if I've got
 $600 as three red towers and three blacks and someone's leaving
 I'll sometimes turn those blacks into even more red towers).
 
+The dealer will usually change your $1 chips into $5 chips,
+if you have more than five $1 chips. He won't normally do
+$5 or $25 colour ups, if the other players won't do that
+for you either you'll need to colour up at the buyin desk.
+The buyin desk has plenty of 100-chip-holding plastic racks
+that you can take to your table and fill up with your
+chips as you're leaving.
+
 I like to sneak a photo of my chips before cashing out.
 Photography is frowned on in the casino itself, so I'll
 sneak to the outdoor smoking area and quickly snap a picture
@@ -157,4 +176,7 @@ The main cashier staff will pay you out in $100 notes unless
 you specify otherwise. $100 notes can be tricky to spend, so I'll
 sometimes ask for part of the money to be paid in $50s and the rest
 in $100s. If I've got too many $100 notes at home I'll go and bank
-some, which is always a great feeling.
+some, which is always a great feeling. Normally I keep about
+$2000 in $100 bills at home as my playing bankroll, this is
+enough to suffer two losing sessions in a row without
+having to hit the ATM.
