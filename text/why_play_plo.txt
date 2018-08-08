@@ -1,0 +1,100 @@
+WHY PLAY PLO?
+
+Updated: 20180710
+
+Why would you play Pot Limit Omaha? Many poker players
+stick exclusively to No Limit Holdem, cash and tournaments, and
+do very well for themselves in that format. We'll be looking
+at differences between NLH and PLO throughtout this book.
+
+To give you a taste, here are some differences
+between The Star's 1/3 PLO game and their 2/3 NLH game.
+
+In 1/3 PLO:
+- Buyin is from $100-$300
+- The pots are bigger. More players take a flop.
+- The shown down winning hand is often the Nuts
+- The game is less well understood
+- There are fewer learning resources and they're harder to find
+- You play against regular players
+- You can win a lot more in a short session
+- You can do a lot more with a $100 stack
+- There are sometimes shorter waiting lists, although in the dead
+  hours of the morning sometimes there's no game going.
+- You can see more flops. You don't have to be as patient.
+- The deals take longer. Also since 4 cards are dealt to each player
+  there's a lot more accidentally exposed cards in the deal that you know
+  are now out of play.
+- There's less bluffing and less hero-calling.
+
+In 2/3 NLH:
+- You're playing the same format that's used in most Tournament Poker
+- You sometimes play against absolute poker beginners
+- Showdown hands are much weaker than Omaha. Many hands are won with
+  top pair, good kicker.
+- You can protect a strong hand preflop with an all-in bet, winning
+  the pot right there or almost guaranteeing at most a heads-up pot
+- You can overbet the pot
+- Your good preflop hands hold up more
+- Your flopped sets hold up more
+- You're in the running for the "flop a Royal Flush" jackpot and 
+  occasional other promotions. The Star haven't done a "Bad Beat Jackpot"
+  like other casinos, but if they did, it would be in the Holdem games.
+- There's always a game going, 24x7
+- You can buyin for more money. You have a choice of a buyin between
+  $100 - $500; an amount of basically 30 to 160 Big Blinds
+- You can target a very bad player and get 1 on 1 with him in
+  big pots.
+
+PLO is the biggest game spread on The Star main floor; some games
+have just a minimum buyin and no maximum! I've seen with my own
+eyes a game with $200/$400 blinds and a minimum buyin of $40,000.
+The biggest game I've played in is $5/$5/$10 with a buyin of
+$300-$1500; but even playing in the 1/3 PLO game I feel like a Big
+Time Poker Player, much more than I do when I'm playing 2/3 NLH.
+
+1/3 PLO is actually a very big game, disguised as a nickel and dime game.
+The buyin range is smaller than Holdem, but the Pots are bigger, by 
+and large. There's action aplenty in Pot Limit Omaha.
+
+If you're an NLH-only player at the moment, have a good read of my
+list of 2/3 NLH advantages and then re-read my list of 1/3 PLO
+advantages. Walk over to a 1/3 PLO table and watch a few 
+hands - really watch them. How did the betting go? How strong
+were the hands shown down to win the pot? What are the stack
+sizes of the players? You'll probably find an interesting mix
+of $75-$200 stacks and a few big winners with $600, $800 even
+$1200+ stacks. With the help of this book and some work and
+perseverence of your own, you can be one of those big winners.
+
+You'll probably see a lot of main pot with several side
+pot hands, compared to NLH. There's very little "checking it down"
+by active players still competing hard for the big pots and still
+building a big side pot. This can sometimes help an all-in player,
+where an active player with a huge draw and a huge stack blasts
+away another active player, and the all-in player's marginal
+hand holds up when the active player's draw misses and the 
+blasted-off player would've won. This concept is called
+Protection and you see it in Tournament Holdem a bit.
+
+PLO is not a trapping game like NLH is. Because there's so many
+cards dealt, and everyone has a 4 card holding, there's
+a whole lot of card combinations out there just
+waiting to outdraw you. If you try to trap, and give a free
+card, you'll get outdrawn over and over again.
+In PLO when you flop top set on a flop of JT5 two diamonds 
+it's usually the case that someone has the flush draw, 
+someone else has a good straight draw (with more
+than just the 8 outs you get in a Holdem Open-Ended Straight draw)
+and someone could have a higher pair that could become
+a better set.
+
+In Holdem you have to trap because there's usually not many people
+in the pot by the flop and if you come out betting your strong hands
+you'll scare everyone out and end up winning a small pot.
+In Omaha you come out blasting with pot-sized bets and
+you'll often get action and callers. I'll be looking a lot
+at when it's correct to bet and correct to call, but for now
+let me impress upon you that in PLO when
+you flop strong you don't trap, you come out blasting. You have 
+to do this yourself, Do Your Own Betting (DYOB). 

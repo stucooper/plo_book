@@ -1,0 +1,121 @@
+PLAYER TYPES
+
+Last updated: 20180703
+
+Poker is a game of people and you should be adjusting your play based
+on your observations of other players in the pot. Remember that Omaha
+is a nut-hand game, so you shouldn't be in the pot at all unless
+you've got a great hand or a draw to the Nuts. There's less bluffing
+in Omaha than Holdem because it's so much easier to make hands.
+That said, there's a few player types you'll find at the tables.
+
+Maniac preflop raisers
+======================
+
+Some players will raise and re-raise the pot preflop, even
+without looking at their cards. They'd like to take some early
+chances to win some big pots, even at risk of giving away a few
+buyins while playing unseen trash. In Omaha it's rare for any 4-card
+holding to be less than a 30% chance against any other 4-card holding,
+even when the other 4-card holding has been looked at and the player's
+decided it's worth seeing a flop for this huge price.
+
+The Maniac Preflop Raisers are showing off their indifference to losing
+a few buyins; some crazy guys will buyin for the full $300 each time
+and still do no-look preflop raises. They normally quieten down after
+a round or two. Unless you're dealt a monster hand you can really
+go to war with, you just have to wait them out.
+
+A lot of the Maniac Preflop Raisers are Five-Five Refugees. The
+maximum buyin of $300 at 1/3 is the Minimum buyin of the Five-Five game,
+so $300 just isn't much to them.
+
+Calling Stations
+================
+
+There's not as many calling stations as you find in Holdem, because
+calling big river bets in Omaha wipes your buyins out very quickly.
+In Holdem a big river bet can sometimes be a bluff and can be hero-called,
+in Omaha it's so easy to make big hands that the person putting in
+a big river bet is more often selling the Nuts at a high price and
+not bluffing. There are a lot less "call down" hands in Omaha than
+there are in Holdem. In Holdem you'd often call down with a set when there's
+only three to a flush or straight on the board, in Omaha you'd often 
+fold the set here and you'd always fold a hand like bottom two pair.
+
+Megatight 
+=========
+
+For a few months in the 1/3 PLO game there were regulars who were megatight
+preflop. You'd think they were being dealt KT72 or 333J every hand
+they were folding so much. They can't have been getting that many
+unplayable hands that often, it looked like they must have been waiting
+for either AAKK double suited or AAJT double suited.
+
+Needless to say, when they entered the pot nobody at the table gave
+them much action (unless they cracked them on the flop). A lot of
+the people in the game (including myself) were needling these guys
+for never playing a hand.
+
+We're not genius card readers at 1/3 but we do notice a player who
+folds 90% of his hands who suddenly comes out of nowhere in a new
+hand with a pot-sized raise.
+
+The megatight players have dropped out of the game but they
+might be back. I don't think it's an effective way of playing PLO.
+The megatight player I remember the most used to pot raise when he
+had a playable hand, but you could call that pot raise for $15 or $20
+and outdraw him a lot of the time, or take a small loss when the flop
+missed you. It was still worthwhile taking a flop against him a lot
+of the time. He could've improved his game by taking a limp/pot-reraise
+strategy on his big hands and limped into some more pots with his
+average hands.
+
+Deadstack Nothreats
+===================
+
+These are just about my favourite players at the table. They put you
+under very little pressure and their stacks are so insignificant
+that even when they do make a hand it doesn't cost you too much to
+try to outdraw them and doesn't cost you much if you lose. Their
+stacks never seem to get bigger than $200; and are normally in the $40-$140
+range. Often they'll bet pot (which is close to all-in for them) on the
+flop and you'll have a very easy decision to make. Again, it doesn't
+cost you much if you call and the runout goes against you (or if your
+read was wrong and you were virtually drawing dead).
+
+A flop push from a small deadstack is often from a 2-pair hand (I'll make
+this move myself if I have a smallish stack and flop two pair) so you can
+call down with as little as a naked flush draw, middle pair with 2 or 3 overs
+(giving you good enough chances of making higher two pair). You get to
+Showdown, which means you get the full chance of sneaking any backdoor
+draws you have (and they do come in sometimes). 
+
+Sometimes I'll isolate-reraise against the deadstack's push; this gets me 
+heads-up against a probably average hand, though it's dangerous if a
+third person in the pot was sandbagging a set or some massive draw. It's
+stack killing having a good read on the deadstack being weak but then
+giving your chips away to a third player who doesn't go away. If you'd
+flat called, the sandbagger would then come over the top and you'd be able
+to save lots of money. So unless you're super strong yourself, just flat
+call the deadstack and a lot of the time you'll end up heads-up anyway.
+
+The Maniacs have too much gamble in them, the Deadstacks don't have
+enough. They're rarely involved in Megapots, because they never have
+a $700 stack to commit into a huge pot in the first place.
+
+Aunties
+=======
+
+An Aunty is a middle-aged Asian woman. There's three or four of them
+who are regulars in the game. They're Nut Peddlars and raise the pot
+once they hit their hand. They'll sometimes raise with a huge draw
+which you can also fold to unless you've got the current 
+winner like top set.
+
+Drunks
+======
+
+Believe it or not, there's a few drinkers who play in the game
+sometimes. You know what you've heard about drunks being bad
+poker players? It's all true.

@@ -1,0 +1,98 @@
+STRADDLES
+
+Last updated: 20180703
+
+A straddle is a "no-look" raise put in by the Under-the-Gun player
+(first to act preflop) at Blinds posting time, to make the pot
+bigger and stimulate some action. Because the Blinds are $1/$3,
+the maximum amount to raise to is $10. The Straddle can be
+any amount between $6 (min raise) and $10 (full pot raise).
+Most straddlers chose $6, a few go for $10, almost nobody
+straddles to $7, $8 or $9.
+
+If there's extra posts in the hand (from first-hand players
+or returning players making up for missed blinds or both) then the
+straddle can be even higher.
+
+If the straddle is $6, an interesting application of the
+Casino's "2 chips is a raise" rule comes into play. For future
+players, it's $6 to call, raised from $3, but if they toss in
+two $5 chips to call (because they're short of $1 chips) then
+it counts as yet another raise, from $6 to $10. Remember
+the straddle itself was a raise from $3 to $6, so the betting
+on this round is small blind $1, big blind $3, raise to $6,
+min re-raise = $6 + another $3 = $9, so $10 chucked out in two
+chips without any verbal announcement counts as a min-plus-a-bit 
+reraise to $10.
+
+This is why I always say "call Six" - there's no ambiguity in what I'm doing.
+For the quiet players at the table, another way to show they're calling
+not raising is to put the first $5 chip in and then the second $5 chip
+a moment later in a second motion. The casino is hot against string
+betting, so this two-motion action is rightly considered a call.
+
+If a poster (like small blind, big blind, first-hand player
+or returning-to-table-missed-some-blinds player)
+has a $5 chip out as their $3 post and tosses a second $5 chip
+out, this is a single-chip throwout and counts as a call of $6,
+not a raise to 10. A single-chip throw without verbal announcement
+counts as a call.
+
+I've found that if you're in the first few callers after a straddle
+and there's a hand you'd like to get your whole stack in with and
+hopefully get one-on-one with someone, then a dinky two-chip
+throwout "accidental" raise to $10 works really well. There's a 
+better than usual chance a player behind you will re-raise pot, 
+even the $6 straddler himself, and then
+you can reraise pot again and really shove a lot in preflop and
+get most of the other players to fold. Sure, sometimes you try
+this and the remaining action is a few folds and everyone else
+calling the $10 and you end up six players to a flop with a pot
+of $60, but sometimes there'll be that re-raise for you and you
+can shut out the field with another big raise on top.
+
+Here's an example. Seat 10 has the Button.
+UTG is Seat 3 and I'm in Seat 5. I've got AAKT, double suited, and
+this is a hand I'd like to take to war one-on-one for my stack, which
+is $210. Last hand I missed a big draw which I paid $30 for on the flop
+and $90 for on the turn, so I'm a bit annoyed that my $340 stack is now
+$210 and I'd like some instant justice.
+
+FIXME: check the numbers
+
+PB = Pot Becomes.. size of Pot after the action
+UTG: Under-the-Gun HJ: Hijack CO: Cutoff Bn: Button sb: small-blind
+bb: big-blind
+
+"Straddle to 6, 6 to call"
+Seat#	  First action			Second action
+ 3 (UTG)  straddle 6. PB=10             Fold to call of 75 (-6)
+ 4	  Call 6. PB=16	       		Fold to call of 75 (-6)
+ 5 (Me)   "whoops".. Raise to 10. PB=26 Raise to 210 allin (200 more). PB=326
+ 6	  fold to call of 10.
+ 7	  Call 10. PB=36		Fold to call of 210 (-10)
+ 8 (HJ)   Call 10. PB=46		Fold to call of 210 (-10)
+ 9 (CO)	  fold to call of 10
+ 10 (Bn)  Call 10. PB=56		Fold to call of 210 (-10)
+ 1 (sb)   "Raise pot" to 75, PB=126	Call 210,147 more. PB=473
+ 2 (bb)   Fold to call of 75 (-3) 
+
+Remember to read the betting actions top to bottom, first in the
+"First action" column, then the "Second action" column, starting
+with Seat 4 facing the call of that $6 straddle. Here the small blind
+had KQQJ - a very powerful PLO hand, but one that matches poorly against
+my AAKT. We're "off to the races" and the runout and result don't
+really matter too much, the important thing is that I've managed
+to engineer the desired result of playing for all my chips against
+just one opponent, maximising my chances for a double up.
+
+Even when I don't get that pot re-raise of my $10 "accidental" raise,
+and everyone simply calls the $10 or folds, and there's six players
+to the flop with a pot size at $60, this is a good outcome for me. 
+I've built up the pot to $60 at a cost to me of just $10. 
+
+If I hit the flop super hard, with AAKT can
+certainly do, I can start getting my money in as an even bigger,
+almost-sure-thing favourite, and when I miss the flop (which
+AAKT can also certainly do, any Omaha holding can miss the flop)
+then I'll slow right down and fold to substantial action.

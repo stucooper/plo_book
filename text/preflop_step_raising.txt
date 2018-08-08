@@ -1,0 +1,64 @@
+PREFLOP STEP RAISING
+
+Last updated: 20180613
+
+If you're an NLH Tournament player, you might know
+a preflop technique called the Sandwich Play, or Squeeze Play.
+Blinds are 500/1000, most stacks 15000 - 22000. You limp for 1000
+with a very aggressive player on your immediate left. He raises
+(raises light, in your opinion, he's been very aggressive) to 3500
+and gets 3 callers. Action returns to you, and you really think
+that none of those callers are superstrong, if they were, they
+would've re-raised the 3500 themselves. You now come over the top
+for 12,000 and get everyone to fold. To read more about this play,
+see Harrington on Holdem Volume 2 pp 22-25.
+
+In PLO Cash the blinds are so small that players have developed
+their own sneaky way to sandwich chips out of callers in the middle.
+I call it Step Raising. Here's how it works; in this example the
+Step Raisers are Under the Gun (UTG) and the Button. UTG makes it
+$10 and there's four callers hoping to see the flop, but the Button
+raises to $20. One of the blinds call but UTG min raises again to $30.
+Two of those middle players call for $30 but the Button makes it $40
+and UTG goes up again to $50. None of those players in the middle can
+ever just call and close off the action.
+
+When you see this happen for yourself, it really looks like the
+Step Raisers are colluding. They never close off the betting unless
+it suits them. The betting actually looks a lot like 10/20 Limit poker
+betting; except in 10/20 Limit Poker there's a cap on how many raises
+that can be done on any street, when it isn't heads up already.
+Call to 10, 1st raise to 20, 2nd raise to 30, cap it at 40. There's no
+cap in preflop betting in PLO.
+
+It always seems to be Asian guys step raising this way. It's really annoying
+to the squeezed players. It could be stamped out with a rule
+change: "all preflop raises must be the maximum of full pot" but I can't
+see the Casino making this change. I mention in the "My Poker Library"
+chapter that several Omaha writers have proposed rule changes to Omaha
+that have no hope of being implemented. "All preflop raises must be
+the maximum of full pot" is my futile rule change.
+
+The Step Raisers often sit close to each other at the table, either right
+next to each other or with just one or two seats between them. When
+an empty seat opens they might even move so they're next to each other.
+This maximises the number of people who'll get sandwiched by their
+step raising. Imagine if the step raising is done by the small blind and
+the big blind - there's up to a full 8 players caught in the middle.
+
+Sometimes in PLO you'll call a preflop bet to $10 and get an easy fold
+when it's pot raised and pot re-raised behind you. It's easy to fold T977
+for $10 when it comes back to you as a $110 call, but not so easy when
+it's $10 come back to you for $30. But if there's step raising going on 
+you're often not going to see the flop for $30. You call the $30, another
+player calls but then there's another step raise for $40 and the
+first raiser now makes it $50. If you call the $50 you're just throwing
+more of your chips into the Sandwich.
+
+I once stuck around with Aces with two guys Step Raising, when they'd had
+enough preflop Step Raising the flop came AT4. I flat called the 
+first player's bet, there was a post-flop Step Raise and it was only when 
+action returned to me that I raised the pot. (Step Raising is extremely 
+rare after the Flop). I got called by just one of these clowns and I 
+won a monster pot. That extra little bit from the other Step Raiser on
+the flop was a real sweet part of my win.

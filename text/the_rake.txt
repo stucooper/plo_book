@@ -1,0 +1,123 @@
+THE RAKE
+
+Last updated: 20180605 
+
+The Star like most casinos take money out of each Cash pot as their
+profit for providing the dealer, tables, shuffling machines, venue,
+security and so on. Their rake is 10% on amounts $10 to $100
+(rounded down), $10 flat on amounts $101 to $149 and $15 flat on
+any amount $150 and above. For a $75 pot, the casino keeps $7
+and gives the winner $68. For a $135 pot, they keep $10 and give
+the winner $125. For a $240 pot, they keep $15 (their maximum
+possible take) and give the winner $225.
+
+When you win a small pot, that's clearly less than $150, it's
+worth looking at how much rake the dealer takes out and checking
+the final size of your pot, just to make sure the dealer hasn't
+made a mistake and you're getting all the money you're entitled to.
+If the dealer has raked $8, the pot must have been at 
+least $80 before that rake was taken out, so the pot passed to you 
+should be at least $72. Dealers are very good at figuring the rake
+out but I normally find 2 or 3 mistakes a month, never more than
+$1 or $2 here and there, but like I said it's worth getting
+every dollar you deserve.
+
+Dealer rakes         Your pot is at least        Your pot is at most
+  nothing                     3                           9
+     1                        9                          18
+     2                       18                          27
+     3                       27                          36
+     4                       36                          45
+     5                       45                          54
+     6                       54                          63
+     7                       63                          72
+     8                       72                          81
+     9                       81                          90
+    10                       90                         139
+    15                      135                    all the chips on the table 
+
+Since the game is 1/3 and there's always at least a big blind posted; 
+the minumum pot being contested is $3 and if everyone folds in this
+situation the big blind gets an unraked $3 back. The smallest possible
+pot is $3.
+
+An uncalled bet that gets everyone to fold and wins the pot
+is returned to the bettor and doesn't get counted towards the rake.
+But an uncalled raise that wins a pot has the "call" part of that
+bet counted towards the rake. Example: The small blind bets $30
+at a $50 pot, several players fold and the button raises to $130.
+After some thought the small blind folds and the button wins the pot.
+The rakeable part of this pot is $50+$30+$30: the Button's raise
+was "I call your $30 and raise you another $100". That $100 is
+what is returned to the raiser and not raked, but the call of $30 is.
+You can't announce your bet as "I call.. and raise" because of the
+ban on String Betting. Some dealers miss this subtlety and return
+the whole uncalled $130 bet to the button and rake this $80 pot $8
+instead of raking the $110 pot $10. This dealer error works in
+favour of the players.
+
+Sometimes a player I don't like very much puts in a big check raise
+on the flop, wins that pot and the dealer misses taking the full rake.
+I'll quickly point this out to the dealer and make sure the right
+rake is taken. This is a pretty fun needle - it's amazing how annoyed
+some people get when they miss out on a few dollars of free money.
+
+In hands with main pots and side pots, the main pot is raked first and
+once $15 of rake has been collected there's no more rake taken. This
+is a real bonus for big stacks who compete for a big side pot rake-free.
+There might be a short staked guy whose $40 quadruples to $160, he wins
+the main pot but he pays the $15 rake, while two big stacks have a $450
+side pot which one of them wins rake free.
+
+Star dealers take a few seconds to stack the pots in $100 towers so
+you can see how big it is. While this makes the dealing a bit
+slower, it saves the players a lot of brainpower in not having
+to keep track of the pot size.
+
+Once the pot is huge and obviously a lot more than $150, some dealers
+will take three $5 chips and put them well away from the main pot,
+usually on top of the first burn card.
+Then once the pot is awarded, the rake is ready to put in the tray
+and the rest of the pot is easily pushed to the winner.
+
+Obviously the bigger the pots you're pulling in, the less effect
+rake is having on you. If you keep winning little $80 pots then
+you're paying 10% each time but if you're winning big $400 pots then
+that $15 taken out is almost inconsequential. Rake starts being an
+issue in dead-of-morning shorthanded games, where three $400 stacks
+are passing $60 pots around backwards and forwards and the casino
+is fully raking the 10% each time. If the pots are small and the
+rake is starting to bite and everyone's stacks are slowly shrinking,
+it could be time to call it a night.
+
+Some casinos offer reduced rake when games are shorthanded. The Star 
+isn't one of these casinos and they rake the full amounts described
+here under all 1/3 PLO circumstances.
+
+Before February 2018, Star had a "time charge + rake" structure
+which I'll briefly describe. The time charge was $5/hour, which
+reduced a bit over time depending what time you joined the table
+(10pm: $5, 10:12pm: $3, 10:23pm: $2; 10:47pm: free until 11:00pm).
+The rake was 10% to a maximum of $10. Provided you won two
+big pots per hour you were better off with the old Time Charge,
+because on your big pots your rake was $10+$10+$5 time charge = $25
+but now your rake is $15+$15+$0 time charge = $30.
+
+The huge PLO games, with $1000 and more minimum buyins, still
+have a time charge: $25/hour plus rake until the table has made
+$350 in rake for the hour. After that the pots are rake free until
+the end of the hour. I don't play that big so I won't bother
+figuring out the maths. I sometimes play a 5/5/10 PLO game;
+this game uses the same $0 time charge and 10% cap, maximum
+$15 rake as the 1/3 game does.
+
+The rake structure here works identically in 2/3 NLH. Most of
+the dealers try to use the $1 chips in the pot for the rake,
+so they've always got plenty in their tray to give change with. 
+Sometimes a winning player is asked by the dealer for some $1 chips
+to make the rake quicker.. if you're winning a $70 pot that's
+all in red chips the dealer will ask you for two $1 chips,
+keep one of the red $5 chips and those two $1 chips as
+the $7 rake and pass you the $65 rest of the pot. Effectivly
+it's cost you $2 to get a $65 pot passed to you, so you're
+winning a $63 post-rake pot.

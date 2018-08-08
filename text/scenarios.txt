@@ -1,0 +1,40 @@
+SCENARIOS
+
+Last updated: 20180619
+
+1) You have $130, a bit down from your buyin of $150.
+You're in position with KKJ3, King high hearts, in a 5-way pot of $50.
+The flop is QT3 all spades. All players check and so do you. The turn
+is the 9 of spades, making you a King-high straight on an all-spades
+board. Again four players check and you bet $30, getting one fold, one
+caller, and two folds. The river is the Ten of Diamonds and on the
+final board of QT39T the first-to-act player bets $50. He's got about $85 behind.
+What's your play?
+
+ANSWER: This is a clear fold. The Bettor either flopped the flush or
+has rivered a full house; probably by luckboating a QT two pair into TTTQQ,
+though it's possible the Bettor flopped a low-confidence Set (all-spade
+flop) and can only come out betting now that the board has paired.
+You can't beat either the flush or the full house so just fold.
+
+Don't even think about raising, you'll just be giving more money away.
+
+2) Under the gun 4-handed in a $24 pot you've got KKT4 two clubs
+and you get the flop K94 with the bottom two cards clubs. What's
+your play?
+
+ANSWER: This pot isn't big enough to blast off other players with a
+$24 pot sized bet so I'd look for a check-raise here. Your main threat
+is an inside Straight draw from a hand QJT, or sometimes the Ace-high
+club draw, which you have two blockers to. Go for the Check Raise.
+
+2.1) You check and there's a pot bet of $24, a fold, a caller and action
+returns to you. What now?
+
+ANSWER: Raise the pot. This should blast out Straight draws, you have
+blockers against the Nut flush draw and if you're up against a lower
+set like 999 or 444 they'll probably commit their stacks while
+drawing to one out (the 999 set) or drawing dead (the 444 set). Remember
+that if the board pairs on the turn the action will slow right down.
+The time to make money on this hand is now. You'd love to get 1 on 1
+here, as a huge favourite.

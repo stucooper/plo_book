@@ -1,0 +1,189 @@
+OMAHA IS NOT HOLDEM
+
+Last updated: 20180703
+
+Because Omaha and Holdem are both flop games, they seem very similar.
+Some of your Holdem skills (Reading the Board for example) transfer
+over to Omaha. But be warned. No Limit Holdem and Pot Limit Omaha 
+are very different games. Just about the only things they have 
+in common is the Flop Game Structure.
+
+  All players at the table dealt unique hole cards
+  Preflop Betting
+  3 card flop produced
+  Flop Betting
+  4th card ("turn") prouduced
+  Turn Betting
+  5th card ("river") produced
+  River Betting
+  Showdown
+
+Omaha Showdown Rule: 2+3
+========================
+
+In Texas you can use 2, 1 or even none of your hole cards in combination
+with the 5 community cards to make your best 5 card poker hands. If the
+final community is AKQJT, no flush possible, then everyone still in the
+hand has an unbeatable Ace-high straight (called "Broadway"). Poker
+legend has it that in the 2005 World Series Main Event, four players
+were in a hand with this final board. One player bet, the next player
+raised, two Internet qualifiers folded and it ended up being a 2-way
+split not a 4-way split!
+
+In Omaha you have to use 2 cards of your own and 3 from the Board, a
+showdown rule I call 2+3. This changes the hands you can make.
+
+In Texas a board of KQJT4 rainbow has any player with an Ace having
+the nut straight. In Omaha, you need both the Ace and another of
+the cards K,Q,J,T to qualify. If you've got AK44, you play the
+AK from your hand and the QJT from the board to make [AK]QJT.
+Your other cards make a set of 444 but that's not part of your best
+poker hand. A player with AJJT also has the straight here, he
+plays his AJ with the KQT from the board for [AJ]KQT. A third
+player with AA99 doesn't have a straight here, his best hand is
+[AA]KQJ.
+
+In Texas a board of T8632 four Diamonds will usually see the winner
+holding a single high Diamond. In Omaha, you need 2 Diamonds of your
+own to make the flush here. The fourth flush card on the board doesn't
+change whether someone has a flush or not. If three flush cards
+come on the flop, nobody has a draw to a flush; they either have
+one already (by having two of that suit in their holding) or they 
+can't get one.
+
+More 2+3 confusion occurs with double-paired Boards. In Texas if I have
+AK on a board of KK884 then I have a full house AKK88. But in Omaha
+I don't - I have trip Kings. With a holding of AKQT and a board of 
+KK884 my best hand is [AK]KK8 for KKKA8. I'm showing the 2 cards I must use
+from my holding I'm using in square brackets [] here. 
+Once I've used my two cards there's no room in the board 3 to 
+include both those KK88 to fill up. There's only room for exactly
+three board cards in my final Five Card Hand.
+
+Another confusion from the 2+3 rule is when there's three of a kind on
+the board. In Texas on a board of 222T8 you've got a full house with
+either a T or an 8 in your holding. But in Omaha, you need a pocket
+pair to make a full house, because the three cards from the board
+you'll be using are the [xy]222. In a matchup of 6554 versus T987
+on the 222T8 board, [55]222 beats [T9]222. Of course in either
+Holdem format, someone with a single 2 for the quad [x2]222 is the winner.
+
+Some players used to Texas showdowns sometimes try to play 
+wide straights, 6-card straights don't help in Omaha. AKT6 looks like
+you've got a straight on the board of J5432 but you can't play
+the A6 and four middle cards to make a six card straight, you have
+to make a 5-card poker hand. In the 2+3 Showdown, your best hand
+is just [AK]J54 and you can't even beat a pair here. The widest gap
+you can make a straight with is a 3-gapper; they are AT, K9, Q8,
+J7, T6, 95, 84, 73, 62, 5A. Besides AT, the 3-gap hands are mostly
+trash and you need more going for your hand before you start playing them.
+
+Multiway hands
+==============
+
+The two cards that you use from your holding to make your best
+Five-Card final hand can and do change after each board card. Consider
+this holding: Ac9d9h4c. The flop is AJc4, at this stage you are using
+your A4 and your best hand is [A4]A4J. The turn comes the 9 of clubs,
+a great card for you, and now you use your 99 to make a trips hand,
+[99]9AJ. The river comes the 3 of clubs, making you the nut flush.
+You're now playing Ac4c again, not to make two pairs, but for the Nut Flush.
+Hands that can change to better and better hands are called Multiway
+hands and are prized hands in Omaha. When you're looking at your
+holding preflop; have a think about the kinds of hands it can make.
+
+In this example my best hand climbed the poker ladder with each
+new board card. I started with two pair on the flop, climbed up
+to three of a kind on the turn and finished with a flush on the river.
+
+If the river had been an Ace, then the final board would be AJ49A,
+I would use the combination [A9] to make my best poker hand
+(doesn't matter which of my Nines I'm using) for the hand [A9]AA9,
+Aces full of 9s. If the river had been a 4, for a final board of
+AJ494, I would use my [99] combination for [99]944, Nines full 
+of Fours.
+
+Most of the time in Flop Games, 
+the nut hand changes with each board card produced.
+On the flop, the nut hand might be top set and a good two pair
+can be good enough. By the turn, the nut hand might be a straight,
+and there are now flush possibilities (sometimes even flush chances
+in two suits: if there are two clubs and two spades by the turn,
+any black card on the river makes a flush possible). By the river,
+the nut hand can be a full house (if the board is paired), a
+flush, a straight or top set.
+
+Occasionally in Flop Games a high-rung hand is possible right from the start.
+If the flop is all one suit, a flush is already possible, and the only
+climbing of the ladder will be to a full house, quads or a straight flush.
+A flop with a pair on it means a full house or quads can already be there.
+
+In Texas it pays to be aware of the Nut hand on every street
+and in Omaha it's absolutely crucial that you track what
+the Nut hand is, and whether you can make a nuttier hand after
+the next board card.
+
+Sometimes the flop is so co-ordinated (wet) that the
+high value hands can be present from the start. A pair on the flop
+means a full house could already be present. Three spades on the flop
+means a flush could be out there already, no need to wait for the
+turn or the river to make your flush. When there's big hands possible
+already after the flop, you don't pay to draw to the lower rung hands.
+
+Looking at your holding
+=======================
+
+You can see preflop, looking at your holding, the kinds of hands you
+can make by the river. QcQJ4c can make a set of Queens, a Queen-high
+club flush and a straight using the QJ (that straight might be 
+Broadway, King high straight or Queen high straight depending on 
+the board cards it's joining with).
+
+This is actually a pretty poor Omaha holding and you can fold it preflop,
+although I'd personally take a cheap flop with it just for the high 
+set value of the Queens. In Texas, QQ is a hand to get excited about, in
+Omaha, QQJ4 is pretty average, maybe just on the playable side of OK.
+
+Because the showdown rule is 2+3, you know even before seeing any 
+community cards that you're going to have to use two of your own
+cards in a showdown. So you can look at your holding 2 cards at a time,
+and see how playable each 2 card combo is. With QQJ4 the combos
+are QQ, QJ, Q4 and J4. With KJT9 the combos are KJ, KT, K9, JT, J9 and T9.
+KJT9 has many more playable combos and is a better Omaha hand.
+
+Ad8h7h6d: This holding can make the nut flush in diamonds, a straight flush
+in hearts, a very low 8-high flush in hearts and a whole bunch of middle 
+straights. I like this holding a lot. This is the PLO equivalent of
+a good suited connector hand in NLH, while also adding that Nut flush
+chance.
+
+Jd742d: A real trash hand. There's not much chance of making straights
+and if you do, you'll often lose to higher straights. If you're using
+J7 to make a straight to T98, someone with QJ will have a better straight,
+and QJ is much more playable than J7! That suited Jack is also
+big trouble, low flushes lose to higher flushes in Omaha, and Jack-high
+is very low for a flush. Looking at the two card combos there's none
+that you'd play in Texas: J7, J4, J2suited, 74, 72, 42. There's 6 bad hands.
+Fold it now. Six trash Holdem hands add up to a trash Omaha hand. TAHITM.
+
+JT54: This is two OK Holdem hands and the other combinations are rubbish.
+Here our combinations are JT (good), J5 (trash), J4 (trash), T5 (trash), 
+T4 (trash) and 54 (ok if you spike exactly the right flop). I'll play this
+sometimes if I feel really loose, much more often than J742, but this is
+a speculative $3/$10 flop hand only.
+
+When you've got a pocket pair, such as that A994 hand, you get fewer
+unique combinations: A9, A9 again, A4, 99, 94, 94 again. So instead
+of 6 combinations you've got 4, but one of those combinations is
+a powerful pocket pair that can get you a big full house when you hit.
+
+Sometimes you get three of a kind in your holding, which cuts
+right down on your number of combinations and virtually kills off
+your chances of flopping a set. You need the final card of that
+rank on the board! KKK5 gives you the combinations KK and K5 only,
+and just about no chance of finding that fourth and final King.
+Fold it. Likewise three flush cards in your holding makes
+it less likely you'll make a flush (your holding includes one of
+your own outs) and four flush cards in your holding makes it
+much less likely. Instead of 11 other suit cards to appear
+on the board to make you your flush, there's now only 9.

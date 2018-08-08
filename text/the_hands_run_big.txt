@@ -1,0 +1,211 @@
+THE HANDS RUN BIG
+
+Updated 20180713
+
+One of the first things to understand about Omaha 
+and keep in your mind forever afterwards is that
+the winning hand shown down is either the
+Nuts or the second Nuts. The hands run big.
+
+This means you've got to be very careful when you're betting or
+calling with a strong but non-nut hand and people are the
+enemies in this pot are sticking around. You could be in a lot 
+of trouble.
+
+In Texas it's pretty rare for two both-hole-cards-used made
+flushes to be in a contest together and almost unheard of for three 
+flushes to be there. In Omaha this happens all the time. Thanks to
+everyone having a 4-card holding, there's a lot more flushes out there.
+This means you've got to be very careful with non-nut flushes in the
+face of heavy betting. If you're the player lucky enough to have 
+that nut flush, you can bet it strongly and expect more action than you'd
+get in Texas, where players are unlikely to have a Flush themselves
+and won't get heavily involved in the pot. Slow play and trapping
+is much less a factor in Omaha than it is in Texas.
+
+The Top Forty principle
+=======================
+
+In Full Ring PLO, the top 40 cards of the deck are dealt to players.
+That means that if the flop comes JJ3 it's very likely someone's got
+the Jack, in fact it's highly likely that both the remaining Jacks
+are in people's holdings. Because the top 40 cards of the deck
+are dealt off, the next 4 cards (burn and three-card flop) contained
+2 Jacks. The likelihood is strongest that both remaining Jacks are
+in the players' holdings.
+
+In Texas ten-handed only the top 20 cards are dealt to the players,
+so on a flop of JJ3 you'll normally win with the Jack - there's a good
+chance the case Jack (4th and final) is in the bottom 28 
+cards of the deck. But in PLO there's more of a chance that the 
+fourth Jack was in the top 40 cards dealt to the 
+players, not the unseen 9.
+
+So if your holding is JT96 and the flop is JJ3, you're not necessarily
+the winner here. You've really got a draw to a full house, and if
+there's someone else staying in the pot with you, he's got either
+that fourth Jack or pocket 33. And if he's got the fourth Jack,
+chances are excellent that he's got a higher kicker than your best
+kicker the Ten. Let's say he's got AKJ9, you're currently behind
+[JT]JJ3 to [AJ]JJ3. You really want to hit your full house, and
+hope that he doesn't hit a bigger fullhouse. Sometimes your
+opponent will have the 33 set for [33]3JJ, and be hoping that
+you don't hit your 10-out better-full-house-or-quads draw 
+(any T,9,6 or the case Jack).
+
+Because of the Top Forty principle, most of the cards you see in
+the Community are the case card of that rank. A lot of players
+say "you were lucky on the river, that was the case Seven"
+when the board pairs with a seven, but of course it was
+because with one seven in your holding and one on the flop
+the likelihood is that at least one of the two remaining sevens
+was in the top 40 cards dealt. So when you see a repeater on
+the river, it's likely to be the case card. On a flop of A75
+you're often looking at the case Ace, the case Seven and
+the case Five.
+
+Adjusting to Nut hands
+======================
+
+Because winning hands in PLO are so Nutty, there's no point
+staying in a pot with a non-nut draw that won't be the
+guarenteed winner if it hits. I call these "Low Confidence
+Hands" - they're not strong enough to bet with confidence so
+when they do win it tends to be a small pot. And when you are
+behind, the Low Confidence Hands can be tempting enough to
+call with, so you can lose real money there as well. That's bad
+either way.
+
+You can't bet them with confidence, and you sometimes have to pay 
+off that better hand with your made draw, just in case. 
+The safest thing to do is to avoid difficult decisions by getting 
+out early and not taking these non-nut chances. In Texas if I've got 98
+on a JT5 flop I'll stay in and be happy if a Q or 7 comes
+on the turn. In Omaha if I had 9877 to that JT5 flop I'll
+fold to action very easily; even though in both cases I have
+the same lower-end open ended straight draw, and in the Omaha
+example I make my straight if a Q, 9, 8 or 7 comes. 
+Too many times in Omaha you'll make a low straight and still lose.
+
+In Texas, most of the winning hands are on the lower rungs
+of the Poker Hands ladder. High card, One pair, two pair, trips,
+straights, flushes and the very occasional full house. In Omaha
+the hands are much higher: straights, flushes, full houses,
+quads and straight flushes. The hands run big. I read somewhere
+that the median winning Holdem hand is two pair: half of the
+winning hands are higher than two pair, half are lower. For Omaha
+the winning median hand is a straight: half the time the winner
+is a flush, a full house or better.
+
+With so many cards in the holdings of the players, the Nut
+hand often changes with each board card and so does the betting lead.
+On the flop, two pair or a set is often the best hand. If the turn
+doesn't pair the board, a Straight is quite often the winner and
+once the river comes out a Flush or a Full House often takes the lead.
+The Australian stripped-deck limit card game Manila shows similar
+swings in the best hand with each new board card produced. Manila
+doesn't have a flop; it starts with 1 community card shown then
+adds a 2nd, 3rd, 4th and 5th.. traditionally the dealer and most
+of the players say "Last card Manila" before that 5th board card,
+what we call the River, is shown. Manila has the same showdown
+rules as Omaha: both your hole cards and three from the board.
+It can be played with 3 starting cards; where you use 2 of your 3
+and three board cards to make your best hand. 
+
+Manila, especially 3-card Manila, has a fair bit in common with
+Omaha, and some of the older generation of Manila players now play
+Limit Omaha at Crown Casino; which is played Friday and Saturday
+nights there at limits of 10/20 and sometimes 20/40 or even 30/60.
+It's an expensive and cruel game, you can't bet people out of draws
+because you can only bet $20 into a $160 pot; and you have to
+keep chasing even on longshot draws because you're calling $20 to win
+a $160 pot plus an extra bet on the end. I won't say more about
+Limit Omaha in this book, I still love Limit Poker (harder and harder
+to find these days) and I try to make a few trips to Melbourne
+each year and play some FLO: Fixed Limit Omaha.
+
+Don't draw to a lower rung hand
+===============================
+
+A really good rule of thumb, which most players understand by
+instinct, is not to pay to draw to a hand on the Poker Ladder when
+a higher-rung hand is already possible. If the flop comes all Diamonds,
+don't draw to a straight; the flush could already be out and you're
+drawing dead. If there's a pair on the flop, don't draw to a flush
+because a full house could already be out there and you're drawing dead.
+On an unpaired but co-ordinated board (a "wet" board), Top Set can 
+itself be a drawing hand - you're drawing to a full house or quads and
+if the board doesn't pair it's almost impossible for your top set
+to be good - you expect you'll lose to a Straight or Flush.
+
+Redraws
+=======
+
+The really fantastic Omaha holdings have the ability to have the
+best hand on each phase of the Community, with redraws to even
+better hands. Here's one of my actual hands that illustrates
+this concept fully. I have AKsQsQ; the flop comes JsTs5. While
+at the moment my hand is just a pair of Queens, I've got a lot
+of straight outs (all of them Nut) and outs to the King-high flush
+plus two of those flush outs make me the Straight Flush. Let
+me count my straight outs: 3 Aces (I play KQ), 3 Kings (I play AQ),
+2 Queens (I play AK) and 4 Nines (I play KQ). So that's 12 outs
+to a straight (this is normally a 13-card Nut wrap but I have
+two of the Queens so in my case it's a 12-card wrap).
+
+The turn comes a Red Queen. I've now got my nut straight, [AK]QJT
+and also top set QQQ with it; giving me full house and quad
+chances on the river. If I was up against a two-pair hand like
+JT then he can now no longer beat me on the river by the 
+board pairing.
+
+The money goes all in on this street, the river comes a red 9 and
+my AK Broadway straight is good enough to scoop the money.
+Unless the Ace-high flush draw was out there, or someone
+had trips with a one-out chance of quads, there was no river card
+that could beat me.
+
+My main danger on the river was for an Ace or King to
+arrive and make a split pot with other people also making Broadway.
+
+Big straight draws are called Wraps and run so big that they can
+be a favourite on the flop against Top Set! Consider QJT8 on the
+flop K97, up against AKK4. The straight gets there is a 6,8,T,J or Queen
+arrives: 16 winners whereas the top set has 7 outs on the turn and
+10 on the river.
+
+Omaaaagh hands
+==============
+Now and then you get two players shoving all their chips in on
+a flop and it's a big hand confrontation with no big favourite and both
+players are playing the hand well. Top set against straight wrap is
+one you'll see a lot of; if the straigt wrap has flush chances to he
+becomes the favourite.
+
+I call these big Omaha hands "Omaaaagh" hands because it combines the word
+Omaha with the word AAAAGH which is what you say when you lose
+your stack with them because the Card Gods didn't do it for you
+on this runout. The word also sounds and spells a bit like OMG
+which is what you say when you see the strength of the other
+player's draw. These Omaaaagh hands are where a lot of the variance
+comes into PLO: you'll win or lose hundreds of dollars on this hand.
+I hope the Card Gods are with you.
+
+Because good players don't chase straights and flushes once
+the board is paired, it can be hard to make big money from your
+Top Set once it's become a Full House with the board pairing.
+Top Set normally jams the flop both to make money when he fills
+up and also to protect his hand against the multitude of possible draws.
+With pot limit betting, the maximum bet on the flop might not
+be big enough to chase the good draws away and the really good
+draws as we saw above can actually be the favourite to win. Jamming
+your top set and getting outdrawn is common in PLO, but you're
+still correct to jam your top set when it's the current Nuts.
+
+If your flopped sets get outdrawn over and over again you'll feel like
+you're going mad, as you go further and further broke. Sometimes
+the Omaha Card Gods are much crueller than their Texas cousins.
+
+Harrington on Cash Games Volume 1 page 82: From time to time
+a very good hand, correctly played, will cost you your whole
+stack; that's just part of big-stack poker.

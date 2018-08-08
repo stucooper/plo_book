@@ -1,0 +1,119 @@
+TROUBLE HANDS
+
+Last updated: 20180713
+
+Before we look at the hands you should play in Omaha, I'll
+warn you about some stack-killing hands you'd do well to avoid.
+
+There's a class of hands I call "Trouble Hands", some of the
+other poker literature calls these hands "Sucker hands". In Holdem
+these are high but not high enough holdings like A9, KT, QJ.
+When they flop top pair in a raised pot, making top pair
+decent kicker, they're often a long way behind top pair better
+kicker. So even when they flop decently they're Low Confidence
+Hands. They can't be bet strongly (which means they win small when
+they're ahead) and they're OK-enough to call with (which means they
+lose more when they're behind). Win small, lose big. This is the
+exact opposite of the Number One rule of gambling: Win big, lose
+small. So if you're dealt a Trouble Holding, you can save yourself
+money and some tough decisions by just folding it preflop. TAHITM.
+
+In PLO the trouble holdings are pocket pairs like 66,55,44,33,22;
+low straight connectors like 5432 and non-nut suited cards like
+Jack-high hearts, Queen-high spades and so on. These hands are
+seductive because you miss most flops and get an easy fold for 
+a tiny loss; maybe you've called $10 preflop and whiffed. Your
+stack goes from $220 to $210. No problem. Where the real problem 
+lies is when you hit a good flop and get your stack in and you're 
+still behind to a much better hand and you're smoked.
+
+You flop bottom set and lose your stack to middle set. You play 6332,
+get a 754 flop and lose your stack to T986. Your stack goes
+from $220 to Zero. Now you see the problem.
+
+In Holdem the trouble hands normally lose on kicker; in Omaha
+the troble hands lose to same-rung hands of higher rank.
+Small sets lose to medium sets lose to high sets.
+Small straights lose to medium straights lose to high straight.
+Small flushes lose to medium flushes lose to high flushes.
+
+The Deuce is a poison card in your holding. No good
+PLO holdings contain a Deuce. The only good Deuce is suited to an Ace
+and even then you wish it was a different rank, still suited to the Ace.
+In the holding AhJT2h sure you're now a nut flush chance in Hearts
+but it'd be so much better if that 2h was the Jh, Th, or 9h.
+A pair of Deuces isn't good because the only set it flops is
+bottom set, which is a Low Confidence Hand and a Stack Killer.
+
+The Trey is less poison than the Deuce, but it's still pretty toxic.
+It plays OK in the bottom straight gap rundown hands like 7653 or
+the bottom pair of 5433. You need very specific cards to flop, so
+these hands are very speculative and will be folded to most flops,
+but if you get exactly the right flop you can get a hand you can
+go to war with. Most of the time a Trey in your holding will be
+a dangler. You really won't go wrong folding any holding with a 3
+in it apart from 7653 and 5433. And you don't have to play those
+holdings either.
+
+Pocket 55 is the smallest pocket pair I can remember flopping
+the Overfull with. On a flop of 544 I won lots from two players
+who both had a four, and probably thought I had a straight draw
+chance like 567 and not the flopped overfull that I had.
+
+After you've played a lot of PLO, you develop an almost mystical
+relationship with the pocket pairs and the sets they generate.
+It's superstitious based on what pairs have been good to you and
+which haven't. Personally I find QQ sets better than KK sets.
+44 seems to have made Quads for me a lot more than any other
+pair, and it's nice at showdown to say "four fours". 
+
+Bottom set needs to Quad
+------------------------
+
+Bob Ciaffone shows a hand where a player with bottom set
+on the turnboard, currently ahead, can't win unless
+exactly his quad card comes on the river. And there's only
+four players in this hand! The other hands are top three pair
+(so other repeaters Luckboat them), two-suit flush draws and 
+big straight wraps. The hands are:
+
+AK22
+JT87h
+AsJs5c3c
+Q97d4
+
+and the turnboard is
+
+Qc9c2s4s
+
+The JT87 wrap  wins if the river is a red K,J,T or 8.
+The A53x wrap  wins if the river is a red 6,5,3 or A
+The Q94x 2 pair wins if the river is a    Q, 9 or 4
+The AJ53 spade/club draw wins if the river is black 
+  and doesn't pair the board. This includes 
+  both remaining sevens. (it must be 7s or 7c)
+The AK22 bottom set wins if (and only if) the river 
+  is the case 2.
+
+I simplified Ciaffone's example slightly by putting both
+the spade and club draw in the same holding. The take-home
+point to remember from this example is that bottom set is
+often smoked; if it isn't behind already to a better set
+it could be fading a deck of outs on the river. In this
+example, the entire deck. Every card besides the single
+quad card is a loser.
+
+Since you know in advance that low sets can be stack killers
+in Omaha, why even play low pocket pairs preflop? Wait for better
+hands and don't give your stack away when you flop
+a losing set.
+
+DOCTOR STRAIGHT FACT: I regularly win the stacks of
+players who flop the 222 bottom set, when I've got top set.
+Normally my top set is in the 99,TT,JJ,QQ range. Here
+are some of my favourite flops: Q92, J72, T52, 942. It's
+great having the bottom sets in the pot with me because
+they normally raise pot on the flop and force flush draws
+and straight draws to fold. This leaves me heads up with
+my top set as a 96% favourite or sometimes a 100% favourite.
+It doesn't get any better than that.

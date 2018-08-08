@@ -1,0 +1,294 @@
+THE PREFLOP BETTING ROUND
+
+Last Updated: 20180713
+
+There's a few common ways the betting goes preflop in
+most PLO hands. I'll mention four types, which I'll call
+Type 1, Type 2, Type 3 and Type 4. And I'll start with
+something you'll almost never see, type 0, the no-action
+preflop Round.
+
+TYPE 0: A walk for the Big Blind
+
+Every single player including the Small Blind folds preflop.
+The Big Blind wins a pot of $4 (his own $3 plus the Small Blind's
+$1). No rake is taken. This scenario occurs 0% of the time. I might 
+have seen it twice in my life. This is called a "Walk" for the
+Big Blind, a term borrowed from Baseball. If four pitches are
+outside the strike zone, a batter gets to walk to first base
+with no effort on his part.
+
+Walks happen most often when shorthanded in tournaments.
+There's big blinds, nobody wakes up with a hand and the
+small blind has junk and won't complete the bet.
+
+TYPE 1: Limpers and folders
+
+Everyone either limps for $3 or folds. 6, 7 or even 8
+runners take the flop, and the pot size is $18-$24.
+Now and then you get the family pot of 10 limpers, $30 pot.
+
+TYPE 2: Single raise, bunch of callers
+
+An early position player raises pot to $10 (or $13, $15, $16 depending
+on how many limpers there are before him) and there's a few folds
+but still a bunch of callers. 4 to 7 runners take the flop and
+the pot size is $40-$100.
+
+TYPE 3: Raise and reraise and some callers
+
+There's a bet of $10 but a reraise to $40, a few callers and it's back
+to the original $10 raiser, who could now re-raise pot to $160 or $200
+but in the end just calls the reraise to $40. 4 or 5 runners take the
+flop and the pot size is $160-$200.
+
+TYPE 4: Rereraise, the four-bet pot
+
+This situation is like TYPE 3, but the original $10 raiser does choose
+to re-re-raise, and instead of calling for $40 he makes it $150-$200 to go.
+The $40 flat callers all fold (though if one is a shortstack of $100 he
+might undercall and take his chances, making a main pot of $340 but a side
+pot of $250 or so).
+
+You might know already that a raise is a "2-bet" a re-raise a "3-bet"
+and the next raise a "4-bet" and so on. I've numbered my types the
+same way, Type 1 is everyone calling the Big Blind of $3, Type 2 is
+a 2-bet pot to $10, Type 3 a 3-bet pot to $40 and Type 4 4-bet to $120
+or more. Just like in No Limit Texas, the hole cards should be getting
+stronger and stronger the more the preflop betting escalates.
+
+Go to YouTube and look up "Vanessa Selbst Prahlad Friedman" and you'll
+see a disastrous 6-bet bluff by Selbst with J7 of diamonds in a cash
+game where she's up against Prahlad Friedman who has both red Aces!
+The pot is $1200 (6 runners, ante $100 and small blind/big blind 
+of $300/$600).
+
+Selbst puts in the first raise to $1,300 and then the betting
+between her and Friedman follows:
+
+Selbst             Friedman
+        Antes + Blinds: 1,200
+1,300    (2-bet)
+                   4,000   (3-bet)
+13,200   (4-bet, a pot sized raise: 3x4,000+1,2000)
+                   35,000  (5-bet)
+106,200  (6-bet, again a pot sized raise: 3x35,000+1,200)
+                  179,600  (7-bet all in)
+169,500  (undercall all in)
+
+The commentators expect Selbst will fold when confronted with the call
+to 35,000; the 6-bet to 106,200 is her huge mistake in the hand.
+
+The pot is $340,200 and Selbst and Friedman agree to run the board
+three times. Friedman wins all three of them.
+
+There's a huge difference between Type 3 and Type 4 hands. Try to have
+a good sense of whether the $10 raiser will come right over the top.
+Have a good sense of just how much you'll have to pay to see the flop.
+If you're not confident you can see the flop at a price right for you
+and your holding, fold as cheaply as you can.
+
+A $100 shortstack knows (just like a shortstack in Tournament NLH)
+that his best chance of winning is to beat a single hand heads-up.
+In the PLO preflop betting round, a $100 shortstack will often minraise
+again from $40 to $70, giving the main re-raiser a chance to come
+right over the top and giving the shortstack the easiest of $30
+calls and the chance to double-up-and-a-bit by beating just one hand.
+A $100 stack will sometimes just call the $40, but a nuisance raise
+or an all-in can be a better play, from her perspective. That's part
+of The Shortstack Advantage.
+
+Put a value on your hand, and adjust your thinking as the betting changes
+and new information comes in.
+Absolute trash can be folded as it isn't even worth $3. Most $3 calling
+hands are worth $10 (though if you're in the small blind for just $1 you
+can normally fold, saving yourself a nice $9 and remember you're in
+shocking position for the rest of the hand). If the $10 gets raised to $40
+you now need to consider if it'll still get raised. The worst thing
+to happen is you call the $40, not closing the betting, and it
+still gets raised again. You're now faced with the Hobson's choice
+of folding (wasting that $40 call and not even seeing the flop) or
+calling off another $100+ when you could be way behind and you're just
+hoping to catch lucky. Poker is about avoiding the tough decisions
+and you've just landed in the middle of a tough decision where both
+outcomes look bad.
+
+There's another kind of preflop betting round, unique to
+Omaha, which I call Step Raising. It's so important that I've
+written a whole chapter on it. Breifly, it's when two guys keep
+min-raising when the action comes to them, and all the callers in
+the middle get sandwiched. It's an important concept to understand
+(that's why I've given it its own chapter). A sixth kind of 
+preflop betting round, also getting its own chapter, is the Party Hands
+Preflop Betting Round, where 4 or 5 players each get their stacks 
+all-in preflop. Should you join the party?
+
+There's a few variations on the dollar amounts that don't change my
+advice substantially. Sometimes the 3-bet is from $10 to $25 and there's
+six runners to a flop of $150. Sometimes there's 3 runners in a 4-bet pot
+of $210. 
+
+You need a fair bit of table time and experience to get good at this.
+Your ideas about what hands to play and fold might be very different
+to mine. That's great - use the book as a starting point and adjust
+to your style and play the game you're comfortable with. Think about
+my Type 1,2,3,4 hands and see which hands you'd play in each 
+circumstance.
+
+TYPE 1: Play all non-trash hands. You can fold 44, 33, 22 hands if
+        you like, as they flop bottom set way too often and can
+        cost you your stack. They can't cost you your stack if you
+	don't take a flop with them in the first place.
+TYPE 2: Fold one-way hands where the only thing going is a pocket pair
+        in the 99,88,77,66,55,44,33,22 range
+TYPE 3: Fold hands with a dangler: KQJ4, TT95. Fold weirdo straight hands
+        that need too much help from the flop: hands like J975 and T865
+        where you need two perfect cards on the flop and any two-pair
+        hits will be losers.
+TYPE 4: Fold one-way nut-flush holdings. Look for Aces crackers. Fold
+        hands containing an Ace: you expect you're up against AA so
+        the Ace in your holding counts against you. Fold Badugi
+        holdings. Fold one-way high pair holdings: KK,QQ,JJ. You'll
+        often play TT as you'll usually have good backup straight
+        cards to it. Consider playing double-paired holdings and
+        double suited holdings.
+
+In Type 3 pots, Nuttability is more important than Floppability.
+There's probably still 3 or 4 runners in this pot and you'll have
+to showdown a Nut or Near-Nut hand to win. In a Type 4 pot
+Floppability is king. A Type 4 pot will often be just you against
+Aces and you can win with a weaker showndown hand like Two Pair.
+Smaller straights and flushes should also be good enough to win.
+
+When you get in a Type 4 pot, you won't have many chips left to
+bet on the flop, turn or river. Unless you get a disaster flop like
+J55 or 773 or AKT you're probably going to commit the rest of your chips.
+So a flat call preflop into a big Type 4 pot can save you a bit of money
+when the flop is horrible; while you still figure to get paid off when
+you hit. Saving a bit here and there isn't a priority in Omaha
+where the pots get huge in the blink of an eye but I still think
+it's worthwhile keeping some chips when you've taken a flop
+but the flop tells you that you just can't win. You're in a big
+pot with T986 two diamonds two heart and the flop is A44 all black.
+What can you beat?
+
+You want a hand that a lot of flops will hit hard; which is why you
+have to fold those KK,QQ,JJ one-way holdings: when they flop well
+they're winners but there's not a lot of flops that hit them hard.
+You don't want to be on the wrong side of an AA v KK all-in matchup,
+you'd remember from Holdem that AA wins 80% of the time. In Omaha
+your good side cards and extra ways to win should put you about a
+40% chance to win, twice the chance of your Holdem matchup.
+
+Since you expect
+you're up against Aces, it's better to have straight rundowns than
+a pair in your own holding. You normally crack Aces by making two
+pair, a straight or a flush, not so often by making trips to a
+pair in your holding. You also don't want an Ace in your holding,
+because that takes away your chances of making two pair and
+means you have fewer straight cards working for you.
+
+QJT9 is better against AA than QQJT. JT98 is even better because with
+QJT9 you're unlikely to get AK on the board since two of the Aces are
+out already.
+
+A one gapped straight, QJT8, is better than JT99. Why? With QJT8, a
+9 on the flop will usually flop you a big straight wrap which will
+get there a lot of the time. And there's 4 unknown 9s to come on the flop.
+But with JT99 there's only 2 unknown 9s to come on the flop and make you
+trips.
+
+The Type 3 to Type 4 Decision
+=============================
+
+It's vitally important that you play the Type 3 and Type 4 pots soundly.
+
+When you're considering calling into a Type 4 pot preflop and the
+decision is pretty marginal, add or subtract value to your holding
+based on these ideas:
+
+Add credit for 2 flush cards
+Remove lots of credit if all 4 cards are the same suit
+Add lots of credit for double suited
+Remove lots of credit for a Badugi holding
+
+Your holding shouldn't have danglers, you should have folded danglers 
+when the preflop betting went from Type 2 to Type 3.
+
+Straightedness counts for more than suitedness when trying to crack Aces,
+but suitedness is your main backup for those times when your straight
+chance doesn't flop. So you can use the presence or absence of suits
+in your own holding as a tie-breaker when you've got a close 50-50 fold
+or call decision.
+
+Some Omaha advice advocates reraising yourself when you've got an
+Aces-cracking hand with great Floppability. I don't normally play
+this way but the idea interests me. I've lost a lot of Type 3
+pots when I've beaten the Aces easily enough but come second to a player
+who I could've got out preflop had I reraised it to Type 4. Still, I've
+saved a lot of money by keeping pots at Type 3 where possible, and saving
+money when I've missed the flop. Any Omaha hand, no matter how good its
+Floppability, can miss a flop.
+
+There's Risk/Reward in any poker action. This is like calling a bet with 66 in Holdem
+and there's three to the flop which is T63. A lot of money goes in and you get
+rivered by 54 when his straight gets there, the other hand, the original preflop raiser
+has KK. If you'd reraised the KK preflop you'd have got the 54 hand out preflop and
+doubled up. But if you keep reraising preflop with 66 against higher pairs you'll
+go broke pretty quickly.
+
+If you keep the pot at Type 3, you'll save money when you whiff
+but sometimes you'll cost yourself a pot which you would've
+won had you made it Type 4 preflop.
+
+Watch your holding card by card
+===============================
+
+If you like, peek at your hole cards one-by-one as they arrive
+during the deal. You'll see if your hand is getting better or getting worse.
+If your hand converges to good straight cards, or a high pair with flush
+chances it's worth playing. If your hand has diverged and is all over
+the place, it is trash and can be folded.
+
+Say your first two cards are AhJc. That's two good hole cards, and the
+next hole card would be great if it was another heart (making you nut
+flush chances in hearts), another Ace, another Jack or another Broadway
+card. If however your first 2 cards are 83 or K5 there's not going
+to be a 3rd card which you like very often, in fact you could almost
+fold your hand now and not be making too big a mistake. You might end
+up with KQJ5 or 8763 but right now your hand sucks. And actually
+KQJ5 and 8763 suck too.
+
+Now and then your first 2 cards will be good and your holding
+will get worse as the next cards arrive. Remember 3 or 4 flush cards
+isn't as good as 2 flush cards, and three of a kind in your own holding
+is trash.
+
+SPR: Stack to Pot Ratio
+=======================
+
+You may know the concept of SPR: Stack to Pot Ratio.
+It's a measure of how big the current pot is, compared to the size
+of the remaining stacks. The bigger the pot, the more chances you'll
+take to win it, the bigger the stacks, the more careful you'll have
+to be.
+
+If you're left with fewer chips than the current pot, your only
+move is to bet all-in, or call all-in, or fold. You're getting
+better than 2 to 1 on your call so you should call with most of
+your draws and your 2 pair hands and single pair/3 overcard hands.
+There's not a lot of Poker left to be played in this hand; unless
+you whiff the flop you'll be committing your stack.
+
+You might not want to commit right now though. If you're on a draw,
+try to see the turn and river for free and you retain at least some
+bluffing power if the river doesn't complete your draw but still
+looks scary. If you'd got all in on the flop you'd get called by an overpair
+or two pair hand that would fold when the board runs out four to a straight.
+
+If you've got a marginal made hand like two pair, go all-in now. Your
+opponent might be on a draw and you've got to charge him to draw out.
+He won't commit while he's still on the draw and he might not pay
+you off on the river if he misses. So get his chips in the pot while
+you're ahead and he's still got drawing hope.
+

@@ -1,0 +1,30 @@
+STACK SIZE
+
+Last Updated: 20180715
+
+Your own stack size is an important consideration in
+each hand of PLO. If your stack is less than $40 you
+might want to add onto it, if you have chips spare
+in your pocket. You have to add on to an amount in
+the min-max buyin range of $100-$300; you can't add on
+to a total of $95, neither can you add on to a total of
+$320. 
+
+$40 is a pretty useless stack size because even if
+you triple-and-a-bit up you've still got just $140.
+Whereas if you'd added on before your triple up
+hand and still tripled up you'd now have a sweet $440.
+
+$40 just isn't enough to become a big stack, when
+you catch a winner. Once in a blue moon you'll get
+a nice 6x Party Hands win with it and turn it into
+$240, and maybe get Protection, but most of the time
+it'll quietly vanish in a pretty useless losing all-in.
+
+There is one good trick with a $40 stack, which is
+a pre-flop step-raise to a bit more; which is an invitation
+for someone with a good hand to give you protection and often
+leaves you with an easy call into a juiced pot with bonus
+dead money. 
+
+

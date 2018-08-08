@@ -1,0 +1,158 @@
+FLOP PLAY
+
+Last updated: 20180703
+
+In Holdem you normally "play it or dump it" on the Preflop Betting
+Round. In Omaha you'll be taking a lot more flops, and your
+"play it or dump it" decision often comes once you've seen the flop.
+There's still plenty of hands that you'll dump preflop, and a 
+good preflop fold of a Trouble Holding can save you your stack, 
+but a lot of the time you and plenty of other people will be taking
+a flop. In 1/3 PLO you get a lot of flops with 7 players having
+paid $3 to see a flop, or 6 players having paid $10 to see a flop.
+
+Hit, Fit or Fold
+----------------
+
+You've got to connect with the flop so strongly in Omaha. Overpairs
+aren't the winners that they are in Holdem. If someone bets the pot
+and you're wondering what to do, ask yourself this question:
+"Can I beat middle set by the turn?". If you've got good outs
+to a hand that can beat middle set, call the bet, otherwise
+fold and wait for the next hand. If you've got middle set
+or top set yourself, strongly consider a big raise. You
+could be up against a lower set who is scared of draws and
+might jam his stack in right now when he's no chance of winning.
+This is a fantastic result for you because it should wipe out
+any naked straight or flush draws that might actually beat you
+in the runout.
+
+In Holdem you might ask yourself on the flop "Can I beat 
+Top Pair/Top Kicker on the next card?" in the face of a strong 
+flop bet, but in Omaha the hands are so strong that the question 
+to ask yourself is "Can I beat middle set by the turn?".
+
+This question helps you play flush draws, straight draws and
+two pair flops well. If you've flopped top and bottom pair, or
+bottom two, you can't beat a flopped middle set by the turn
+unless the top pair repeats.
+
+When you looked at your holding preflop and you decided to play,
+you should have a good idea what a good flop for you would be.
+If you're playing QQJ8 a good flop would be QT5 or T94. If you've
+got a suited Ace a good flop would have two more cards of that suit,
+giving you a nut flush draw. 
+
+If you don't flop the cards that you'd hoped for, don't continue 
+in the hand. Another hand will be along in two minutes (TAHITM), let 
+other players fight it out for this pot.
+
+Top two pair
+------------
+
+If you've flopped top two pair, you might be ahead and you can consider
+taking down the pot right now if you can. The ranks of the top two pair
+are important. KJ on a KJ5 flop is better than A7 on A76. The KJ top two
+is likely to stay the top two on the turn, the A7 is likely to not be the
+top two cards in rank when the turn comes. KJ only loses its top two pair
+status if an Ace or a Queen turns, whereas A7 can be outdrawn if the turn
+is a K,Q,J,T,9 or 8. 
+
+Flopping top two pair in Omaha is like flopping Top Pair/Top Kicker
+in Holdem. It's a good hand, and it'll often win the pot as it is,
+but if players stick around and big money piles into the pot, it's
+got little chance of winning. In Holdem some great advice is
+"don't go broke with one pair", in PLO I suggest you "don't go broke
+with two pair".
+
+Have a look how wet or dry the flop is. Since straight wraps are
+so big in Omaha you need a widely separated flop to be convinced
+there's no good straight draws (9 outs or better) out there. There
+are very few wide flops in Omaha; K72, K82, K83, and Q72 are about
+the only ones.
+
+If the top two cards get too close (K9, Q8) you start to get
+inner wrap chances, the same as if the lower two cards are 62 or 52.
+
+You can push two pair strongly when you have a short stack, it's a good
+enough holding to get your money in with. This is like Holdem if you
+have a $70 stack on a $50 pot and you hold KJ on a flop of JT8. You might
+as well go all-in and you'll often get called by T9 and a lot of the
+time you'll double up. But if you've got a $200 stack you have to play
+it a lot more carefully.
+
+Flop texture
+============
+
+If there's plenty of players taking a flop, there's a few flop types
+that will make one player the immediate strong favourite.
+
+Paired flops
+------------
+
+On a T66 flop, whoever has a 6 will be hot favourite (it's easy for
+him to fill up, if he's not already got a full house) and sometimes
+there's two players each with a 6 (remember the Top Forty principal:
+the likelihood is that both the unknown Sixes are in the holdings)
+
+When this happens, you normally see a 80% pot sized bet from one player
+and a single caller. The betting often slows down until one of the
+players gets a full house (either on the turn or the river) and then
+betting comes alive again.
+
+Sometimes there's a third player in and there's big bets and calls
+on each of the flop, turn and river streets. This normally means
+that someone has flopped the Overfull with TT, and two other players
+holding a 6 are making crying calls trying to hit their full house
+when they're actually drawing dead. This is a fantastic result
+for the player with the overfull and sometimes he'll pick up the
+stacks of two other players, with no risk whatsoever.
+
+Flush flops
+-----------
+
+If the flop comes all of one suit, chances are good that one and possibly
+two players have each flopped the flush. Fold your straight chances,
+they won't win this hand. Often there's not much betting but one of
+the players has flopped a small flush: not enough to bet with but
+easily good enough to check/call with on the river if the pot is kept
+small. A flopped non-nut flush is a small pot hand in PLO.
+
+If you flop a set on a flush flop, try to draw cheaply and fill up.
+Take free or cheap cards if you can get them - you'll run the risk
+of losing to a lucky straight playing this way who would've folded
+had you bet, but if you start betting your sets regularly you'll
+just be giving your chips away on those times when the made flush
+is out there (and it usually is, trust me). A set on a flush
+draw is really a 7 out draw to a full house on the flop and
+a 10 out draw to a full house on the turn. 
+
+If you've flopped the nut flush yourself, bet it strong to get the
+luckbox two pair draws out (or charge them the maximum) and get
+lots of money from any smaller flushes out there. Sometimes you'll
+pick up the small flop on the pot and you'll be disappointed that
+you didn't get action. But when that happens, you wouldn't have
+got any action later in the hand anyhow.. the best that could happen
+is you get one crying call from a made straight by the river and if
+the board pairs you have to slow down in case someone's Luckboated
+you for free. Just bet it right now.
+
+It sounds weird but pot-betting your nut flush is sneakier and more
+deceptive than checking it or going for a check-raise. The hands
+that will give you action (smaller flushes, sets) might think you're
+"trying to buy it" and call you or even raise you. They might
+reason that the nut flush might be played softer in case you risk
+losing your customers. In Omaha you've got to do your own betting
+and it's better to blast off customers than it is to string them
+along and win the same small pot when they miss. It's also better
+for your image; other players at the table see you putting in big
+bets on scary flops and they know you're fearless.
+
+In Holdem you're sometimes afraid of losing your customers when
+you put bets in on the flop, so slow-playing is much more of a feature
+of that game. In Omaha you're rarely that far ahead that you
+can afford to slowplay, it's so easy to have a 2 pair hand in Omaha
+on the flop that if you give free cards and the board pairs you've
+cost youself badly. Had you bet the flop on an obvious made flush,
+the two-pair, four-out hand would've folded, but now you've cost
+yourself the pot and maybe more of your stack.

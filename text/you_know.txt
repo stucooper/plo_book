@@ -1,0 +1,45 @@
+YOU KNOW HOLDEM SO YOU KNOW OMAHA
+
+I deliberately lied in the naming of this chapter. No Limit Holdem
+and Pot LImit Omaha are very different games. Just about the only
+things they have in common are the number of betting rounds and 
+the community cards produced at each phase.
+
+  Preflop Betting
+  3 card flop produced
+  Postflop Betting
+  4th card ("turn") prouduced
+  Postturn Betting
+  5th card ("river") produced
+  Final Betting
+  Showdown
+
+Because the betting rounds are Pot Limit not No Limit, they play
+very differently. You can't shove all-in with a giant overbet and 
+take the pot down or get heads-up with one player. It's quite common
+in Omaha for 4 or even 5 players to still be live on the flop.
+
+Omaha Showdown Rules: 2+3
+=========================
+
+In Holdem you can use 2, 1 or even none of your hole cards in combination
+with the 5 community cards to make your best 5 card poker hands. If the
+final community is AKQJT, no flush possible, then everyone still in the
+hand has an unbeatable Ace-high straight (called "Broadway"). Poker
+legend has it that in the 2005 World Series Main Event, four players
+were in a hand with this board. One player bet, the next player
+raised, two Internet qualifiers folded and it ended up being a 2-way
+split not a 4-way split!
+
+In Omaha you've got to use 2 cards of your own and 3 from the Board, a
+showdown rule which I'll call 2+3. This changes the hands you can make.
+In Texas a board of T8632 four Diamonds will usually see the winner
+holding a single high Diamond. In Omaha, you need 2 Diamonds of your
+own to make the flush here. 
+
+More 2+3 confusion occurs with double-paired Boards. In Texas if I have
+AK on a board of KK884 then I have a full house AKK88. But in Omaha
+I don't - I have trip Kings. With a holding of AKQT and a board of 
+KK884 my best hand is [AK]KK8 for KKKA8. I'm showing the 2 cards I'm
+using in square brackets [] here. Once I've used my two cards there's
+no room in the board 3 to include both those KK88 to fill up.

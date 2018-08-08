@@ -1,0 +1,59 @@
+THE POKER HANDS LADDER
+
+Last updated: 20180709
+
+Here are the rungs on the Highest Five-Card Hand wins Poker Ladder. 
+I use the word "rungs" because it's such an unusual word that whenever
+you see it you know I'm talking about how strong a poker hand is.
+
+- Straight Flush
+- Four of a Kind ("Quads")
+- Full House
+- Flush
+- Straight
+- Three of a Kind ("Trips")
+- Two Pair
+- Pair
+- High Card
+
+A hand loses to any higher-rung hand, and also higher hands on 
+the same rung. Higher-rung hands are rarer 5-card poker hands. 
+Because Ace can be used in a low straight A2345 and a high straight AKQJT
+there are more straights than flushes, so flushes are higher on the ladder
+I hate this, if I could change one rule in poker, straights would beat
+flushes.
+
+In Holdem it's easier to draw to a flush than an open-ended straight since the
+flush draw has 9 outs and the open-ended straight draw has 8 outs. Luckily,
+Omaha has mega-straight draws with 9,13,17 or even 20 outs!
+
+There's an interesting discrepancy in the ranking of full houses, flushes and 
+two pairs; where the highest flush, two pair or full house wins, even though
+they're more common. The hardest two pair hand in poker to get is "threes-up"
+because the only way you can get that is with the five-card hand 3322x. 
+Whereas "Fives-up" can be got in three ways: 5544x, 5533x, 5522x. Aces-up can
+be got in 12 different ways. Same thing with "threes-full", "fives-full"
+and "Aces-full".
+
+Using the same logic, it's easier to get an Ace-high flush than it is to get 
+a 7-high flush. There's only one 6-high and 5-high flush and they're both
+straight flushes: 65432 and 5432A. There are only four 7-high 
+flushes: 75432, 76432, 76532, 76542.
+
+You might have heard of a game called "Deuce-to-Seven Lowball". It ranks 
+hands like this. Another game where low hand wins is the Seven card stud
+variation "Razz" where the nut hand is A2345 (straights and flushes don't
+count in Razz). In my opinion the Razz rankings of poker hands on the same
+rung are the truest indication of poker hand rarity.
+
+"Guess what, Stuart?" I hear you ask. "I already knew the poker hand
+rankings and I've got no interest in 1980s games like Draw Poker, Lowball and Razz.
+Get on with the Omaha content. Oh, and you forgot to tell us that Omaha is
+played with a standard 52 card deck, no jokers".
+
+Fair comment, reader. The rest of this book will be some of the best content
+on PLO Cash you can find, with special relevance to the 1/3 PLO games
+at Sydney's casino, The Star. There are mentions of No Limit Holdem
+cash concepts and whether they apply more, the same, less or not at all to
+PLO Cash games. 
+

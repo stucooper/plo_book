@@ -1,0 +1,74 @@
+BAD BEATS
+
+Updated: 20180702
+
+A lot of the bad beats in Omaha involve someone staying in a hand
+with a beaten made hand and a non-nut draw (that will lose if it
+hits) but somehow backfooring or flukeing a lucky winner in the runout.
+
+I've been the beneficiary of plenty of these. I once had T865 on a flop
+of AT6. I somehow thought my two pairs TT66 might be good, even in the
+face of furious betting action on this flop. The two other players had
+AA and TT, and the TT somehow found a fold. I didn't, but on the final 
+runout of AT674 my 85 played to make the weirdest of straights. That's
+a bad beat for the AA and a great fold by the TT. And a few hundred
+dollars for the idiot who called all-in with bottom two pair that
+was just about drawing dead against top set and middle set.
+
+I've been one-outed a few times with top set against a lower set.
+I've had AA on a flop of A94 and lost to 44 on the turn. While
+writing this book I lost QQxy to Q99x on a flop of Q98, when the
+9 came on the turn, this was still a good card for me because
+the 99 Quad player won a decent main pot but I managed to recoup
+my money in the side pot against a player who'd flopped a straight.
+If the board hadn't paired, both me and the 99 player would've lost
+to that straight, so even though the board pair made me lose a
+main pot to Quads it was still a good card for me.
+
+My craziest bad beat win was in Limit Holdem in Brisbane, where
+I held 88 to a flop of ATT. It got checked around and the turn
+was an 8. I got involved with a raising war with another player
+who held AT. The river was also an 8, and having flopped
+a great full house, and obviously not being up against AA,
+the AT had been outdrawn by perfect-perfect Quads.
+
+PLO Go Broke Flops
+==================
+
+In No Limit Holdem the main go-broke flop is set under set,
+which happens about 1% of the time you flop bottom set and even less
+when you flop middle set. With those kind of odds, you'll take your
+chances against the enemy having a better set, and unless the stacks
+are so deep that the betting goes bet/raise/raise/raise, you'll get
+all-in. If you've got 66 and the flop comes AJ6, you can commit 
+your stack and expect to be a massive favourite against AK.
+
+Hands where you jam your stack in only to still lose
+are called "Coolers". 
+
+In PLO the Cooler flop is Top full house against flopped Quads!
+I don't know the maths of this but obviously when
+you flop the overfull you expect to be the winner. Just like in
+the Holdem set-under-set case, you'll get your stack in and expect
+to be the winner.
+
+During the writing of this book I saw this go-broke cooler three times,
+and the first time I was the beneficiary. I had 66xy on a T66 flop to
+the enemy's TTxy. The other two situations (which both came in the
+same four hour session!) were KKxy losing to 88xy on a K88 flop and
+AAxy losing to JJ33 on an AJJ flop. The same player who lost AA on the
+AJJ flop once lost an Omaha hand with a straight flush. He had 9c8cxy
+on a final board with the Qc,Jc,Tc on it. Sure enough, the other player
+had AcKcxy for the Royal Flush. Wow.
+
+Holding the overfull is one of the few times in PLO
+where you're justified in value raising on the river with a non-nut
+hand, the overfull that is beaten by just one hand, Quads.
+Most of the time the bettor has the second best full house
+and is forced to call you. Taking that AJJ flop as an example, the
+bettor on a final board of AJJT8 has AJ most of the time and loses 
+JJJAA to your AAAJJ. Sometimes he's playing JT or J8 and is just
+giving his money away. Raising to get value out of lower full houses
+is the right play, even if three times a year you lose to Quads.
+If you're not raising with the overfull, you're leaving too much
+money on the table.
