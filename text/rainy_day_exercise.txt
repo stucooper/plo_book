@@ -7,19 +7,20 @@ and nothing to do, try this Rainy Day Exercise. It'll take about
 an hour but it will be an hour very well spent. You'll
 need a deck of cards and three coins; a 50 cent, 20 cent and 10 cent coin.
 
-Got all of those? Great. What we'll be doing in this exercise is
-dealing 10 Omaha holdings face up. We'll pause to have a look at
+Got all of those? Great. What you'll be doing in this exercise is
+dealing 10 Omaha holdings face up. You'll pause to have a look at
 each Omaha holding and rate it. Just by looking at Omaha holdings
-at a full table for 10 deals we'll start to find some patterns
+at a full table for 10 deals you'll start to find some patterns
 and get an idea of which holdings are good and which holdings aren't.
 
 You can read about what I think about Omaha holdings and nod-along
 with what I'm saying, but if you do this Rainy Day Exercise you'll
 see it for yourself. That's why I'm asking you to spend an hour doing it.
-You need to see it to believe it.
+You need to see it to believe it. 10 deals of 10 players, with
+a shuffle in between each deal.
 
-Lessons of Omaha holdings, full ring
-====================================
+Lessons of Omaha holdings, ten handed
+=====================================
 
 1) A suited king is often behind to a suited Ace in someone else's hand.
 In a few of my deals, KKxy double suited was beaten in both suits!
@@ -54,4 +55,5 @@ out already.
 
 Once you've picked your top 3 chances, run the board. How strong
 was the winning hand? Did you pick it? Was the winning hand
-the Nuts for this board?
+the Nuts for this board? Was the winning hand something that
+shouldn't have been played because it was a trash hand?
