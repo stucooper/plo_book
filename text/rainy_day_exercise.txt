@@ -83,12 +83,15 @@ Second best: Seat 6 (AhK92h)
 Third best:  Seat 1 (AcQT4c)
 
 Flop: 7h5h4h. This is an instant win for Seat 6, who should bet to
-protecht his hand. Hearts were the only flush suit where nobody
+protect his hand. Hearts were the only flush suit where nobody
 else had dominated flush cards, so Seat 6 won't get much action.
 
 Full runout: 5h7h4h,9d,7d. Seat 8, T987, makes a good full house
 on the end but wouldn't have stayed in the hand in the face of
-Seat 6's flop bet.
+Seat 6's flop bet. This is why you come out blasting even with
+the flopped nut flush, because if you play it slow and the board
+pairs, someone who had no business being in this pot ends up
+improbably beating you.
 
 DEAL 2
 ======
@@ -118,9 +121,9 @@ full house, using his K7 to make the better full house than the
 flopped K5 full.
 
 DEAL 3:
-Seat 1:  AQhQ3h  Seat 2: AsKh6s4h   Seat 3: AQs97s
-Seat 4:  J85h2h  Seat 5: 6c43c3     Seat 6: KcT4c3
-Seat 7:  TTc85c  Seat 8: J9d7d5     Seat 9: Js9s8s4s
+Seat 1:  AQhQ3h    Seat 2: AsKh6s4h Seat 3: AQs97s
+Seat 4:  J85h2h    Seat 5: 6c43c3   Seat 6: KcT4c3
+Seat 7:  TTc85c    Seat 8: J9d7d5   Seat 9: Js9s8s4s
 Seat 10: AK22
 
 Preflop comment: Seat 1 (AQQ3) has a nice hand with a big set chances
@@ -163,9 +166,9 @@ it can still get outdrawn. Bad luck for Seat 9 who had a really
 good starting hand but didn't connect with that dope flop.
 
 DEAL 5:
-Seat 1:  Ad8d62d   Seat 2: AsTc7c4s   Seat 3: 987h3h
-Seat 4:  Q85s3s    Seat 5: AcJcJ4     Seat 6: Qc995c
-Seat 7:  KT62      Seat 8: J954       Seat 9: Kc3c32
+Seat 1:  Ad8d62d   Seat 2: AsTc7c4s Seat 3: 987h3h
+Seat 4:  Q85s3s    Seat 5: AcJcJ4   Seat 6: Qc995c
+Seat 7:  KT62      Seat 8: J954     Seat 9: Kc3c32
 Seat 10: KsQsQ7
 
 Preflop comment: Some nice hands here, nut flush chances in
@@ -186,9 +189,9 @@ Turn: Ah. Three-pair now for Seat 1, no change to the other hands.
 River: Jh. The Straight holds for Seat 4.
 
 DEAL 6:
-Seat 1:  AcJcJ4     Seat 2: KQ7d3d    Seat 3: Ts85s3
-Seat 4:  QhTh64     Seat 5: A8c6c6    Seat 6: AsKd8d6s
-Seat 7:  QsTc9c3s   Seat 8: J952      Seat 9: Q8s7s2
+Seat 1:  AcJcJ4    Seat 2: KQ7d3d   Seat 3: Ts85s3
+Seat 4:  QhTh64    Seat 5: A8c6c6   Seat 6: AsKd8d6s
+Seat 7:  QsTc9c3s  Seat 8: J952     Seat 9: Q8s7s2
 Seat 10: Ah9h7h2
 
 Preflop comment: Seat 7 has a nice double suited hand but is
