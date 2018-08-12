@@ -135,3 +135,27 @@ Runout: Qd8d6d75d. The Straight flush gets there! On the river
 QQQ won't call much (he can't even beat a straight) but might
 make a small crying call out of frustration that his top set
 couldn't find a repeater.
+
+DEAL 4:
+Seat 1:  7h5s4h3s  Seat 2: AJ96     Seat 3: T8s86s
+Seat 4:  T432      Seat 5: J6c5c2c  Seat 6: J873
+Seat 7:  QdJTd5d   Seat 8: Th865h   Seat 9: KKsQsQ
+Seat 10: AdK93d
+
+Preflop comment: Seat 9 has the fantastic KKsQsQ and should be
+looking to pile in bets and raises preflop. He has a live
+King and a live Queen. The live King is the King of Diamonds
+so it's possible this hand will be a battle between a flopped
+set of Kings for Seat 9 against a diamond flush draw for Seat 10.
+Unplayable hands: Seat 2 (AJ96) seat 5 (J652) seat 4 (T432)
+
+Flop: 4s42s. A dope flop that makes a full house for Seat 4,
+trip 4s with an open ended straight flush draw for Seat 1,
+a King high flush draw (dead to the full house) and 2 better
+full house outs for KKQQ and not much for anyone else.
+
+Runour: 4s42s97s. The KKQQ misses the better full house, and
+the open ended straight flush draw rivers a better full house, 44477.
+This is why T432 is unplayable.. even when it gets the miracle flop
+it can still get outdrawn. Bad luck for Seat 9 who had a really
+good starting hand but didn't connect with that dope flop.
