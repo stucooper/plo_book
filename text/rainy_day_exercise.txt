@@ -1,6 +1,6 @@
 RAINY DAY EXERCISE
 
-Last updated: 20180713
+Last updated: 20180812
 
 Next time you're stuck at home on a rainy day with nowhere to go
 and nothing to do, try this Rainy Day Exercise. It'll take about
@@ -57,3 +57,33 @@ Once you've picked your top 3 chances, run the board. How strong
 was the winning hand? Did you pick it? Was the winning hand
 the Nuts for this board? Was the winning hand something that
 shouldn't have been played because it was a trash hand?
+
+Here's the results of my ten-deal Rainy Day Exercise
+
+DEAL 1
+======
+Seat 1:  AcQT4c    Seat 2: AdQT2d  Seat 3: JsJT6s
+Seat 4:  7c6c6d3d  Seat 5: K83c2c  Seat 6: AhK92h
+Seat 7:  JJ85      Seat 8: T98s7s  Seat 9: As954s
+Seat 10: Q43s2s
+
+Preflop comment: All nut flush chances are present in this deal,
+Clubs, Diamonds, Hearts and Spades. Seat 4, with a nice looking
+double-suited 7663, is dead in flushes in both suits. The two JJ
+hands (Seats 3 and 7) can't make a set; they have each other's out.
+Seat 8 (T987) looks to be a great chance, although three of the
+sixes are accounted for.
+
+Unplayable: Seat 5 (K832) and Seat 10 (Q432).
+
+Best chance: Seat 8 (T98s7s)
+Second best: Seat 6 (AhK92h)
+Third best:  Seat 1 (AcQT4c)
+
+Flop: 7h5h4h. This is an instant win for Seat 6, who should bet to
+protecht his hand. Hearts were the only flush suit where nobody
+else had dominated flush cards, so Seat 6 won't get much action.
+
+Full runout: 5h7h4h,9d,7d. Seat 8, T987, makes a good full house
+on the end but wouldn't have stayed in the hand in the face of
+Seat 6's flop bet.
