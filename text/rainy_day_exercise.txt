@@ -58,7 +58,9 @@ was the winning hand? Did you pick it? Was the winning hand
 the Nuts for this board? Was the winning hand something that
 shouldn't have been played because it was a trash hand?
 
-Here's the results of my ten-deal Rainy Day Exercise
+Here are the results of my ten-deal Rainy Day Exercise. I'll
+present each deal as is, and then draw some conclusions
+about Full Ring Omaha after the 10 deals.
 
 DEAL 1
 ======
@@ -154,8 +156,31 @@ trip 4s with an open ended straight flush draw for Seat 1,
 a King high flush draw (dead to the full house) and 2 better
 full house outs for KKQQ and not much for anyone else.
 
-Runour: 4s42s97s. The KKQQ misses the better full house, and
+Runout: 4s42s97s. The KKQQ misses the better full house, and
 the open ended straight flush draw rivers a better full house, 44477.
 This is why T432 is unplayable.. even when it gets the miracle flop
 it can still get outdrawn. Bad luck for Seat 9 who had a really
 good starting hand but didn't connect with that dope flop.
+
+DEAL 5:
+Seat 1:  Ad8d62d   Seat 2: AsTc7c4s   Seat 3: 987h3h
+Seat 4:  Q85s3s    Seat 5: AcJcJ4     Seat 6: Qc995c
+Seat 7:  KT62      Seat 8: J954       Seat 9: Kc3c32
+Seat 10: KsQsQ7
+
+Preflop comment: Some nice hands here, nut flush chances in
+Diamonds, Spades and Clubs. Seat 5 has a nice chance at a set of Jacks
+or the Club flush. Seat 10 has a great looking holding (KsQsQ7)
+but doesn't know that he's no chance of a set of Queens and his
+King-high spades are beaten by Seat 2's Ace-high spades. Hands
+that should fold here are Seat 4 (Q85s3s), Seat 7 (KT62),
+Seat 8 (J954) and Seat 9 (Kc3c32). With all the info we can see,
+we'd fold seat 10 also but don't blame him for taking a flop!
+
+Flop: 6s42s. A flopped straight and straight-flush chance for Seat 4,
+Ace high flush chance for Seat 2, King high (losing) flush chance for
+Seat 10 and 2-pair 6622 for Seat 1.
+
+Turn: Ah. Three-pair now for Seat 1, no change to the other hands.
+
+River: Jh. The Straight holds for Seat 4.
