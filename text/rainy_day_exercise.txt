@@ -87,3 +87,30 @@ else had dominated flush cards, so Seat 6 won't get much action.
 Full runout: 5h7h4h,9d,7d. Seat 8, T987, makes a good full house
 on the end but wouldn't have stayed in the hand in the face of
 Seat 6's flop bet.
+
+DEAL 2
+======
+Seat 1:  Th7d6h2d  Seat 2: Td9d94   Seat 3: Q742
+Seat 4:  Tc6c32c   Seat 5: K533     Seat 6: J65s4s
+Seat 7:  AK73      Seat 8: AsATs8   Seat 9: Q99c4c
+Seat 10: Qcjs6s5c
+
+Preflop comment: The hands here aren't as strong as in Deal 1.
+Seats 1,3,4,5 and 7 shouldn't take a flop.  Seat 10 has a
+seductive hand, double suited with two different connectors;
+QJ and 54.  Like in Deal 1, two players have the same pocket pair;
+here Seat 2 and Seat 9 both have 99.
+
+Best chance: Seat 8: AAT8
+Second best: Seat 10: QJ65
+Third best:  Seat 6:  J654
+
+Flop: KK5
+
+A dope flop to excite seats 5 and 7, if they'd stayed in. Notice
+that K533 would see a flop mostly to flop a set of threes but
+ends up flopping a full house with his unrelated cards.
+
+Runout: KK572. Seat 7 outdraws Seat 5; his AK73 making a better
+full house, using his K7 to make the better full house than the
+flopped K5 full.
