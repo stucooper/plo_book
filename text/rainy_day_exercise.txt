@@ -184,3 +184,30 @@ Seat 10 and 2-pair 6622 for Seat 1.
 Turn: Ah. Three-pair now for Seat 1, no change to the other hands.
 
 River: Jh. The Straight holds for Seat 4.
+
+DEAL 6:
+Seat 1:  AcJcJ4     Seat 2: KQ7d3d    Seat 3: Ts85s3
+Seat 4:  QhTh64     Seat 5: A8c6c6    Seat 6: AsKd8d6s
+Seat 7:  QsTc9c3s   Seat 8: J952      Seat 9: Q8s7s2
+Seat 10: Ah9h7h2
+
+Preflop comment: Seat 7 has a nice double suited hand but is
+crushed by Ace-flushes in both suits. Seat 6 has a very nice
+"suited Ace and suited King" hand that can flop well. I think
+these hands should fold: Seats 2,3,4,8,9. The other five holdings
+all look playable.
+
+Flop: JTd5d
+Top set for Seat 1, Queen-high flush chance and Open-Ended Straight Draw
+for Seat 2, bottom two pair for Seat 3, King-high flush draw and
+gutshot Broadway chance for Seat 6, QJT9 wrap for Seat 7, bottom
+two pair for Seat 8.
+
+Turn: 5c. This repeater should get the flush draws and straight draws
+out of the way and gives those no-chance two pair hands, who have
+now filled up, the chance to give all their chips to Seat 1. There
+are now fully three full houses; JJJ55, 555TT and 555JJ. The player
+with 555JJ is especially unable to put Seat 1 on a better full house
+because he'd need both the remaining Jacks to win. Which he does.
+
+River: 7c.
