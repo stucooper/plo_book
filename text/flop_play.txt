@@ -1,15 +1,15 @@
 FLOP PLAY
 
-Last updated: 20180703
+Last updated: 20180812
 
 In Holdem you normally "play it or dump it" on the Preflop Betting
 Round. In Omaha you'll be taking a lot more flops, and your
-"play it or dump it" decision often comes once you've seen the flop.
+"play it or dump it" decision often comes after you've seen the flop.
 There's still plenty of hands that you'll dump preflop, and a 
 good preflop fold of a Trouble Holding can save you your stack, 
 but a lot of the time you and plenty of other people will be taking
-a flop. In 1/3 PLO you get a lot of flops with 7 players having
-paid $3 to see a flop, or 6 players having paid $10 to see a flop.
+a flop. In 1/3 PLO there are a lot of flops with 7 players having
+paid $3 to see a flop, or 5 players having paid $10 to see a flop.
 
 Hit, Fit or Fold
 ----------------
@@ -37,15 +37,19 @@ two pair flops well. If you've flopped top and bottom pair, or
 bottom two, you can't beat a flopped middle set by the turn
 unless the top pair repeats.
 
-When you looked at your holding preflop and you decided to play,
-you should have a good idea what a good flop for you would be.
-If you're playing QQJ8 a good flop would be QT5 or T94. If you've
-got a suited Ace a good flop would have two more cards of that suit,
-giving you a nut flush draw. 
+Once you've looked at your holding preflop and decided to play,
+you'll have a good idea what a good flop for you would be.
+If you're playing QQJ8 a good flop would be Qxy or KTx or T9x.
+If you've got a suited Ace a good flop would have two more cards
+of that suit, giving you a nut flush draw.
 
 If you don't flop the cards that you'd hoped for, don't continue 
 in the hand. Another hand will be along in two minutes (TAHITM), let 
 other players fight it out for this pot.
+
+There's a lot of flops that look like they help your hand but they
+really help other people's hands a lot more. Make sure you're
+drawing to hands that will be winners if they hit.
 
 Top two pair
 ------------
@@ -125,7 +129,9 @@ had you bet, but if you start betting your sets regularly you'll
 just be giving your chips away on those times when the made flush
 is out there (and it usually is, trust me). A set on a flush
 draw is really a 7 out draw to a full house on the flop and
-a 10 out draw to a full house on the turn. 
+a 10 out draw to a full house on the turn. It gets there 20%
+of the time, but when it does get there it's just about
+unbeatable. Proceed with caution.
 
 If you've flopped the nut flush yourself, bet it strong to get the
 luckbox two pair draws out (or charge them the maximum) and get
@@ -156,3 +162,34 @@ on the flop that if you give free cards and the board pairs you've
 cost youself badly. Had you bet the flop on an obvious made flush,
 the two-pair, four-out hand would've folded, but now you've cost
 yourself the pot and maybe more of your stack.
+
+Straight flops
+==============
+
+Flops where you've got a good straight wrap are worth staying in
+the hand with; they're obviously better when the flop has
+three different suits and so there's no flush draws. If you've
+got lots of outs and your draw is so strong you can bet and raise
+it yourself, or you can just check/call. If I've got a lot of
+nut outs and lots of chips behind I like to call a bet when I've
+got players behind me.. this will get them to call as well and
+make for a nice big pot that I can bet if my draw gets there
+on the turn.
+
+If there's a straight possible on the flop and lots of money
+goes pouring in, expect at least one of the bettors, and sometimes
+both, to have the Nut straight. On a JT8 flop, with lots of
+betting action, your 9766 isn't worth it because the bettors both
+have Q9. Often the money piles in and the pot is either split
+or goes to the player who redraws to an even better hand, like
+a higher straight, flush or a full house.
+
+In extremely deep money situations it can be correct to fold
+a flopped nut straight; because the bettors have the same nut
+straight as you do and they have redraws while you don't. If
+you've got AK to a QJT flop two spades, someone with AKQT two
+spades has a very good chance of winning all your money; if
+a spade, Queen or Ten comes on the last two cards. If the board
+blanks, the pot is split. The player with the redraws to a better
+hand is said to be "freerolling"; he's getting his chips in with
+no chance of losing and a free shot at winning the entire pot.
