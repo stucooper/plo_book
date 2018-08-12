@@ -114,3 +114,24 @@ ends up flopping a full house with his unrelated cards.
 Runout: KK572. Seat 7 outdraws Seat 5; his AK73 making a better
 full house, using his K7 to make the better full house than the
 flopped K5 full.
+
+DEAL 3:
+Seat 1:  AQhQ3h  Seat 2: AsKh6s4h   Seat 3: AQs97s
+Seat 4:  J85h2h  Seat 5: 6c43c3     Seat 6: KcT4c3
+Seat 7:  TTc85c  Seat 8: J9d7d5     Seat 9: Js9s8s4s
+Seat 10: AK22
+
+Preflop comment: Seat 1 (AQQ3) has a nice hand with a big set chances
+(we can see one of his Queens is live) and high flush chances. Seat 2
+is also nice. Seat 4 (J85h2h) seat 6 (KcT4c3) and seat 10 (AK22)
+should fold.
+
+Flop: Qd8d6d. Another single-suit flop but top set for QQQ. Seat 8
+has flopped a small 9-high flush with an open-ended straight flush draw.
+In a betting situation this hand will be a battle between Seat 1 and
+Seat 8.
+
+Runout: Qd8d6d75d. The Straight flush gets there! On the river
+QQQ won't call much (he can't even beat a straight) but might
+make a small crying call out of frustration that his top set
+couldn't find a repeater.
