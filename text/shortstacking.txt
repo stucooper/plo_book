@@ -10,6 +10,7 @@ What kind of playing advice would you give him? I'd suggest that he
   - raises with these big cards preflop to thin the field and make
     for easier postflop decisions
   - set mines with 55-88, raise/call with 99-JJ, bet/raise with QQ,KK,AA,AK
+  - cash out and leave if he can get his stack above $300.
 
 There's a few poker books suggesting this strategy for beginning
 players, one of the best is "Getting Started in Hold'em" by Ed Miller.
@@ -24,6 +25,7 @@ the shortstacking approach:
   - buy in for the minimum or a bit more ($100-$175)
   - sit to the right of the most aggressive player
   - look to limp-raise or check-raise him with all your strong hands.
+  - cash out and leave if he can get his stack above $400
 
 The seat you get (if it becomes available) is called the Rolf Seat,
 after Rolf Slotboom who used and wrote all about Shortstacking.
@@ -41,3 +43,13 @@ given protection by a bigger stack who jams the flop and forces
 out other players who would've been the unlikely winner had they
 stayed in. Meanwhile the all-in shortstacker wins his main pot
 with a two-pair or set hand that the jammer loses to.
+
+This doesn't happen all the time of course, often the deepstack
+jammer wins the side pot and also the main pot with some
+huge unbeatable hand. But the protection does save the
+shortstack all-in player often enough for it to be a
+noticeable part of the shortstack's advantage. Plus,
+even when the shortstack player does lose, it's only
+cost him the amount of his short stack. It's not a crushing
+$450 loss of a big stack, it's an annoying loss of a $120
+short stack.
