@@ -1,6 +1,6 @@
 GLOSSARY
 
-Updated: 20180703
+Last updated: 20180813
 
 Most books put the glossary right at the back and you never 
 look at it very much. I'm reversing this by putting my glossary at
@@ -241,6 +241,9 @@ FREEROLL: To have the same hand as another player, but a draw
   he will at worst split the pot and has a chance of winning the
   whole pot if his hand improves.
 
+FTA: First-to-act. A lot of people use the term "out of position",
+  I prefer First-to-act.
+
 FULL BET RULE: The stipulation that if someone goes all-in for less than
   what a full raise would be, betting is not re-opened to players who
   have already bet or called up to the old high betting point. If
@@ -293,6 +296,9 @@ LOW CONFIDENCE HAND: (DRS) A made hand that is a long way from
   small pots with Low Confidence Hands (other players also haven't 
   got anything strong enough to bet so they're checking their betting 
   options just like you are) but you can't bet them with confidence.
+
+LTA: Last-to-act. A lot of people use the term "out of position",
+  I prefer Last-to-act.
 
 MEGAPOT: A huge pot, over $800 and frequently over $1000.
 
