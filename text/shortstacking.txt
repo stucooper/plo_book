@@ -1,0 +1,43 @@
+SHORTSTACKING
+
+Last updated: 20180813
+
+Imagine you've got a friend who has played some NLH Tournaments
+at the Pub/Club level and now wants to try Cash NLH at the Casino.
+What kind of playing advice would you give him? I'd suggest that he
+  - buys in for the minimum $100
+  - waits for premium pairs and high suited cards
+  - raises with these big cards preflop to thin the field and make
+    for easier postflop decisions
+  - set mines with 55-88, raise/call with 99-JJ, bet/raise with QQ,KK,AA,AK
+
+There's a few poker books suggesting this strategy for beginning
+players, one of the best is "Getting Started in Hold'em" by Ed Miller.
+As you gain more experience and poker feel you add low pairs, more
+speculative hands, bigger buyins and more positional awareness.
+
+A similar approach is possible in PLO, but it's actually a sophisticated
+approach that many experienced players use. It's called "Shortstacking"
+because it involves buyin in for a pretty small stack, relative to the
+other players and the maximum allowed buyin. Here's the essence of
+the shortstacking approach:
+  - buy in for the minimum or a bit more ($100-$175)
+  - sit to the right of the most aggressive player
+  - look to limp-raise or check-raise him with all your strong hands.
+
+The seat you get (if it becomes available) is called the Rolf Seat,
+after Rolf Slotboom who used and wrote all about Shortstacking.
+
+You know in Tournament No Limit Holdem where someone is all-in preflop
+for not much and there's three callers and all those callers check
+the flop, check the turn and check the river, to maximise the chance
+the the all-in player gets busted by one of them? That doesn't happen
+in cash games and it happens even less in PLO cash games. Busting
+players isn't important in cash (the busted player can simply rebuy)
+the most important thing is fighting over the real cash money
+that's already in the pot. So an all-in player (which
+a shortstacker will frequently be either preflop or on the flop) is often
+given protection by a bigger stack who jams the flop and forces
+out other players who would've been the unlikely winner had they
+stayed in. Meanwhile the all-in shortstacker wins his main pot
+with a two-pair or set hand that the jammer loses to.
