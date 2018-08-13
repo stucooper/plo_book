@@ -1,6 +1,14 @@
 THE HANDS RUN BIG
 
-Updated 20180813
+Updated 20180814
+
+"From time to time a very good hand,
+ correctly played,
+ will cost you your whole stack;
+ that's just part of big-stack poker".
+
+- Dan Harrington, in Harrington on Cash Games, Volume 1, page 82.
+
 
 One of the first things to understand about Omaha 
 and keep in your mind forever afterwards is that
@@ -207,7 +215,3 @@ still correct to jam your top set when it's the current Nuts.
 If your flopped sets get outdrawn over and over again you'll feel like
 you're going mad, as you go further and further broke. Sometimes
 the Omaha Card Gods are much crueller than their Texas cousins.
-
-Harrington on Cash Games Volume 1 page 82: From time to time
-a very good hand, correctly played, will cost you your whole
-stack; that's just part of big-stack poker.
