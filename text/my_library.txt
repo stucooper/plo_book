@@ -1,6 +1,6 @@
 ESSENTIAL POKER BOOKS
 
-Updated 20180713
+Updated 20180813
 
 I own over 150 books on Poker and Gambling. Unfortunately
 just having so many books doesn't make me a champion player,
@@ -16,9 +16,11 @@ Des Wilson, Ben Mezrich, Paul Mendelson
 Mike Matusow, David "Devilfish" Ulliott, Matt Maroon, Annie Duke.
 
 - No Limit Tournament books: Phil Gordon, Dan Harrington, Arnold Snyder
-John Vorhaus
+John Vorhaus, Lee Nelson, Daniel Negreanu
 
 - No Limit Cash books: Dan Harrington, Tommy Angelo, Angel Largay
+
+- All games books: Doyle Brunson, Phil Hellmuth, Lou Kreiger
 
 - Online Poker books
 
@@ -29,9 +31,9 @@ John Vorhaus
 - Omaha books
 
 I consider a few Holdem and general poker books to be authoritive
-and I've quoted from some in this book. Super/System 2 is my
-best all-round poker book, I also include the Harrington on Holdem
-three-volume series (tournaments) and the Harrington on Cash Games
+and I'm quoting from some in this book. Super/System 2 is my
+go-to all-formats poker book, I also include the Harrington on Holdem
+three-volume series (NLH tournaments) and the Harrington on Cash Games
 two-volume series (NLH cash). It doesn't matter if you don't
 own these books, but if you do you can look up some of my references
 and get a fuller sense of some NLH and betting concepts that I
@@ -45,11 +47,12 @@ who we'll meet shortly. I mentioned in the "Why Play PLO?" chapter
 that one of the PLO advantages is that there are fewer learning
 resources and they're harder to find. That means it's harder
 to work on your game than it is in NLH. This helps you as an
-Omaha player. There's probably 20 good No Limit Cash books
-that players can easily find; and only 4 or 5 good Omaha books.
+Omaha player. There's probably 10 good No Limit Cash books
+that players can easily find; and only 3 or 4 good Omaha books.
 It's harder for lazy players to catch up. They're unlikely
 to stumble across a good Omaha book just browsing
-at a bookstore.
+at a bookstore, and if they buy some Omaha books randomly online,
+they might not get the best ones for PLO Omaha High Cash.
 
 CHAMPIONSHIP OMAHA by T.J. Cloutier with Tom McEvoy
 1999, Cardsmith Publishing
@@ -63,8 +66,8 @@ winning, ABC Pot Limit Omaha.
 Unfortunately the book mixes Limit Omaha High and Limit Hi-Lo Omaha
 advice into just about every page, and also Tournament advice.
 And like Super System 1, there's a few pages on "Insurance"
-which are no longer relevant; a more modern book might provide
-good advice on running it twice.
+which are now out of date; a more modern book might provide
+good suggestions on when to run it twice.
 
 Even though there are chapters specifically on each game type,
 the authors can't help saying "in Hi-Lo you'd to this" or
@@ -79,7 +82,8 @@ to capture a bracelet. There's some world-class whingeing and
 complaining from all of the players. Special comments guy
 Norman Chad is in fine form in this show.
 The railbird action from Scott Fischman and "The Crew" is
-another highlight.
+another highlight. Look it up on YouTube (use search terms
+WSOP Razz 2004) and enjoy the action.
 
 OMAHA HOLDEM POKER by Bob Ciaffone
 1984. "Millenial edition" 1999.
@@ -124,6 +128,10 @@ are folded preflop for my liking, and in Hand Number 16 Reuben
 plays 6332 (which can't even flop MIDDLE set let alone top set)
 and loses to QJ on the runout QQ3J7. I'll revisit this book soon.
 
+Reuben's hands normally involve all the players having Megastacks,
+which isn't the case at the games I play. Once again, this is
+not an essential book to have in your PLO library.
+
 SECRETS OF PROFESSIONAL POT-LIMIT OMAHA by Rolf Slotboom
 2006. D&B Poker
 
@@ -135,10 +143,10 @@ by letting the aggressive player bet the pot and then re-raising the
 pot after a bunch of callers in the middle. Often you'll get protection
 on later streets in the hand and occasionally win because of that.
 
-For reasons I explain in the text, I recommend a min-and-a-bit buyin
+For reasons I explain in this book, I recommend a min-and-a-bit buyin
 of $150 in The Star 1/3 PLO game. This is a short enough to
 use shortstacking with, while still giving you enough chips to
-bluff with those times that you miss. Also $150 gives you good sized
+bluff with on those times that you miss. Also $150 gives you good sized
 side pots in the multi-way hands where absolute shortstacks of $100
 buyins have taken their chance. Sometimes you'll lose the main pot
 but pick up enough in the side pots to make things worthwhile. I think
@@ -172,13 +180,13 @@ POT-LIMIT OMAHA POKER: THE BIG PLAY STRATEGY by Jeff Hwang
 
 An outstanding book that shows you the starting hands needed to win
 the really huge pots at PLO. This book is one of the most fun books
-I've ever read on poker, it could be called The Joy of PLO. There's
+I've ever read on poker, it could be called "The Joy of PLO". There's
 none of the Limit Omaha High or Tournament advice that pollute
 other Omaha books. Most of the book is PLO High advice, there's
 also a lot of Limit Omaha/8 content and Pot Limit Omaha/8 content,
 which I haven't needed to read.
 
-This book is the best single PLO book on the market.
+This book is the single best PLO book on the market.
 
 POT-LIMIT OMAHA: UNDERSTANDING WINNING PLAY by William Jockusch
 2009 Two Plus Two Publishing
@@ -186,7 +194,8 @@ POT-LIMIT OMAHA: UNDERSTANDING WINNING PLAY by William Jockusch
 An even more thorough book than Jeff Hwang's, and one entirely
 devoted to PLO High Cash. It's in the familiar Two Plus Two
 font and format; it's as thorough and groundbreaking as
-David Slansky/Ed Miller's NLH book: "No Limit Holdem: Theory 
+one of the best No Limit Holdem Cash/Tournament books,
+David Slansky/Ed Miller's "No Limit Holdem: Theory
 and Practice".
 
 Like Bob Ciaffone, Jockusch can't help suggesting some game
@@ -212,6 +221,6 @@ STRATEGIES TO BEAT SMALL STAKES POT-LIMIT OMAHA by Matthias Plum
 This book has an enticing name but turns out to be entirely
 focussed on 6-max online games. It's not that suited to
 Full-Ring Live PLO. It's presented in a 28-lesson
-format (learn Omaha in a month) If you're going to play a lot of
-6-Max online you should get it.
+format (learn Omaha a lesson per day in a month). If you're
+going to play a lot of 6-Max online you should get it.
 
