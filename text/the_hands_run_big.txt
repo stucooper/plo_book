@@ -1,6 +1,6 @@
 THE HANDS RUN BIG
 
-Updated 20180713
+Updated 20180813
 
 One of the first things to understand about Omaha 
 and keep in your mind forever afterwards is that
@@ -8,7 +8,7 @@ the winning hand shown down is either the
 Nuts or the second Nuts. The hands run big.
 
 This means you've got to be very careful when you're betting or
-calling with a strong but non-nut hand and people are the
+calling with a strong but non-nut hand and
 enemies in this pot are sticking around. You could be in a lot 
 of trouble.
 
@@ -18,10 +18,10 @@ flushes to be there. In Omaha this happens all the time. Thanks to
 everyone having a 4-card holding, there's a lot more flushes out there.
 This means you've got to be very careful with non-nut flushes in the
 face of heavy betting. If you're the player lucky enough to have 
-that nut flush, you can bet it strongly and expect more action than you'd
+the nut flush, you can bet it strongly and expect more action than you'd
 get in Texas, where players are unlikely to have a Flush themselves
 and won't get heavily involved in the pot. Slow play and trapping
-is much less a factor in Omaha than it is in Texas.
+are much less factors in Omaha than they are in Texas.
 
 The Top Forty principle
 =======================
@@ -32,16 +32,17 @@ the Jack, in fact it's highly likely that both the remaining Jacks
 are in people's holdings. Because the top 40 cards of the deck
 are dealt off, the next 4 cards (burn and three-card flop) contained
 2 Jacks. The likelihood is strongest that both remaining Jacks are
-in the players' holdings.
+in the players' holdings. There's not many "dead cards" at the bottom
+of the deck, 40 of them have already been dealt to the player.
 
 In Texas ten-handed only the top 20 cards are dealt to the players,
 so on a flop of JJ3 you'll normally win with the Jack - there's a good
-chance the case Jack (4th and final) is in the bottom 28 
+chance the case (4th and final) Jack is in the bottom 28
 cards of the deck. But in PLO there's more of a chance that the 
 fourth Jack was in the top 40 cards dealt to the 
 players, not the unseen 9.
 
-So if your holding is JT96 and the flop is JJ3, you're not necessarily
+So if your holding is JT96 and the flop is JJ3, you're not automatically
 the winner here. You've really got a draw to a full house, and if
 there's someone else staying in the pot with you, he's got either
 that fourth Jack or pocket 33. And if he's got the fourth Jack,
@@ -122,7 +123,8 @@ keep chasing even on longshot draws because you're calling $20 to win
 a $160 pot plus an extra bet on the end. I won't say more about
 Limit Omaha in this book, I still love Limit Poker (harder and harder
 to find these days) and I try to make a few trips to Melbourne
-each year and play some FLO: Fixed Limit Omaha.
+each year and play some FLO: Fixed Limit Omaha. Now that I've mentioned
+Fixed Limit Omaha, I'll ignore it for the rest of the book.
 
 Don't draw to a lower rung hand
 ===============================
