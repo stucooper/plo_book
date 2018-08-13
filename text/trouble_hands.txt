@@ -1,12 +1,12 @@
 TROUBLE HANDS
 
-Last updated: 20180713
+Last updated: 20180813
 
 Before we look at the hands you should play in Omaha, I'll
 warn you about some stack-killing hands you'd do well to avoid.
 
 There's a class of hands I call "Trouble Hands", some of the
-other poker literature calls these hands "Sucker hands". In Holdem
+other poker literature calls them "Sucker hands". In Holdem
 these are high but not high enough holdings like A9, KT, QJ.
 When they flop top pair in a raised pot, making top pair
 decent kicker, they're often a long way behind top pair better
@@ -17,6 +17,12 @@ lose more when they're behind). Win small, lose big. This is the
 exact opposite of the Number One rule of gambling: Win big, lose
 small. So if you're dealt a Trouble Holding, you can save yourself
 money and some tough decisions by just folding it preflop. TAHITM.
+
+You might tell yourself "I'll flop two pair with this Queen-Jack
+and win the stack of the raiser who might have Ace-Queen or
+Ace-Jack" but that doesn't happen often enough to make up
+for all the times that you flop a single pair and get yourself
+into real trouble.
 
 In PLO the trouble holdings are pocket pairs like 66,55,44,33,22;
 low straight connectors like 5432 and non-nut suited cards like
@@ -34,10 +40,15 @@ from $220 to Zero. Now you see the problem.
 In Holdem the trouble hands normally lose on kicker; in Omaha
 the troble hands lose to same-rung hands of higher rank.
 Small sets lose to medium sets lose to high sets.
-Small straights lose to medium straights lose to high straight.
-Small flushes lose to medium flushes lose to high flushes.
+Small straights lose to medium straights lose to high straights.
+Small flushes lose to medium flushes lose to nut flushes.
 
-The Deuce is a poison card in your holding. No good
+Because all the other players have four cards as well, and because
+there's lots of other players taking the flop, the bigger and
+better hands that beat you are often out there, just waiting to
+take your stack.
+
+The Deuce is a poison card in any holding. No good
 PLO holdings contain a Deuce. The only good Deuce is suited to an Ace
 and even then you wish it was a different rank, still suited to the Ace.
 In the holding AhJT2h sure you're now a nut flush chance in Hearts
@@ -98,7 +109,7 @@ The AK22 bottom set wins if (and only if) the river
 I simplified Ciaffone's example slightly by putting both
 the spade and club draw in the same holding. The take-home
 point to remember from this example is that bottom set is
-often smoked; if it isn't behind already to a better set
+often smoked; if it isn't already behind to a better set
 it could be fading a deck of outs on the river. In this
 example, the entire deck. Every card besides the single
 quad card is a loser.
@@ -117,3 +128,17 @@ they normally raise pot on the flop and force flush draws
 and straight draws to fold. This leaves me heads up with
 my top set as a 96% favourite or sometimes a 100% favourite.
 It doesn't get any better than that.
+
+Hands get outdrawn
+==================
+
+Hands get outdrawn so much more in PLO than NLH. The best PLO
+holdings have potential to hit the best hand on the flop with
+redraws to higher-rung hands on the turn and river. When these
+hands hit the right flop, you can bet and raise big with them,
+and th3ese are the hands that win enormous pots when players
+with dominated (and losing) made hands call and give you all
+their chips. From the viewpoint of the loser he's just been
+bad-beated but from your viewpoint you had the boss hand the
+whole way and you've played it right by betting it big and
+now you're stacking up a really big pot.
