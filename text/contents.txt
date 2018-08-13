@@ -13,6 +13,7 @@ the_hands_run_big.txt
 part3_play_of_the_hand.txt
 rainy_day_exercise.txt
 trouble_hands.txt
+shortstacking.txt
 preflop_betting_round.txt
 preflop_step_raising.txt
 straddle.txt
