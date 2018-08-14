@@ -189,8 +189,9 @@ Omaaaagh hands
 Now and then you get two players shoving all their chips in on
 a flop and it's a big hand confrontation with no big favourite and both
 players are playing the hand well. Top set against straight wrap is
-one you'll see a lot of; if the straigt wrap has flush chances to he
-becomes the favourite.
+one you'll see a lot of; if the straight wrap has flush chances too then
+he is actually the favourite. Unless the board pairs, almost every runout
+will win for the drawing hand.
 
 I call these big Omaha hands "Omaaaagh" hands because it combines the word
 Omaha with the word AAAAGH which is what you say when you lose
