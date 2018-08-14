@@ -1,0 +1,89 @@
+THE CRYING BET
+
+Last updated: 20180814
+
+Most of the time in Poker you want to be Last To Act
+but there's an interesting First To Act turn or river
+play I've developed which I call the Crying Bet.
+
+A Crying Bet is a bet you make with a medium strength non-nut hand
+that you would crying call with, facing a bet from a later player.
+Omaha hands are so strong here that "medium strength" here means
+a big set, pretty strong straights or flushes.
+
+Remember that you've decided already that if you check and
+a later player bets, you're going to call that bet. You've already
+figured that out in your heart of hearts.
+
+By betting first, with your Crying Bet, you take away the
+"check behind" option from later players, who must either fold
+or call, sometimes with worse hands than yours. You thus realise
+full value for your hands.
+
+All Omaha players with any experience at all soon understand how
+strong a hand you need to have to bet on the river, and they
+soon get used to checking semi-strong hands in position on the river.
+
+Now and then I Crying Bet straight into the Nuts and lose, but remember
+I knew I was going to Crying Call anyhow. Instead of the river betting
+going Me: Check Her: Bet Me: Crying call and lose, the betting goes
+Me: Crying Bet Her: Easy call and win. I lose my stack either way.
+
+But when I'm the Crying Bet winner I win more money a lot of the time.
+Let's say I've got $70 left and there's 3 players contesting a pot
+of $200. After some action preflop, betting has gone quiet and the
+final board is KJT38. I've missed flush and full house chances
+with JT97 but I've rivered what looks to be a winning straight.
+If anyone had AQ they should've bet this earlier to protect
+their hand, Q9 could be out there to beat me but I believe I'm
+the winner here. Here's the four ways the river betting can play out.
+
+(A) I check. The other two players check. I win $185 and now have $255.
+(B) I check. One player checks, last to act bets $70, I call and
+    win and now have $325
+(C) I bet all in for $70. One player folds, another calls and I have $325.
+(D) I bet all in for $70. Both players fold and I have $255.
+
+I've taken out Star's $15 rake in my final stack size. The four
+scenarios aren't equally probably, and since I'm first to act
+I get to control whether we'll see (A)/(B) occur or (C)/(D).
+
+Remember that any competent Omaha player soon gets used to
+checking behind on the river. I'd estimate that a set will check
+behind on KJT38 80% of the time. Since I've already determined
+that I'm going to Crying Call, I can go ahead and Crying Bet.
+
+Don't crying bet with straight on flush boards. There's too much
+chance that you'll get flat called my a medium or low flush.
+
+World Class Play
+================
+
+This is my all-time favourite Crying Bet. I'm playing 8654 and
+three of us take a flop for $20 each which comes 975 two diamonds.
+Two of us check and there's a $60 pot bet from last position which I call
+and so does the third player. Turn card is a black Ten but I still
+think I'm good on T975 but now I face a $240 pot bet. I call and the
+third player undercalls for his last $110, there's now a $260 side pot
+and a main pot of $550. The river comes a repeat 7 and on the final board
+of T9775 I Crying Bet $300.
+
+"World Class play, mate" grumbles the last-position player and folds 86
+face up. I'm awarded the $260 side pot and win the main pot too,
+the all-in player having T9 for top two pair on the turn but
+no full house. Instead of having to split the two pots with the same
+straight as mine, I scoop the lot. Because I'd called the flop,
+called the turn and only come out firing on the river when the board
+paired, the last-position player put me on a full house and a
+lead-changing bet, whereas in fact this was my Crying Bet and got him
+to fold.
+
+"Yes, that one was World Class" I said.
+
+Final Crying Bet Advice
+=======================
+
+Don't overdo it. Don't start to Crying Bet in every pot
+and remember in Omaha as in Holdem it's much better to be
+In Position, Last to Act than it is to be Out of Position,
+First to Act.
