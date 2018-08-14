@@ -31,7 +31,11 @@ raised, two Internet qualifiers folded and it ended up being a 2-way
 split not a 4-way split!
 
 In Omaha you have to use 2 cards of your own and 3 from the Board, a
-showdown rule I call 2+3. This changes the hands you can make.
+showdown rule I call 2+3. Two of yours plus Three from the board.
+This changes the hands you can make.
+
+In this chapter I'll show the two cards you're using from your holding
+in square brackets, and the three board cards afterwards.
 
 In Texas a board of KQJT4 rainbow has any player with an Ace having
 the nut straight. In Omaha, you need both the Ace and another of
@@ -43,19 +47,19 @@ plays his AJ with the KQT from the board for [AJ]KQT. A third
 player with AA99 doesn't have a straight here, his best hand is
 [AA]KQJ.
 
-In Texas a board of T8632 four Diamonds will usually see the winner
+In Texas a board of T8632 four Diamonds will often see the winner
 holding a single high Diamond. In Omaha, you need 2 Diamonds of your
 own to make the flush here. The fourth flush card on the board doesn't
 change whether someone has a flush or not. If three flush cards
 come on the flop, nobody has a draw to a flush; they either have
-one already (by having two of that suit in their holding) or they 
-can't get one.
+the flush already (by having another two of that suit in their holding)
+or they can't get one.
 
 More 2+3 confusion occurs with double-paired Boards. In Texas if I have
-AK on a board of KK884 then I have a full house AKK88. But in Omaha
+AK on a board of KK884 then I have a full house KKK88. But in Omaha
 I don't - I have trip Kings. With a holding of AKQT and a board of 
-KK884 my best hand is [AK]KK8 for KKKA8. I'm showing the 2 cards I must use
-from my holding I'm using in square brackets [] here. 
+KK884 my best hand is [AK]KK8 for KKKA8. Again, I'm showing the 2 cards
+I must use from my holding I'm using in square brackets [] here.
 Once I've used my two cards there's no room in the board 3 to 
 include both those KK88 to fill up. There's only room for exactly
 three board cards in my final Five Card Hand.
@@ -77,6 +81,12 @@ is just [AK]J54 and you can't even beat a pair here. The widest gap
 you can make a straight with is a 3-gapper; they are AT, K9, Q8,
 J7, T6, 95, 84, 73, 62, 5A. Besides AT, the 3-gap hands are mostly
 trash and you need more going for your hand before you start playing them.
+
+DOCTOR STRAIGHT FACT: Years ago I played K9 to a big raise in
+No Limit Holdem. The flop came QJT. I was rubbing my hands as I
+called the re-re-raised all-in bet, and quickly gave my stack away
+to the raiser's AK. Three gappers are bad in Holdem and they're also
+bad in Omaha.
 
 Multiway hands
 ==============
