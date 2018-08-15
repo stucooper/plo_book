@@ -1,9 +1,14 @@
 THE CRYING BET
 
-Last updated: 20180814
+Last updated: 20180816
 
-Most of the time in Poker you want to be Last To Act
-but there's an interesting First To Act turn or river
+Most of the time in Poker you want to be Last To Act.
+Position is power. You get to see what the earlier players
+do before it's your action. This helps you fold when you're behind,
+bet when you're ahead, losing less money when the pot
+isn't yours and winning more when it is, by and large.
+
+Here's an interesting First To Act turn or river
 play I've developed which I call the Crying Bet.
 
 A Crying Bet is a bet you make with a medium strength non-nut hand
@@ -45,7 +50,7 @@ the winner here. Here's the four ways the river betting can play out.
 (D) I bet all in for $70. Both players fold and I have $255.
 
 I've taken out Star's $15 rake in my final stack size. The four
-scenarios aren't equally probably, and since I'm first to act
+scenarios aren't equally probable, and since I'm first to act
 I get to control whether we'll see (A)/(B) occur or (C)/(D).
 
 Remember that any competent Omaha player soon gets used to
