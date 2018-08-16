@@ -21,6 +21,7 @@ preflop_step_raising.txt
 straddle.txt
 horror_pots.txt
 flop_play.txt
+nutshotting.txt
 crying_bet.txt
 part4_live_poker_at_the_star.txt
 casino_cash_chips.txt

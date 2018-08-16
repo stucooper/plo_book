@@ -254,3 +254,6 @@ principle, or you can still try to keep things cheap. Ask yourself
 if it's likely that your river bet will be called by at least one
 player; if you think that's the case then you'd probably keep
 things cheap on the turn betting as well.
+
+In the next chapter I look at a very loose thin draw call I
+sometimes make on the flop, The Nutshot.

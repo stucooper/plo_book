@@ -1,0 +1,64 @@
+NUTSHOTTING
+
+Last updated: 20180816
+
+Everyone knows that a gutshot straight draw is a thin draw
+with just 4 outs, and unless you're getting a ridiculous
+10 to 1 on your call, you're going well against the odds.
+
+I'll sometimes take this longshot call in PLO facing a flop bet.
+Because the betting is Pot Limit, the flop bet often isn't too
+large and if I hit my magic out I'll be able to win tons more
+money. I call this "Nutshotting"- taking a gutshot draw to a
+Nut Straight.
+
+To call with a Nutshot Draw, I want as many of these conditions
+to be true
+
+1) My draw is to the Nuts, or if it hits I'm confident beyond
+   argument that my hand is the winner
+2) If I hit my draw on the turn, I have a redraw to an even nuttier hand.
+3) I have enough chips behind that if my draw hits on the turn I can
+   put in a huge bet to charge any sets and flush draws and two pair hands
+   the maximum to try and outdraw me (and hopefully miss)
+4) I have good reason to believe that if I hit, the whole pot will be mine.
+   I shouldn't be splitting this pot with the same straight.
+5) There's no board pair on the flop, and the flop isn't onesuit. Don't
+   draw to straights when higher rung hands are already possible
+6) There's some other passengers in this pot, and if I call on the flop
+   there will be a cascade of callers behind me, adding value when I hit
+   and allowing me to put in an even bigger turn bet if I hit.
+7) My hand's got a tiny bit more value then just the nutshot. I might
+   already have a pair that could luckboat by the river, or a pocket
+   pair that could spike a set. Runner-runner flush chances also
+   qualifies here.
+
+Here's an example of two Nutshot draws I took, from my session notes
+of 2nd March 2018. In the first hand I have Q776, four players have
+paid $10 to take the flop which comes Q53 two spades. I don't have
+spades myself, I've missed my 777 set and my top pair, while
+adding a bit of value to my hand, isn't going to be an unimproved winner.
+
+There's a $40 pot bet behind my check, and two callers when action returns
+to me. I'm a bit leery of the spades, but most of my Nutshot conditions
+are present. My draw is to the Nuts. If I spike the 4, I should be the
+only player with the 76 straight (I have two Sevens in my own holding).
+I've got $189 left which I can blast all in with on the turn. With three
+players along for the ride I should get paid off if I hit. Also my call
+here closes off the betting so I make the call and I'm happy I did when
+the turn comes a black Four, but it's Clubs not Spades. My $189
+jam is called by two players, one with the flush draw and the other with
+a lower flush draw and the beaten A2345 wheel straight. The river is a red
+Eight and I pull in a big pot.
+
+In my second Nutshot draw, I'm playing the co-ordinated by low
+holding of 6432. The flop comes AJ5. Normally these 9-out
+"pair one of your three cards" straight draws aren't as good as they
+look, but here my 6 gives me redraws to higher straights if I can spike
+a 2, 3 or 4 on the turn. Again I make a Nutshot call on the flop and
+here the turn is a repeat Jack, giving us the turnboard of AJ5J. I
+get out of the way as two player get their stacks in with AJxy crushing
+J5xy. This is a cooler for J5, I'll have more to say about this same
+hand in my section on two-pair hands.
+
+
