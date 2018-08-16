@@ -1,6 +1,6 @@
 GLOSSARY
 
-Last updated: 20180813
+Last updated: 20180816
 
 Most books put the glossary right at the back and you never 
 look at it very much. I'm reversing this by putting my glossary at
@@ -192,6 +192,10 @@ FADE: A board card you need to dodge because it'll make somone a better
   hand than your currently made hand. If you have AA to a board
   of AK9 two diamonds, you have to fade a diamond and maybe a
   Queen, Jack and Ten to keep the winning hand (if you don't fill up).
+
+FAT DRAW: A drawing hand that has a lot of outs. A flush draw with
+  straight outs or a wide straight draw is a fat draw. 12 outs or more
+  is a fat draw. This is the opposite of a THIN DRAW.
 
 FIFTH STREET: Old-school term for the river card and the final betting round
   which follows the river.
@@ -456,6 +460,10 @@ TAHITM: (DRS) Acronym for There's Another Hand In Two Minutes. Sounds like
   another hand coming along soon and you don't have to overcommit your
   chips to a hand when you're not a strong chance of winning.
   TAHITM so wait for the next one.
+
+THIN DRAW: A drawing hand with only a few outs. A gutshot straight
+  (4 outs, sometimes only 3 outs if there's a flush possible)
+  is a think draw. The opposite of a FAT DRAW.
 
 THREE PAIR: To match all three flop cards. Three Pair isn't a final
   five-card poker hand, but it's an intermediate poker hand that means
