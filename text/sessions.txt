@@ -30,7 +30,7 @@ of Poker and it's worse in Omaha because
 So breathe in. Look around the table, get a feel for how the game
 is going. See what patterns you can see preflop for the first
 few hands; are there five players paying $10 for a flop, are
-their some step raisers, are there deepstack nothreats? You can't
+their some step raisers, are there deadstack nothreats? You can't
 amswer any of those questions having just sat down but you should
 know the answer to all of them after ten minutes.
 
