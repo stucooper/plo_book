@@ -1,6 +1,6 @@
 ADVICE FOR NEW PLAYERS
 
-Last updated: 20180726
+Last updated: 20180816
 
 If you're new to Omaha, here's some suggestions to help you in
 your first few sessions. As you get more experienced you'll
@@ -143,11 +143,27 @@ a bet and there's two or more players who will act after you in this
 betting round.
 
 It's well worthwhile having a quick peek at the later actors before
-you make your decision. Is someone counting chips to make a call?
+you make your decision. Is someone arranging chips for a $65 call?
 Has someone lost interest and can't wait to fold? Is someone not
 touching chips but looking very focussed and interested in the action?
 
 You don't want to call a bet only to get a big raise from behind.
 If you do get raised from behind you now face the Hobson's Choice
 of forfeiting your chance at this pot or paying way too much
-to see the next card.
+to see the next card. So have a quick look at the downstream players
+and make a guess to yourself what they'll do when action is on them.
+
+This is also a great habit preflop, where you want to have a
+good idea how much it will cost you to see the flop. Sometimes
+you'll call $3 or $10 and have to surrender to later reraises,
+that's just the nature of PLO, but you don't want to call
+$40 or more and still not get to see the flop for that price.
+Preflop you have to take a second peek at earlier callers who
+are still in the hand, and think if they will re-raise when
+action returns to them or just call. You won't always get
+it right, but if you keep yourself in the habit of looking,
+you'll get it right more often.
+
+Many players (including myself) count out the right chips
+for a call before the action is on them, providing tells for
+observant players on what their action will be.
