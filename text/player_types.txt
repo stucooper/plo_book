@@ -1,6 +1,6 @@
 PLAYER TYPES
 
-Last updated: 20180703
+Last updated: 20180816
 
 Poker is a game of people and you should be adjusting your play based
 on your observations of other players in the pot. Remember that Omaha
@@ -102,7 +102,8 @@ call the deadstack and a lot of the time you'll end up heads-up anyway.
 
 The Maniacs have too much gamble in them, the Deadstacks don't have
 enough. They're rarely involved in Megapots, because they never have
-a $700 stack to commit into a huge pot in the first place.
+a $700 stack to commit into a huge pot in the first place. They're not
+very active players.
 
 Aunties
 =======
