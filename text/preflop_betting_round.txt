@@ -1,6 +1,6 @@
 THE PREFLOP BETTING ROUND
 
-Last Updated: 20180713
+Last Updated: 20180816
 
 There's a few common ways the betting goes preflop in
 most PLO hands. I'll mention four types, which I'll call
@@ -230,12 +230,13 @@ saved a lot of money by keeping pots at Type 3 where possible, and saving
 money when I've missed the flop. Any Omaha hand, no matter how good its
 Floppability, can miss a flop.
 
-There's Risk/Reward in any poker action. This is like calling a bet with 66 in Holdem
-and there's three to the flop which is T63. A lot of money goes in and you get
-rivered by 54 when his straight gets there, the other hand, the original preflop raiser
-has KK. If you'd reraised the KK preflop you'd have got the 54 hand out preflop and
-doubled up. But if you keep reraising preflop with 66 against higher pairs you'll
-go broke pretty quickly.
+There's Risk/Reward in any poker action. This is like calling a
+bet with 66 in Holdem and there's three to the flop which is T63.
+A lot of money goes in and you get rivered by 54 suited when his
+straight gets there, the other hand, the original preflop raiser
+had KK. If you'd reraised the KK preflop you'd have got 54 out preflop
+and doubled up. But if you keep reraise bets preflop in Holdem with
+66 against higher pairs you'll go broke very quickly indeed.
 
 If you keep the pot at Type 3, you'll save money when you whiff
 but sometimes you'll cost yourself a pot which you would've
