@@ -5,6 +5,7 @@ poker_ladder.txt
 glossary.txt
 flop_games.txt
 leaving_decision.txt
+sessions.txt
 my_library.txt
 part2_omaha_and_holdem.txt
 why_play_plo.txt
