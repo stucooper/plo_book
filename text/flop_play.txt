@@ -1,6 +1,6 @@
 FLOP PLAY
 
-Last updated: 20180812
+Last updated: 20180816
 
 In Holdem you normally "play it or dump it" on the Preflop Betting
 Round. In Omaha you'll be taking a lot more flops, and your
@@ -120,7 +120,8 @@ two players have each flopped the flush. Fold your straight chances,
 they won't win this hand. Often there's not much betting but one of
 the players has flopped a small flush: not enough to bet with but
 easily good enough to check/call with on the river if the pot is kept
-small. A flopped non-nut flush is a small pot hand in PLO.
+small. A flopped non-nut flush is a small pot hand in PLO, but a
+strong enough hand to check/call with.
 
 If you flop a set on a flush flop, try to draw cheaply and fill up.
 Take free or cheap cards if you can get them - you'll run the risk
@@ -141,7 +142,11 @@ you didn't get action. But when that happens, you wouldn't have
 got any action later in the hand anyhow.. the best that could happen
 is you get one crying call from a made straight by the river and if
 the board pairs you have to slow down in case someone's Luckboated
-you for free. Just bet it right now.
+you for free. Just bet it right now. And bet it from any position,
+even under-the-gun, because lower flushes won't bet
+(remember they'll check/call, not bet themselves). Don't expect
+to be able to check-raise a flopped nut flush, you have to Do
+Your Own Betting.
 
 It sounds weird but pot-betting your nut flush is sneakier and more
 deceptive than checking it or going for a check-raise. The hands
@@ -150,9 +155,13 @@ that will give you action (smaller flushes, sets) might think you're
 reason that the nut flush might be played softer in case you risk
 losing your customers. In Omaha you've got to do your own betting
 and it's better to blast off customers than it is to string them
-along and win the same small pot when they miss. It's also better
-for your image; other players at the table see you putting in big
-bets on scary flops and they know you're fearless.
+along and win the same small pot when they miss. It also protects
+your hand against scary board pairs that will either beat you by
+making someone a Luckboat, or slow down the action and win you
+the current small pot or get bluffed off in fear of a Full House.
+
+It's also better for your image; other players at the table see you
+putting in big bets on scary flops and they know you're fearless.
 
 In Holdem you're sometimes afraid of losing your customers when
 you put bets in on the flop, so slow-playing is much more of a feature
@@ -161,7 +170,8 @@ can afford to slowplay, it's so easy to have a 2 pair hand in Omaha
 on the flop that if you give free cards and the board pairs you've
 cost youself badly. Had you bet the flop on an obvious made flush,
 the two-pair, four-out hand would've folded, but now you've cost
-yourself the pot and maybe more of your stack.
+yourself the pot and probably more of your stack with a losing
+crying call just-in-case on the river betting.
 
 Straight flops
 ==============
@@ -193,3 +203,54 @@ a spade, Queen or Ten comes on the last two cards. If the board
 blanks, the pot is split. The player with the redraws to a better
 hand is said to be "freerolling"; he's getting his chips in with
 no chance of losing and a free shot at winning the entire pot.
+
+Playing a Big Draw
+==================
+
+There are two ways of playing a big draw on the flop.
+You can get as many chips in as you can, which has the
+advantage of getting paid the maximum when your draw
+comes in, but of course you lose the maximum when you miss.
+
+You'll know the No Limit Holdem concept of the Semi-Bluff;
+a bet or raise on the flop which can win the pot right now
+by causing other players to fold, or can win a huge pot later
+if there's callers and your draw gets there. Semibluffing in
+Omaha happens all the time, only the draws are much fatter than
+Holdem so you are often semibluffing with a hand that's favoured
+to win. On a fat draw, your semibluff could be called a value raise.
+
+If you do semibluff raise, you'll normally get heads up with the
+original bettor and others will drop out, although sometimes the
+flop is so wet that other players will stick around and a megapot
+will form. Have a rough but decent idea of people's stack sizes;
+some players might be undercalling all in and the dealer will take
+some time making the main pots and side pots before the river
+can be produced. You're a great chance of winning more money
+on the river if you hit, since the pot is now so huge and it
+looks like you might be trying to buy the side pot.
+
+If your draw is Nutty, I suggest you flat call a bet if someone's
+already made one, which can keep downstream players in the
+pot as well and swell the pot size that much more by the
+time the turn comes.
+
+Although having said that, getting extra players out of the hand
+is a win for you. Someone staying in a hand normally has outs
+to win, even with something as silly as hitting bottom trips on a
+turn repeater, so getting the pot down to fewer players increases
+your chances of winning this pot. The sweetest sound you can
+hear in poker is a folded player honestly complaining
+"I should have stayed in, I would've beaten you" while you're pulling
+in a huge pot you've won against the player you got heads-up with.
+
+You can take the turn card as cheaply as you can and come out blasting
+if your draw comes in, slow right down if the board pairs,
+or try to take a cheap river if the turn is a non-repeat brick.
+Sometimes the brick turn has added you extra outs, perhaps a second
+suit flush draw or more straight outs. When the happens
+you can come out betting in line with the "win the most when you hit"
+principle, or you can still try to keep things cheap. Ask yourself
+if it's likely that your river bet will be called by at least one
+player; if you think that's the case then you'd probably keep
+things cheap on the turn betting as well.
