@@ -1,6 +1,6 @@
 TROUBLE HANDS
 
-Last updated: 20180813
+Last updated: 20180816
 
 Before we look at the hands you should play in Omaha, I'll
 warn you about some stack-killing hands you'd do well to avoid.
@@ -136,9 +136,35 @@ Hands get outdrawn so much more in PLO than NLH. The best PLO
 holdings have potential to hit the best hand on the flop with
 redraws to higher-rung hands on the turn and river. When these
 hands hit the right flop, you can bet and raise big with them,
-and th3ese are the hands that win enormous pots when players
+and these are the hands that win enormous pots when players
 with dominated (and losing) made hands call and give you all
 their chips. From the viewpoint of the loser he's just been
 bad-beated but from your viewpoint you had the boss hand the
 whole way and you've played it right by betting it big and
 now you're stacking up a really big pot.
+
+Stacksavers
+===========
+
+A Stacksaver is a judicious preflop fold of a holding that
+flops well, looks like a winner, and still ends up losing.
+Because you had the discipline to fold your holding preflop
+and ditch your trouble hand, you get to keep your stack.
+
+I once folded K642, saw a frustrating flop of 644 and on the runout
+of 644JJ someone holding QQJ6 won with the best full house.
+I didn't have nearly enough chips in this hand to get anyone to
+fold, so if I'd taken the flop I would've quickly got all in with
+two callers and given away the rest of my stack.
+
+Another stacksaver was 5444; a joke holding really with no real
+set chances and only one, non-nut straight chance. Here the runout
+was J32A8, but the turn completed a flush for the winner who
+again couldn't have been forced out by betting from me on that flop.
+
+K642 and 5554 are both pretty easy preflop folds, the great thing
+in these two instances is they were stacksaving folds. The fold
+didn't save me $3, $10 or $15, the fold saved me my entire stack.
+That's a sensational result. The holdings had no Nuttability, they
+were exactly the kind of holdings that even when they flopped
+just as well as they possibly could, they lost.
