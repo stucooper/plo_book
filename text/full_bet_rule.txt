@@ -1,0 +1,83 @@
+THE FULL BET RULE
+
+Last updated: 20180816
+
+Almost ten years ago (2011) I wrote a book on Pub Poker Tournaments,
+"Winning Pub Poker". There was a chapter on Rules, quite
+detailed as Pub Poker tournaments are usually self-dealt, so I
+had to give lots of advice on action out of turn, giving change
+from the pot and other stuff you don't have to worry about in a
+professional dealt Casino Cash Game.
+
+One rule that is important in Tournaments and crucial in PLO Cash
+games is the Full Bet Rule. Here's what I wrote in "Winning Pub Poker".
+
+################################################################
+Winning Pub Poker: The Full Bet Rule
+====================================
+
+This is a rule you often see completely ignored in pub games. 
+This is part of the price you pay for playing
+in pub tournaments- they're cheap to play and you play against
+bad opponents, but rules sometimes get ignored or incorrectly applied.
+
+Even a major online site once applied this rule incorrectly in
+a cash game, and to their credit refunded the player disadvantaged
+when he pointed it out to customer support at the site concerned.
+
+Here's how the full bet rule works. A player bets. Another player 
+raises all-in for more than that bet, but less than what a minimum raise is. 
+The all-in raiser doesn't have enough chips to put in a full raise. 
+Other players call. When action returns to the original better, he 
+cannot reraise, he can only fold or call the all-in player's bet.
+
+To put some numbers in it, imagine Susan Smallblind has 10,000,
+Bill Bigblind has 4,000 and Danny Dealer has 17,000. After the flop, 
+Susan bets 2,500. Bill goes all in for 4,000 which is less 
+than a full raise. Danny calls the 4,000 and action is now back on Susan.
+Susan can now either fold or just call the 4,000. She can't go all-in 
+for her 10,000.
+
+On the other hand, if Susan had bet 2,000, Bill goes all in for 4,000
+and Danny calls the 4,000 Susan can now push all in for 10,000 since
+Bill's all-in was a full raise, re-opening the action to Susan.
+
+Since all players expect that "In No Limit Holdem you
+can bet all your chips at any time", and that's almost always true,
+application of the full bet rule is sketchy at best.
+
+Here's a single sentence that sums up the full-bet rule:
+"If it wasn't a full raise, betting is not re-opened".
+
+Poker TDA rules: "In no-limit and pot-limit, an all-in bet of less
+than a full raise does not reopen betting to a player who has already
+acted".
+
+Make sure you understand "re-open" and "already acted". It's only
+Susan who can't raise in this betting round. Danny can still go all-in for
+his 17,000 when it's his turn.
+################################################################
+
+In 1/3 PLO, the Full Bet Rule turns up a lot in the preflop betting round.
+There will be a few shortstacks in the $25-$60 range and some players
+who've just rebought for the minimum $100. These players understand that
+their best chance of doubling up is to get one on one against another
+player.
+
+The best result for a shortstack of $25 is for a big stack to raise to $10.
+The shortstack raises all-in for $25. This qualifies as a full raise
+because the betting was $3 raised to $10 so the next full raise needs to be
+to $17 or more. Now there's a bunch of callers of that $25, action returns
+to the big stack who pot raises to $180 or so. Everyone folds and the
+$25 shortstack gets to a showdown heads up against the big stack and there's
+about $110 in the pot. The shortstack can win all those $25 calls even
+though those players have been blasted out of the pot already. And the
+big stack gets a one on one shot against the short stack and only has
+to worry about one player outdrawing him.
+
+If you're considering calling an all-in shortstack preflop, make sure
+you know if the Full Bet Rule applies here. If a big stack still has
+a reraise option, you could be blasted out of the pot preflop and
+waste your call and not even see a flop.
+
+

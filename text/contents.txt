@@ -4,6 +4,7 @@ a_professional_outlook.txt
 poker_ladder.txt
 glossary.txt
 flop_games.txt
+full_bet_rule.txt
 leaving_decision.txt
 sessions.txt
 my_library.txt
