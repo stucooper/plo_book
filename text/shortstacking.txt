@@ -1,6 +1,6 @@
 SHORTSTACKING
 
-Last updated: 20180813
+Last updated: 20180816
 
 Imagine you've got a friend who has played some NLH Tournaments
 at the Pub/Club level and now wants to try Cash NLH at the Casino.
@@ -28,28 +28,54 @@ the shortstacking approach:
   - cash out and leave if he can get his stack above $400
 
 The seat you get (if it becomes available) is called the Rolf Seat,
-after Rolf Slotboom who used and wrote all about Shortstacking.
+after Rolf Slotboom who developed this style of play for his
+own game.
 
 You know in Tournament No Limit Holdem where someone is all-in preflop
 for not much and there's three callers and all those callers check
 the flop, check the turn and check the river, to maximise the chance
-the the all-in player gets busted by one of them? That doesn't happen
+the all-in player gets busted by one of them? That doesn't happen
 in cash games and it happens even less in PLO cash games. Busting
 players isn't important in cash (the busted player can simply rebuy)
 the most important thing is fighting over the real cash money
-that's already in the pot. So an all-in player (which
+that's already in this pot. So an all-in player (which
 a shortstacker will frequently be either preflop or on the flop) is often
 given protection by a bigger stack who jams the flop and forces
-out other players who would've been the unlikely winner had they
+out other players who would've ended up an unlikely winner had they
 stayed in. Meanwhile the all-in shortstacker wins his main pot
-with a two-pair or set hand that the jammer loses to.
+with a two-pair or a set that the jammer loses to.
 
 This doesn't happen all the time of course, often the deepstack
 jammer wins the side pot and also the main pot with some
-huge unbeatable hand. But the protection does save the
+monster unbeatable hand. But the protection does save the
 shortstack all-in player often enough for it to be a
 noticeable part of the shortstack's advantage. Plus,
 even when the shortstack player does lose, it's only
 cost him the amount of his short stack. It's not a crushing
 $450 loss of a big stack, it's an annoying loss of a $120
 short stack.
+
+Protection means that the shortstacker is playing for a pot
+that's larger than the money he's had to put in, relative
+to the number of players he has to beat. He could be all in
+for $30 into a $120 pot, but only has to beat 2 other players
+(a third $30 caller has since been blasted off because of further
+jamming by the still-active players). In extreme cases an all-in
+player could be getting 6 to 1 on his money and only have
+to beat a single player heads-up. That's an excellent result
+for the shortstacker.
+
+Just because a player is making min buyin after min buyin doesn't
+mean that's he's using or understanding the Shortstacking approach.
+He could simply be running bad and doesn't want to lose
+big buyin after big buyin, he'll take four more $100 shots
+and if none of them work he's done for the night. Playing this
+way instead of trying two $200 shorts or a $300 shot followed
+by a $100 shot is smart money management and maximises the
+number of buyins that can come good.
+
+I've seen a lot of passive players make these min buyins and
+some of them call preflop bets to $10, $20 or $40 and they're
+using at least one fifth of their stack each time. These
+are like passive tournament players who let their stack get
+too small before taking a stand, I call them deadstack nothreats.
