@@ -230,7 +230,7 @@ Forums and YouTube Videos
 In the last few years there's been an explosion of poker videos
 on YouTube. The most successful YouTube poker personality is
 Doug Polk, whose specialty is Heads Up No Limit Holdem. Polk
-has a commercial poker training site, upswingpoker.lab.
+has a commercial poker training site, upswingpoker.com.
 There have been a few of these over the years, including
 "Card Runners" and "Card Academy".
 
@@ -240,4 +240,9 @@ book, the YouTube videos are mostly geared towards succeeding
 in the online environment.
 
 From a Internet message board/posting point of view, the Two Plus Two
-forums are the best regarded.
+forums are the best regarded. They're
+at https://forumserver.twoplustwo.com. Years ago there was an active
+Australian poker forum which I used and contributed to very
+actively, called PokerNetwork. Sadly it's no longer
+active, though the old posts can still be
+found at http://www.pokernetwork.com/forums/main-noticeboard/
