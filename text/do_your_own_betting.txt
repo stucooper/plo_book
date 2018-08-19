@@ -1,0 +1,100 @@
+DO YOUR OWN BETTING
+
+Last updated: 20180819
+
+In No Limit Holdem, you need to slowplay and trap your opponents.
+There's sometimes only two or three players still active on the flop,
+and if you bet your big hands too big on the flop you risk everyone
+folding and winning a small pot.
+
+Pot Limit Omaha is not the trapping game that No Limit Holdem is.
+There's three important reasons for this.
+
+1) There's normally more than three players still active on the flop.
+   More players means there's more chance that someone's also connected
+   well with the flop, and will call your big bets and give you action.
+
+2) Each player has four cards not two cards. Players can have a primary
+   draw with a backup draw. If the board pairs, it's very easy for a
+   player who was staying in with a different draw to make a full house
+   using other cards in his holding.
+
+3) As the betting is Pot Limit, you can't blast players out of the pot
+   on the flop with an oversized bet. The worst immediate odds a player
+   is getting on a flop call is 2 to 1. If the pot is $70 and you bet
+   the pot of $70, the first player is being presented with a call of
+   $70 to win a pot of $140, 2 to 1.
+
+Computer people, especially those who've worked in accounting, will
+know the popular accounting software MYOB (Mind Your Own Business).
+I'm going to introduce you to a crucial aspect of Omaha: DYOB.
+It stands for Do Your Own Betting. Don't wait or expect someone
+else to bet for you, do it yourself.
+
+Like a lot of poker advice you can sometimes vary from this approach,
+but normally your best course of action is to bet your big hands
+and bet them big. Protect your big hands. You'll win bigger pots
+when your opponents call with their worse hands or their draws and they
+miss. If everyone folds to your bet, that's still a good result, you
+might have got a bad two pair hand to fold that would have made a
+long-odds full house on the turn. Winning huge pots is fantastic, winning
+small pots is great, losing small pots is OK, losing huge pots is a
+disaster.
+
+One of the worst plays in Omaha is checking the flop when you should
+have bet, betting the turn which has now made it attractive for
+a player to call and then losing a big pot on the river. Had you
+simply bet the flop, you would've picked up the pot then and there.
+That's exactly the pattern I'll show you in the following
+Badly Played Hand
+
+Badly played hand: August 2018, Star City 1/3 PLO
+=================================================
+
+I'm in the hijack seat with A982, with the A2 both being clubs.
+It's bet to $10, a few of us call, the button raises to $35 and
+there's five callers to a flop of $165. Everyone has $200-$500 stacks.
+
+I'm 4th of 5 to act postflop, giving me great absolute position
+and great relative position to the preflop bettor. The flop comes
+A83, giving me top two pair. Three players check to me and I also
+check, thinking I'll check-raise all-in after the button bets. This
+plan doesn't work, because the button checks too and all five
+players are alive to the turn. The turn comes a Queen.
+
+There's three more checks to me and now I think it's time to
+come out betting and I bet $160. The button quickly folds and
+so do two other players but after a long, long think, the player
+to my right calls the $160, leaving him about $85 behind. Heads up
+to the river which is a 9.
+
+I've now improved slightly to a better two pair, AA99, but on this
+final board of A83Q9, First to Act is all in for $87. I call and
+he shows his holding is JT96 and he's made the nut straight,
+QJT98.
+
+By not betting on the flop, I keep JT96 in the hand. If he'd faced
+a bet of $160 on the flop of A83, he'd have folded JT96 in a heartbeat
+because he's only got runner-runner straight outs. But when the
+turn came the Q, on the turn he's got a QJT98 9-out inside wrap; plus
+a King will give him Broadway with his JT. I think that's why he
+took so long on the call; he might have folded with the inside wrap
+but when he realised the King was another nut out for him his 9-out
+draw became a 13 out draw, all of them nut. He might still be just
+under the 33% chance expressed chance he needs even with a 13-out
+draw but I can't blame him for calling on the turn. The only
+person I can blame in this hand is myself. I didn't Do My Own Betting.
+
+What card was I hoping for on the turn? If the A or 8 pairs, I get no
+action with my top full house, if the 3 pairs I'm possibly losing
+to bottom trips and might pay off a bet with a lousy 4-out full
+house draw and if the some other card comes, it might look
+innocuous but might make someone else's hand have a zillion outs going
+to the river. That's exactly what happened in this case.
+
+One major problem in my thinking during this hand was hoping that
+the Button would bet this flop for me. The button probably had a
+hand like KKQT and is in no way excited by a nothing flop of A83.
+When you're 4th out of 5 to act, your chances for check-raising
+are very bad after three checks in front of you. Simply Do Your
+Own Betting.
