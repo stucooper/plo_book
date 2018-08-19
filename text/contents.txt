@@ -12,6 +12,7 @@ part2_omaha_and_holdem.txt
 why_play_plo.txt
 omaha_is_not_holdem.txt
 the_hands_run_big.txt
+do_your_own_betting.txt
 part3_play_of_the_hand.txt
 rainy_day_exercise.txt
 trouble_hands.txt
