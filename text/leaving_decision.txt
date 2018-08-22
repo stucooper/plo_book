@@ -1,6 +1,6 @@
 THE LEAVING DECISION
 
-Last updated: 20180709
+Last updated: 20180822
 
 Cash poker has an important element that Tourment Poker doesn't,
 the Leaving Decision. In a tournament you have to play until you bust, or
@@ -170,4 +170,66 @@ Remember that as advantage gamblers we win by making better
 decisions than the other players. The Leaving Decision is another
 decision we can be better at than our enemies. The Leaving
 Decision is entirely within your control. Make the best
-Leaving Decision you can.
+Leaving Decision you can. If you're making bad leaving decisions,
+have a think about your Leaving Decision Strategy and what mistakes
+you might have made and what improvements you can make to it for
+future sessions. You should be improving your poker game all the time
+and improving your leaving decision is a vital part of that.
+
+For the rest of this chapter I'll suggest a few leaving decision
+strategies. You need to adopt these ideas and vary them into
+something that works for you; maybe some ideas from Strategy A
+mixed with Strategy B mixed with some ideas of your own.
+
+Strategy A: $1000 this buyin
+----------------------------
+
+One method worth trying is to try and play each of your $150 buyins
+up to $1000. Once your buyin gets around the $1000 amount
+(in the $870-$1100 range) have a good think about your chip position
+and whether it's time to call it a night.
+
+For simplicity of this table, I'll assume each of your buyins is a
+fixed $150 and you win 3 good hands in 40 minutes and your stack is
+now $100.
+
+Buyin     In-for   Session position      Feeling
+  1         150         +850             Blissful
+  2         300         +700             Happy
+  3         450         +550             Satisfied
+  4         600         +400             Persistent
+  5         750         +250             Justified
+  6         900         +100             Deserved
+  7        1050          -50             Take a small loss?
+  8        1200         -200             Take manageable loss?
+  9        1350         -350             Keep going
+ 10        1500         -500             Push on
+
+My Feeling comments in the final column are very subjective, you'll feel
+quite different to me and I haven't taken into account the table dynamics
+which I'll look at in a later strategy.
+
+There's a few downsides to my strategy, the worst being when you're $600
+up on your first buyin but then get bad beated and end up losing $1200
+when you could've walked away a $600 winner. If you like you can adjust
+the table with a "leave for" column, like this:
+
+Buyin     In-for   Leave if stack hits    For a profit of
+  1        150          750                   +600
+  2        300         1000                   +700
+  3        450          900                   +450
+  4        600         1000                   +400
+and so on.
+
+It's easier to play Omaha with a smaller stack than it is with a huge
+stack. If you lose $150 in a party hand which ends up being a pot
+of $590 to the winner it's only cost you that $150, but if you had
+a big stack of $1150 it might cost you $150 into the main pot and
+another $280 into a side pot against the eventual winner. You
+stack has gone from $1150 to $720 and all of a sudden you're
+on tilt and at risk of giving away the rest of your money unless
+you hit some power hands, which doesn't always happen in Omaha
+and certainly doesn't if you've lost your patience.
+
+Strategy A recognises and reinforces my advice on how to play
+a big stack in Cash Poker: Cash it out!!
