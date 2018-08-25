@@ -1,6 +1,6 @@
 GLOSSARY
 
-Last updated: 20180816
+Last updated: 20180825
 
 Most books put the glossary right at the back and you never 
 look at it very much. I'm reversing this by putting my glossary at
@@ -271,6 +271,10 @@ GUTSHOT-GUTSHOT: An improbable straight made RUNNER-RUNNER.
 HAND: A full deal of poker. Sometimes this term means the four unique
   hole cards you are dealt, but in this book I call your four hole cards
   your HOLDING
+
+HEATER: A hand where you make lots of money, a series of these
+  hands in a short space of time makes you win tons of money in a Rush.
+  The opposite of COOLER, Sense 1.
 
 HOLDEMITE: (DRS) A player who is new to Omaha, whose primary game and
   poker experience so far has been in No Limit Holdem.

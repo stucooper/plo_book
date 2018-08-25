@@ -1,6 +1,6 @@
 DO YOUR OWN BETTING
 
-Last updated: 20180819
+Last updated: 20180825
 
 In No Limit Holdem, you need to slowplay and trap your opponents.
 There's sometimes only two or three players still active on the flop,
@@ -21,15 +21,17 @@ There's three important reasons for this.
 
 3) As the betting is Pot Limit, you can't blast players out of the pot
    on the flop with an oversized bet. The worst immediate odds a player
-   is getting on a flop call is 2 to 1. If the pot is $70 and you bet
-   the pot of $70, the first player is being presented with a call of
-   $70 to win a pot of $140, 2 to 1.
+   is getting,facing a single pot bet is 2 to 1. If the pot is $70 and
+   you bet the pot of $70, the first player is being presented with a
+   call of $70 into a pot of $140, 2 to 1. Of course is a second player
+   raises, other players in this pot aren't getting 2 to 1, they're
+   getting worse odds.
 
 Computer people, especially those who've worked in accounting, will
 know the popular accounting software MYOB (Mind Your Own Business).
-I'm going to introduce you to a crucial aspect of Omaha: DYOB.
-It stands for Do Your Own Betting. Don't wait or expect someone
-else to bet for you, do it yourself.
+Do Your Own Betting is such a crucial aspect of Omaha it
+gets its own shorthand acronym: DYOB. Do Your Own Betting.
+Don't wait or expect someone else to bet for you, do it yourself.
 
 Like a lot of poker advice you can sometimes vary from this approach,
 but normally your best course of action is to bet your big hands
@@ -39,7 +41,7 @@ miss. If everyone folds to your bet, that's still a good result, you
 might have got a bad two pair hand to fold that would have made a
 long-odds full house on the turn. Winning huge pots is fantastic, winning
 small pots is great, losing small pots is OK, losing huge pots is a
-disaster.
+disaster. If you don't DYOB, you set yourself up for losing huge pots.
 
 One of the worst plays in Omaha is checking the flop when you should
 have bet, betting the turn which has now made it attractive for
