@@ -38,3 +38,4 @@ scenarios.txt
 songlist.txt
 part6_moving_on.txt
 becoming_a_better_player.txt
+four_card_odds.txt

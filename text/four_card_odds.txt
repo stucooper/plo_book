@@ -1,0 +1,120 @@
+FOUR CARD HOLDING ODDS
+
+Last updated: 20180825
+
+I have a Maths degree as well as a Computer Science degree and
+although my day job is in Computers, I retain an interest and
+skill in Maths. This chapter is about some maths and probability as it
+applies to Poker and especially to Omaha.
+
+The maths field this comes from is Combinatorics, which is a fancy
+word meaning the science of combinations. It comes from the
+field of Maths called Discrete Mathematics, the mathematics
+of numbers and normal quantities, which is a separate field
+to Calculus, the maths of the infinitessimally small.
+
+Four card holdings
+==================
+
+When you get a four card holding it can arrive in 24 different ways.
+If you've got AT73 all clubs you can arrange them left to right in
+all of these different ways:
+
+AT73      TA73          7AT3         3AT7
+AT37      TA37          7A3T         3A7T
+A7T3      T7A3          7TA3         3TA7
+A73T      T73A          7T3A         3T7A
+A3T7      T3A7          73AT         37AT
+A37T      T37A          73TA         37TA
+
+Because the order of your four card holding isn't important and
+can be arranged in 24 different ways, the number of unique
+Omaha holdings is (52x51x50x49)/24 = 270,725. There are
+over two hundred and seventy thousand different four-card
+combinations you can be dealt in Omaha.
+
+Number of Badugi holdings = (52x39x26x13)/24 = 28561.
+This is worked out as follows: the first card you peek at can be anything,
+it's a Diamond. The next card you peek at has to be one of the three
+other suits, there's 39 of them. So 52*39 choices for the first two cards.
+The third card has to be one of the remaining two suits (26 of them)
+and the fourth card one of the fourth and final suit (13 of those).
+So there are 28561 Badugi holdings, which is 10.5% of the 270,725
+total holdings. So 9 times out of 10, your hand will have at 
+least two of a suit.
+
+The Badugi holdings calculation, done by hand, cancels
+out to 13x13x13x13. This makes sense because in a Badugi
+holding you must have one club (pick one of 13) one spade
+(pick one of 13) one heart (pick one of 13) and one diamond
+(pick one of 13) and the number of ways of doing that
+is 13x13x13x13. Sometimes when working out these probabilities
+you come up with an answer that can be arrived at in
+two different ways.
+
+The turnboard is another random four card combination so these
+probabilites apply to it as well. The turnboard will have no flush
+chances only 10% of the time. 9 times out of 10, a flush draw will
+be possible on the turn.
+
+Number of all-cards-same-suit holdings = (52*12*11*10)/24 = 2,860 = 1%
+
+Number of three-of-a-suit, one offsuit holdings
+ = 4 x number of ways of picking 3 cards from a suit x 39 (offsuit cards)
+ = 4 x (13x12x11)/6 x 39
+ = 4 x 286 x 39
+ = 44,616
+
+Number of double-suit holdings: (aabb)
+  = number of pairs from a suit
+     x number of pairs from a suit
+     x number of suitpairs
+
+  To get a pair from a suit, you can do that in (13x12)/2 ways, 78 ways.
+
+  Now the number of suitpairs is 6:
+  Hearts/Diamonds, Hearts/Clubs, Hearts/Spades
+  Diamonds/Clubs,  Diamonds/Spades, Clubs/Spades
+
+  So the number of double suit holdings
+  = 78 x 78 x 6
+  = 36,504
+
+It's odd that there's less double-suited holdings than three-to-a-suit
+holdings. This is because the double-suited holdings are "tight",
+there's no room for extra cards. With the three-to-a-suit holdings,
+there's a fourth offsuit card that can be any of 39 fourth cards.
+So there are 39 Ac5c2c triple suited holdings, because the fourth
+card can be any heart, diamond or spade.
+ 
+Number of two-of-a-suit, two others
+  = 4 suits x number of ways of pair in a suit
+    x number of ways of other two cards being offsuit
+
+  We know already the number of ways of getting a pair from a suit
+  is 78. The number of ways of getting the two offsuit cards
+  is (39 x 26)/2; the first offsuit card has to be one of three offsuits
+  and the final offsuit card has to be one of two offsuit, different
+  from the first offsuit. We divide by 2 because order is unimportant.
+  If our suited cards are hearts, our offsuit cards might be
+  the 5 of clubs and the 8 of diamonds.
+
+So number of aabc hands
+  = 4 x 78 x 39 x 13
+  = 158,184
+
+Let me summarise the results of four-card suit
+
+Name     Type     Combinations  Percentage   Frequency
+4-suit   aaaa          2,820       1.06%       1 in 100
+3-suit   aaab         44,616      16.48%       1 in 6
+2-suits  aabb         36,504      13.48&       1 in 7
+1-suit   aabc        158,154      58.43%       3 in 5
+Badugi   abcd         28,561      10.54%       1 in 10
+TOTALS               270,725      99.99%
+
+Number of quad holdings = (52*3*2*1)/24 = 13. This is another
+result that doesn't need fancy multiplication and division,
+there are so few four card quad holdings you can list them:
+2222,3333,4444,5555,6666,7777,8888,9999,TTTT,JJJJ,QQQQ,KKKK,AAAA;
+there they all are, there's 13 of them.
