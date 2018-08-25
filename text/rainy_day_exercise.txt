@@ -1,9 +1,11 @@
 RAINY DAY EXERCISE
 
-Last updated: 20180813
+Last updated: 20180825
 
 Next time you're stuck at home on a rainy day with nowhere to go
-and nothing to do, try this Rainy Day Exercise. It'll take about
+and nothing to do, try this Rainy Day Exercise. Stop looking
+at the Apps on your mobile phone and spend a while disconnected
+from everyone else. The Rainy Day Exercise will take about
 an hour but it will be an hour very well spent. You'll
 need a deck of cards and three coins; a 50 cent, 20 cent and 10 cent coin.
 
@@ -16,16 +18,17 @@ and get an idea of which holdings are good and which holdings aren't.
 You can read about what I think about Omaha holdings and nod-along
 with what I'm saying, but if you do this Rainy Day Exercise you'll
 see it for yourself. That's why I'm asking you to spend an hour doing it.
-You need to see it to believe it. 10 deals of 10 players, with
-a shuffle in between each deal.
+You need to see it to believe it. And when you see it for yourself,
+the message will really sink in. So you're going to do 10 deals
+to 10 players, with a shuffle in between each deal.
 
 Lessons of Omaha holdings, ten handed
 =====================================
 
 1) A suited king is often behind to a suited Ace in someone else's hand.
 In a few of my deals, KKxy double suited was beaten in both suits!
-Remember this important fact - a suited King is often losing and
-can lose big to the nut flush if the flush comes.
+Remember this important fact - a suited King is often already behind and
+will lose big to the nut flush if the flush comes.
 
 2) A player with a pocket pair often has no chance of making a set,
 because the cards he needs are in the other holdings and can't
@@ -91,7 +94,8 @@ on the end but wouldn't have stayed in the hand in the face of
 Seat 6's flop bet. This is why you come out blasting even with
 the flopped nut flush, because if you play it slow and the board
 pairs, someone who had no business being in this pot ends up
-improbably beating you.
+improbably beating you. When someone turns a nothing hand into
+a full house, I call it "luckboating".
 
 DEAL 2
 ======
@@ -100,7 +104,8 @@ Seat 4:  Tc6c32c   Seat 5: K533     Seat 6: J65s4s
 Seat 7:  AK73      Seat 8: AsATs8   Seat 9: Q99c4c
 Seat 10: Qcjs6s5c
 
-Preflop comment: The hands here aren't as strong as in Deal 1.
+Preflop comment: Besides Seat 8's single suited Aces AAT8, the hands
+here aren't as strong as in Deal 1.
 Seats 1,3,4,5 and 7 shouldn't take a flop.  Seat 10 has a
 seductive hand, double suited with two different connectors;
 QJ and 54.  Like in Deal 1, two players have the same pocket pair;
@@ -115,6 +120,12 @@ Flop: KK5
 A dope flop to excite seats 5 and 7, if they'd stayed in. Notice
 that K533 would see a flop mostly to flop a set of threes but
 ends up flopping a full house with his unrelated cards.
+This happens a lot in Omaha, even when you've got Aces you sometimes
+end up using your other two cards, a lot of the time you're in a big
+pot with AA86 and end up using the 86 to make a straight. There's
+Good Aces and Bad Aces, the Good Aces have a few more possibilities
+(nut flush draws, straight chances) going in their side cards
+compared to the Bad Aces (AA72 Badugi is a Bad Aces hand).
 
 Runout: KK572. Seat 7 outdraws Seat 5; his AK73 making a better
 full house, using his K7 to make the better full house than the
