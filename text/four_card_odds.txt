@@ -36,7 +36,7 @@ combinations you can be dealt in Omaha.
 Number of Badugi holdings = (52x39x26x13)/24 = 28561.
 This is worked out as follows: the first card you peek at can be anything,
 it's a Diamond. The next card you peek at has to be one of the three
-other suits, there's 39 of them. So 52*39 choices for the first two cards.
+other suits, there's 39 of them. So 52x39 choices for the first two cards.
 The third card has to be one of the remaining two suits (26 of them)
 and the fourth card one of the fourth and final suit (13 of those).
 So there are 28561 Badugi holdings, which is 10.5% of the 270,725
@@ -57,7 +57,7 @@ probabilites apply to it as well. The turnboard will have no flush
 chances only 10% of the time. 9 times out of 10, a flush draw will
 be possible on the turn.
 
-Number of all-cards-same-suit holdings = (52*12*11*10)/24 = 2,860 = 1%
+Number of all-cards-same-suit holdings = (52x12x11x10)/24 = 2,860 = 1%
 
 Number of three-of-a-suit, one offsuit holdings
  = 4 x number of ways of picking 3 cards from a suit x 39 (offsuit cards)
@@ -113,7 +113,7 @@ Name     Type     Combinations  Percentage   Frequency
 Badugi   abcd         28,561      10.54%       1 in 10
 TOTALS               270,725      99.99%
 
-Number of quad holdings = (52*3*2*1)/24 = 13. This is another
+Number of quad holdings = (52x3x2x1)/24 = 13. This is another
 result that doesn't need fancy multiplication and division,
 there are so few four card quad holdings you can list them:
 2222,3333,4444,5555,6666,7777,8888,9999,TTTT,JJJJ,QQQQ,KKKK,AAAA;
