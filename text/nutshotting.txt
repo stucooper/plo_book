@@ -1,6 +1,6 @@
 NUTSHOTTING
 
-Last updated: 20180816
+Last updated: 20180826
 
 Everyone knows that a gutshot straight draw is a thin draw
 with just 4 outs, and unless you're getting a ridiculous
@@ -12,8 +12,8 @@ large and if I hit my magic out I'll be able to win tons more
 money. I call this "Nutshotting"- taking a gutshot draw to a
 Nut Straight.
 
-To call with a Nutshot Draw, I want as many of these conditions
-to be true
+To call with a Nutshot Draw, I want as many of the following conditions
+to be true as possible:
 
 1) My draw is to the Nuts, or if it hits I'm confident beyond
    argument that my hand is the winner
@@ -28,10 +28,10 @@ to be true
 6) There's some other passengers in this pot, and if I call on the flop
    there will be a cascade of callers behind me, adding value when I hit
    and allowing me to put in an even bigger turn bet if I hit.
-7) My hand's got a tiny bit more value then just the nutshot. I might
+7) My hand's got a bit more value then just the nutshot. I might
    already have a pair that could luckboat by the river, or a pocket
    pair that could spike a set. Runner-runner flush chances also
-   qualifies here.
+   count as a tiny bit more value.
 
 Here's an example of two Nutshot draws I took, from my session notes
 of 2nd March 2018. In the first hand I have Q776, four players have
@@ -51,14 +51,25 @@ jam is called by two players, one with the flush draw and the other with
 a lower flush draw and the beaten A2345 wheel straight. The river is a red
 Eight and I pull in a big pot.
 
-In my second Nutshot draw, I'm playing the co-ordinated by low
+In my second Nutshot draw, I'm playing the co-ordinated but low
 holding of 6432. The flop comes AJ5. Normally these 9-out
 "pair one of your three cards" straight draws aren't as good as they
 look, but here my 6 gives me redraws to higher straights if I can spike
 a 2, 3 or 4 on the turn. Again I make a Nutshot call on the flop and
-here the turn is a repeat Jack, giving us the turnboard of AJ5J. I
-get out of the way as two player get their stacks in with AJxy crushing
+the turn comes a repeat Jack, making the turnboard of AJ5J. I
+get out of the way as two player get their stacks in. AJxy crushes
 J5xy. This is a cooler for J5, I'll have more to say about this same
 hand in my section on two-pair hands.
 
+Don't nutshot to Broadway
+-------------------------
+
+I almost never nutshot to Broadway. A lot of people (correctly)
+play hands with Broadway cards in them so there's likely to
+be fewer than 4 outs for my draw, the cards that I need are
+mostly in people's holdings already. What's already a thin
+draw is wafer-thin here. Also, it's quite likely that if my
+Broadway draw does come in, I'll split the pot with someone
+or be freerolled as they have Broadway with two-pair or
+Broadway with a flush draw.
 
