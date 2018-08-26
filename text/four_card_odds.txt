@@ -68,7 +68,8 @@ two different ways.
 The turnboard is another random four card combination so these
 probabilites apply to it as well. The turnboard will have no flush
 chances only 10% of the time. 9 times out of 10, a flush draw will
-be possible on the turn.
+be possible on the turn. 1 in 7 times, a flush draw will be possible
+in two suits.
 
 Number of all-cards-same-suit holdings = (52x12x11x10)/24 = 2,860 = 1%
 
@@ -79,11 +80,11 @@ Number of three-of-a-suit, one offsuit holdings
  = 44,616
 
 Number of double-suit holdings: (aabb)
-  = number of pairs from a suit
-     x number of pairs from a suit
+  = number of two-of-a suit
+     x number of two-of-a suit
      x number of suitpairs
 
-  To get a pair from a suit, you can do that in (13x12)/2 ways, 78 ways.
+  To get two-of-a suit, you can do that in (13x12)/2 ways, 78 ways.
 
   Now the number of suitpairs is 6:
   Hearts/Diamonds, Hearts/Clubs, Hearts/Spades
@@ -101,10 +102,10 @@ So there are 39 Ac5c2c triple suited holdings, because the fourth
 card can be any heart, diamond or spade.
 
 Number of two-of-a-suit, two others
-  = 4 suits x number of ways of pair in a suit
+  = 4 suits x number of ways of two-of-a suit
     x number of ways of other two cards being offsuit
 
-  We know already the number of ways of getting a pair from a suit
+  We know already the number of ways of getting two-of-a suit
   is 78. The number of ways of getting the two offsuit cards
   is (39 x 26)/2; the first offsuit card has to be one of three offsuits
   and the final offsuit card has to be one of two offsuit, different
@@ -116,7 +117,7 @@ So number of aabc hands
   = 4 x 78 x 39 x 13
   = 158,184
 
-Let me summarise the results of four-card suit
+Here in a single table are the results of four-card holdings by suitedness:
 
 Name     Type     Combinations  Percentage   Frequency
 4-suit   aaaa          2,820       1.06%       1 in 100
@@ -125,6 +126,10 @@ Name     Type     Combinations  Percentage   Frequency
 1-suit   aabc        158,154      58.43%       3 in 5
 Badugi   abcd         28,561      10.54%       1 in 10
 TOTALS               270,725      99.99%
+
+The percentages add up to just under 100.00% because I've rounded
+each percentage to two decimal places. 58.43% is closer to 60%
+than 50% so I've put its frequency as "3 in 5" not "1 in 2".
 
 Number of quad holdings = (52x3x2x1)/24 = 13. This is another
 result that doesn't need fancy multiplication and division,
