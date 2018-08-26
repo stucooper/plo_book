@@ -12,7 +12,7 @@ TYPE 0: A walk for the Big Blind
 
 Every single player including the Small Blind folds preflop.
 The Big Blind wins a pot of $4 (his own $3 plus the Small Blind's
-$1). No rake is taken. This scenario occurs 0% of the time. I might 
+$1). No rake is taken. This scenario occurs 0% of the time. I might
 have seen it twice in my life. This is called a "Walk" for the
 Big Blind, a term borrowed from Baseball. If four pitches are
 outside the strike zone, a batter gets to walk to first base
@@ -60,7 +60,7 @@ stronger and stronger the more the preflop betting escalates.
 Go to YouTube and look up "Vanessa Selbst Prahlad Friedman" and you'll
 see a disastrous 6-bet bluff by Selbst with J7 of diamonds in a cash
 game where she's up against Prahlad Friedman who has both red Aces!
-The pot is $1200 (6 runners, ante $100 and small blind/big blind 
+The pot is $1200 (6 runners, ante $100 and small blind/big blind
 of $300/$600).
 
 Selbst puts in the first raise to $1,300 and then the betting
@@ -118,21 +118,21 @@ Omaha, which I call Step Raising. It's so important that I've
 written a whole chapter on it. Breifly, it's when two guys keep
 min-raising when the action comes to them, and all the callers in
 the middle get sandwiched. It's an important concept to understand
-(that's why I've given it its own chapter). A sixth kind of 
+(that's why it gets its own full chapter). A sixth kind of
 preflop betting round, also getting its own chapter, is the Party Hands
-Preflop Betting Round, where 4 or 5 players each get their stacks 
+Preflop Betting Round, where 4 or 5 players each get their stacks
 all-in preflop. Should you join the party?
 
 There's a few variations on the dollar amounts that don't change my
 advice substantially. Sometimes the 3-bet is from $10 to $25 and there's
 six runners to a flop of $150. Sometimes there's 3 runners in a 4-bet pot
-of $210. 
+of $210.
 
 You need a fair bit of table time and experience to get good at this.
 Your ideas about what hands to play and fold might be very different
 to mine. That's great - use the book as a starting point and adjust
 to your style and play the game you're comfortable with. Think about
-my Type 1,2,3,4 hands and see which hands you'd play in each 
+my Type 1,2,3,4 hands and see which hands you'd play in each
 circumstance.
 
 TYPE 1: Play all non-trash hands. You can fold 44, 33, 22 hands if
@@ -158,7 +158,8 @@ There's probably still 3 or 4 runners in this pot and you'll have
 to showdown a Nut or Near-Nut hand to win. In a Type 4 pot
 Floppability is king. A Type 4 pot will often be just you against
 Aces and you can win with a weaker showndown hand like Two Pair.
-Smaller straights and flushes should also be good enough to win.
+Smaller straights and flushes can also be good enough to win,
+in this heads-up situation.
 
 When you get in a Type 4 pot, you won't have many chips left to
 bet on the flop, turn or river. Unless you get a disaster flop like
@@ -169,8 +170,8 @@ you hit. Saving a bit here and there isn't a priority in Omaha
 where the pots get huge in the blink of an eye but I still think
 it's worthwhile keeping some chips when you've taken a flop
 but the flop tells you that you just can't win. You're in a big
-pot with T986 two diamonds two heart and the flop is A44 all black.
-What can you beat?
+pot with T986 all red and the flop is A44 all black.
+What can you beat? What hand can you possibly make in the runout?
 
 You want a hand that a lot of flops will hit hard; which is why you
 have to fold those KK,QQ,JJ one-way holdings: when they flop well
@@ -183,7 +184,7 @@ your good side cards and extra ways to win should put you about a
 Since you expect
 you're up against Aces, it's better to have straight rundowns than
 a pair in your own holding. You normally crack Aces by making two
-pair, a straight or a flush, not so often by making trips to a
+pair, a straight or a flush, not as often by making trips to a
 pair in your holding. You also don't want an Ace in your holding,
 because that takes away your chances of making two pair and
 means you have fewer straight cards working for you.
@@ -208,11 +209,11 @@ decision is pretty marginal, add or subtract value to your holding
 based on these ideas:
 
 Add credit for 2 flush cards
-Remove lots of credit if all 4 cards are the same suit
-Add lots of credit for double suited
-Remove lots of credit for a Badugi holding
+Remove credit if all 4 cards are the same suit
+Add credit for double suited
+Remove credit for a Badugi holding
 
-Your holding shouldn't have danglers, you should have folded danglers 
+Your holding shouldn't have danglers, you should have folded danglers
 when the preflop betting went from Type 2 to Type 3.
 
 Straightedness counts for more than suitedness when trying to crack Aces,
@@ -235,7 +236,7 @@ bet with 66 in Holdem and there's three to the flop which is T63.
 A lot of money goes in and you get rivered by 54 suited when his
 straight gets there, the other hand, the original preflop raiser
 had KK. If you'd reraised the KK preflop you'd have got 54 out preflop
-and doubled up. But if you keep reraise bets preflop in Holdem with
+and doubled up. But if you keep reraising bets preflop in Holdem with
 66 against higher pairs you'll go broke very quickly indeed.
 
 If you keep the pot at Type 3, you'll save money when you whiff
