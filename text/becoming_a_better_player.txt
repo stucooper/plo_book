@@ -1,6 +1,6 @@
 BECOMING A BETTER POKER PLAYER
 
-Last updated: 20180709
+Last updated: 20180726
 
 In my important "Leaving Decision" chapter I wrote about
 your next 100 sessions, and the impact that losing less
@@ -35,7 +35,7 @@ and your bad habits.
 
 Put today's Month and Year on each page, don't worry
 about the day. If you're doing this exercise on the first
-few days of the month you can cheat a little and use 
+few days of the month you can cheat a little and use
 last Month. By the time you fill these two pages, you'll
 have a review of your own game and where you're at right now.
 By writing these things down on paper, you're thinking about
@@ -96,3 +96,15 @@ improvement in your game. Don't do poker health checks any
 more regularly than three months. This is like checking the
 oil in your car, you don't do it every time you fill up
 but you should check it now and then.
+
+Kaizen
+======
+
+Kaizen is the Japanese concept of continuous improvement.
+A new book, The Kaizen of Poker by Sheree Bykofsky, applies
+this idea to No Limit Holdem. Continuous Improvement is
+a concept I also see a lot in my day job in computers,
+a field which is always changing and requires people to
+always be learning and always be on the lookout for new
+ideas and ways of doing things. That sounds a lot like Poker
+to me.
