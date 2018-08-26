@@ -3,7 +3,6 @@ part1_poker_basics.txt
 a_professional_outlook.txt
 poker_ladder.txt
 glossary.txt
-flop_games.txt
 full_bet_rule.txt
 leaving_decision.txt
 sessions.txt
@@ -39,3 +38,4 @@ songlist.txt
 part6_moving_on.txt
 becoming_a_better_player.txt
 four_card_odds.txt
+flop_games.txt
