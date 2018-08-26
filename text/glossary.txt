@@ -1,15 +1,15 @@
 GLOSSARY
 
-Last updated: 20180825
+Last updated: 20180826
 
-Most books put the glossary right at the back and you never 
+Most books put the glossary right at the back and you never
 look at it very much. I'm reversing this by putting my glossary at
 the front. My book is full of poker language and it's quite
 important that you understand it from the outset.
 
 These poker terms apply to cash poker games not tournaments.
 So "Deal" refers to a hand of cards, not arranging a different
-prize pool payout at the final table of a Tournament. 
+prize pool payout at the final table of a Tournament.
 Likewise "Freeroll" is used with a specific Omaha cash
 meaning and doesn't mean a Tournament with no entry fee.
 
@@ -49,10 +49,10 @@ BACKDOOR FLUSH: A flush made using one of the flop cards and both
 BADUGI: A four card holding or TURNBOARD with one of each suit. You can't make
   a flush in Omaha with a Badugi holding, no matter what comes in the
   Community. If the TURNBOARD is Badugi, nobody can make a flush on this deal.
-  This term comes from a new fun limit triple-draw game 
+  This term comes from a new fun limit triple-draw game
   where the nut hand is A234 of all different suits. A Badugi holding
   is bad in Omaha; you don't have any flush draws or any flush BLOCKERS.
-  
+
 BEHIND: (1) A player who acts after you in a betting round
         (2) The amount of money remaining in a stack after putting money
             into the pot. "He called the $40 bet preflop and had $110 behind"
@@ -83,13 +83,14 @@ BLUSH: A one-card flush bluff, you don't actually have the flush but
   and the board has K94 of Spades, you have The Blush.
 
 BOARD: The shared community cards. Sometimes called the COMMUNITY.
-  
+ 
 BOARD PAIR: A turn or river card that makes the community cards show a pair.
   An all-in player, with a set or THREE PAIR and seemingly needing to improve
-  to a full house to win, will often ask the dealer to "Pair 
+  to a full house to win, will often ask the dealer to "Pair
   the Board". Also called a REPEATER.
 
-BOARD PAIR BLUFF: A bluff, representing making a Full House when the Board Pairs.
+BOARD PAIR BLUFF: A bluff, representing making a Full House when 
+  the Board Pairs.
 
 BRICK: A turn or river card that doesn't help any of the drawing hands.
   "The flop came 986 two hearts, I've got up and down and the heart
@@ -102,7 +103,7 @@ BOTTOM TWO: To have the bottom two pair after the flop. On a flop of
 BROADWAY: The best possible straight, AKQJT.
 
 BROADWAY CARDS: Cards in the range A,K,Q,J,T; the 5 cards of the BROADWAY
-  straight. K,Q,J,T are sometimes called Picture cards, Face Cards 
+  straight. K,Q,J,T are sometimes called Picture cards, Face Cards
   or Paint.
 
 BUNCHING: The preflop belief that with lots of betting, the high broadway
@@ -125,7 +126,7 @@ CASE: The fourth and final card of a rank in the deck. If you've got
   pocket Kings, you're up against AAKx and you still flop a King,
   that King on the flop is the Case King. Because of TOP FORTY,
   most of the cards you see in the community are the case cards.
- 
+
 CHECK BEHIND: A betting move where you're last to act, the player(s)
   in front of you have checked and you also check. The CRYING BET
   takes this option away.
@@ -162,7 +163,7 @@ CRYING CALL: A not-very-confident call where you expect you'll probably
 
 DANGLER: A card in your holding that doesn't contribute to your playability.
   If you have KQJ2, the 2 is a dangler.. it doesn't contribute to
-  your straight chances and you're unlikely to be using it in 
+  your straight chances and you're unlikely to be using it in
   your two showdown cards. Poker legend T J Cloutier invented this term.
 
 DEALER: The Casino employee who handles the cards, runs the hand,
@@ -178,7 +179,7 @@ DOPE FLOP: (DRS) A flop with a low pair on it (22,33,44,55,66,77,88,99).
   up when you have a hand with fantastic FLOPPABILITY and you think
   to yourself "the flop has got to help me, whatever it is".
 
-DOUBLE SUITED: Your HOLDING contains 2 cards of 2 suits. AcAd7c6d is 
+DOUBLE SUITED: Your HOLDING contains 2 cards of 2 suits. AcAd7c6d is
   double suited in Clubs and Diamonds.
 
 DRY FLOP: A widely spaced, RAINBOW flop where top set is the best possible
@@ -203,7 +204,7 @@ FIFTH STREET: Old-school term for the river card and the final betting round
 FINAL BOARD: The full 5-card BOARD after the river has been revealed.
 
 FIVE CARD HAND: Your best hand (according to 2+3 Showdown Rule) that
-  you use at the Showdown. 
+  you use at the Showdown.
 
 FIVE-FIVE REFUGEE: (DRS) A player at 1/3 PLO who is normally a 5/5/10
   PLO player. There might be no 5/5/10 game going, or he might be on
@@ -289,8 +290,12 @@ HORROR POT: (DRS) A multiway pot that's so huge that you stay in it,
   calling big bets against the odds, because if you fold and
   then find out you would've won all this money it will crush you.
 
-JAM: To bet or raise, getting as much of your chips in as quickly as 
+JAM: To bet or raise, getting as much of your chips in as quickly as
   you can.
+
+LEAD CHANGE: The player with the current best hand is "in the lead".
+  When the turn or river changes the best hand and the player
+  who has the best hand, a lead change has occurred.
 
 LUCKBOAT: (DRS) To turn two pair into a full house by the board pairing.
   A set turning into a full-house is fair enough, but a Two Pair hand
@@ -299,10 +304,10 @@ LUCKBOAT: (DRS) To turn two pair into a full house by the board pairing.
 LUCKBOX: A lucky player who is getting good hands and help from the Board
   in this session.
 
-LOW CONFIDENCE HAND: (DRS) A made hand that is a long way from 
+LOW CONFIDENCE HAND: (DRS) A made hand that is a long way from
   being the nuts (eg 9954 on a board of 63325). You sometimes win
-  small pots with Low Confidence Hands (other players also haven't 
-  got anything strong enough to bet so they're checking their betting 
+  small pots with Low Confidence Hands (other players also haven't
+  got anything strong enough to bet so they're checking their betting
   options just like you are) but you can't bet them with confidence.
 
 LTA: Last-to-act. A lot of people use the term "out of position",
@@ -318,8 +323,8 @@ NATURAL FLUSH: The flush made using two of the flop cards and a turn or
   be clubs) is the Backdoor Flush. I believe this term comes from the
   Australian card game Manila.
 
-NUTSHOT: (DRS) A gutshot straight draw to the Nut Straight. Normally your 
-  drawing hands should have more outs than just a Nutshot, but even a 
+NUTSHOT: (DRS) A gutshot straight draw to the Nut Straight. Normally your
+  drawing hands should have more outs than just a Nutshot, but even a
   Nutshot can be a good draw on the flop, if you've got enough chips to blast
   out the field on the turn when you get there.
 
@@ -342,7 +347,7 @@ NUTTABILITY: (DRS) The capacity of your HOLDING to make a Nut hand once
   all the cards are out. Suited Aces and high pairs and clusters
   of BROADWAY CARDS have good Nuttability. See FLOPPABILITY.
 
-OMAAAAGH: (DRS) A big hand where you correctly get all your chips in, 
+OMAAAAGH: (DRS) A big hand where you correctly get all your chips in,
   yet still lose. The word sounds like "ARRRRGH" or "OH MAH GAWD".
   The word Omaaaagh is spelled with four consecutive letter "a"s.
 
@@ -366,7 +371,7 @@ PARTY HANDS: (DRS) A hand where multiple supershort to medium stacks are
   stack is short enough to play them) and if you win one on your early buyin
   it's just about the easiest $500 you'll make at Poker.
 
-POISON CARD: (1) A seeming out for you on the BOARD that makes someone a 
+POISON CARD: (1) A seeming out for you on the BOARD that makes someone a
   better hand and costs you your stack. (2) A bad card in your own HOLDING
   that makes an otherwise good starting hand a lot worse. A DANGLER.
 
@@ -393,7 +398,7 @@ RED TOWER: (DRS) Twenty red $5 chips stacked up to make a $100 chip stack.
 REPEATER: A turn or river card that makes a pair on the board. Also
   called a BOARD PAIR
 
-ROLF SEAT: The seat to the immediate right of the most aggressive player 
+ROLF SEAT: The seat to the immediate right of the most aggressive player
   at the table. This lets you limp/checkraise maximum preflop if you have
   a powerful hand and you expect the aggressive player will raise preflop
   and there will be a bunch of callers before action returns to you.
@@ -476,7 +481,7 @@ THREE PAIR: To match all three flop cards. Three Pair isn't a final
 
 TOP AND BOTTOM: To have both the top pair and bottom pair after the flop.
 
-TOP FORTY (DRS): The cards dealt at a full-ring 10-handed deal are the 
+TOP FORTY (DRS): The cards dealt at a full-ring 10-handed deal are the
   Top Forty cards of the deck. This means that a card you need on the turn
   or river is quite likely to be in someone else's holding and not
   on the turn or the river. It also means that you often hit your sets
