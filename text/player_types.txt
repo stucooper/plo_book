@@ -1,6 +1,6 @@
 PLAYER TYPES
 
-Last updated: 20180816
+Last updated: 20180826
 
 Poker is a game of people and you should be adjusting your play based
 on your observations of other players in the pot. Remember that Omaha
@@ -113,6 +113,18 @@ who are regulars in the game. They're Nut Peddlars and raise the pot
 once they hit their hand. They'll sometimes raise with a huge draw
 which you can also fold to unless you've got the current 
 winner like top set.
+
+Nut Peddlars
+============
+
+Some players won't bet on the river without the absolute Nuts.
+It's just not in their nature to bet themselves without holding
+an unbeatable hand. They will call with non-nut flushes and
+secondary straights and top sets, but they won't bet them
+when they're not the nut hands.
+
+This means that when they DO bet, they're betting the nuts.
+Unless you've also got the nuts, you can safely fold.
 
 Drunks
 ======
