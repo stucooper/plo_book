@@ -1,13 +1,16 @@
 THE FULL BET RULE
 
-Last updated: 20180816
+Last updated: 20180826
 
 Almost ten years ago (2011) I wrote a book on Pub Poker Tournaments,
 "Winning Pub Poker". There was a chapter on Rules, quite
 detailed as Pub Poker tournaments are usually self-dealt, so I
-had to give lots of advice on action out of turn, giving change
-from the pot and other stuff you don't have to worry about in a
-professional dealt Casino Cash Game.
+had to give lots of dealing advice as well as mentioniong
+the online resoures Robert's Rules of Poker and the
+Poker Tourmanent Directors of America (TDA) rules.
+
+Of course in a professionally dealt Casino Cash Game you
+don't have to worry about a lot of these things.
 
 One rule that is important in Tournaments and crucial in PLO Cash
 games is the Full Bet Rule. Here's what I wrote in "Winning Pub Poker".
