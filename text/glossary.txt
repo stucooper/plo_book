@@ -1,6 +1,6 @@
 GLOSSARY
 
-Last updated: 20180826
+Last updated: 20180827
 
 Most books put the glossary right at the back and you never
 look at it very much. I'm reversing this by putting my glossary at
@@ -17,6 +17,8 @@ Items maked (DRS) are terms I've come up with myself
 (to the best of my knowledge- it's possible that other people
 have independently come up with the same or similar names). I
 use them throughout the book so pay special attention to them.
+One term, "Nutshot", I thought was original but I came across
+it in another book so I'm not marking it as one of mine.
 You'll know many of the other items already.
 
 Poker terminology changes over time. Holdem used to be Texas Hold'em
@@ -210,10 +212,10 @@ FINAL BOARD: The full 5-card BOARD after the river has been revealed.
 FIVE CARD HAND: Your best hand (according to 2+3 Showdown Rule) that
   you use at the Showdown.
 
-FIVE-FIVE REFUGEE: (DRS) A player at 1/3 PLO who is normally a 5/5/10
-  PLO player. There might be no 5/5/10 game going, or he might be on
-  the waiting list for the game, or he might be in a frivolous
-  bust-up-the-small-game mood. Five-five refugees are often playing
+FIVE-FIVE REFUGEE: (DRS) Someone in the 1/3 PLO game who normally
+  plays the 5/5/10 PLO game. There might be no 5/5/10 game going,
+  or he might be on the waiting list for the game, or he might be in
+  a bust-up-the-small-game mood. Five-five refugees are playing
   relaxation stakes at 1/3, and bet and raise it up big to bring the
   game into their big-bet game and terrify the timid 1/3 players.
 
@@ -327,7 +329,7 @@ NATURAL FLUSH: The flush made using two of the flop cards and a turn or
   be clubs) is the Backdoor Flush. I believe this term comes from the
   Australian card game Manila.
 
-NUTSHOT: (DRS) A gutshot straight draw to the Nut Straight. Normally your
+NUTSHOT: A gutshot straight draw to the Nuts. Normally your
   drawing hands should have more outs than just a Nutshot, but even a
   Nutshot can be a good draw on the flop, if you've got enough chips to blast
   out the field on the turn when you get there.
