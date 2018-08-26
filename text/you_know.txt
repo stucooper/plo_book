@@ -1,10 +1,13 @@
 YOU KNOW HOLDEM SO YOU KNOW OMAHA
 
-I deliberately lied in the naming of this chapter. No Limit Holdem
-and Pot LImit Omaha are very different games. Just about the only
+Last updated: 20180826
+
+I deliberately lied in the name of this chapter. No Limit Holdem
+and Pot Limit Omaha are very different games. Just about the only
 things they have in common are the number of betting rounds and 
 the community cards produced at each phase.
 
+  Players dealt unique hole cards
   Preflop Betting
   3 card flop produced
   Postflop Betting
@@ -14,15 +17,18 @@ the community cards produced at each phase.
   Final Betting
   Showdown
 
-Because the betting rounds are Pot Limit not No Limit, they play
+In both games, the hand ends prematurely if one player bets all
+other players out of the pot and nobody is all-in for a main pot.
+
+Because PLO betting rounds are Pot Limit not No Limit, they play
 very differently. You can't shove all-in with a giant overbet and 
 take the pot down or get heads-up with one player. It's quite common
 in Omaha for 4 or even 5 players to still be live on the flop.
 
-Omaha Showdown Rules: 2+3
-=========================
+The Omaha Showdown Rule: 2+3
+============================
 
-In Holdem you can use 2, 1 or even none of your hole cards in combination
+In Texas you can use 2, 1 or even none of your hole cards in combination
 with the 5 community cards to make your best 5 card poker hands. If the
 final community is AKQJT, no flush possible, then everyone still in the
 hand has an unbeatable Ace-high straight (called "Broadway"). Poker
@@ -32,7 +38,7 @@ raised, two Internet qualifiers folded and it ended up being a 2-way
 split not a 4-way split!
 
 In Omaha you've got to use 2 cards of your own and 3 from the Board, a
-showdown rule which I'll call 2+3. This changes the hands you can make.
+showdown rule I call 2+3. This changes the hands you can make.
 In Texas a board of T8632 four Diamonds will usually see the winner
 holding a single high Diamond. In Omaha, you need 2 Diamonds of your
 own to make the flush here. 
@@ -43,3 +49,9 @@ I don't - I have trip Kings. With a holding of AKQT and a board of
 KK884 my best hand is [AK]KK8 for KKKA8. I'm showing the 2 cards I'm
 using in square brackets [] here. Once I've used my two cards there's
 no room in the board 3 to include both those KK88 to fill up.
+
+The 2+3 Showdown Rule takes a lot of getting used to. One of the advantages
+experienced Omaha players have when a Holdemite joins the table is
+the Holdemite misreads the board a lot and ends up calling with
+hands that aren't full houses and aren't flushes. This is always
+great for the Omaha regulars and very painful for the Holdemite.
