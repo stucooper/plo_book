@@ -1,6 +1,6 @@
 FOUR CARD HOLDING ODDS
 
-Last updated: 20180825
+Last updated: 20180826
 
 I have a Maths degree as well as a Computer Science degree and
 although my day job is in Computers, I retain an interest and
@@ -27,6 +27,19 @@ A73T      T73A          7T3A         3T7A
 A3T7      T3A7          73AT         37AT
 A37T      T37A          73TA         37TA
 
+If you're betting on a horserace and you're convinced that
+horses 1,3,7 and 10 will be the first four home but
+you don't know the order, it takes 24 combinations to "box"
+them in a First Four Bet. One of your four horses will come first,
+then one of the remaining three will come second, then
+one of the remaining two will come third, then
+your last remaining horse will come fourth. If
+you imagine A as "horse number 1" and T as "horse number ten"
+then you can see my 24 combinations above cover all the
+finishing chances for the four horses. 4x3x2x1=24.
+
+For a Trifecta, your horses can arrive in 3x2x1 = 6 ways.
+
 Because the order of your four card holding isn't important and
 can be arranged in 24 different ways, the number of unique
 Omaha holdings is (52x51x50x49)/24 = 270,725. There are
@@ -40,7 +53,7 @@ other suits, there's 39 of them. So 52x39 choices for the first two cards.
 The third card has to be one of the remaining two suits (26 of them)
 and the fourth card one of the fourth and final suit (13 of those).
 So there are 28561 Badugi holdings, which is 10.5% of the 270,725
-total holdings. So 9 times out of 10, your hand will have at 
+total holdings. So 9 times out of 10, your hand will have at
 least two of a suit.
 
 The Badugi holdings calculation, done by hand, cancels
@@ -86,7 +99,7 @@ there's no room for extra cards. With the three-to-a-suit holdings,
 there's a fourth offsuit card that can be any of 39 fourth cards.
 So there are 39 Ac5c2c triple suited holdings, because the fourth
 card can be any heart, diamond or spade.
- 
+
 Number of two-of-a-suit, two others
   = 4 suits x number of ways of pair in a suit
     x number of ways of other two cards being offsuit
