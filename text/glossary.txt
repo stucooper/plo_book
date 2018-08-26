@@ -38,6 +38,10 @@ ACES CRACKER: A HOLDING that you think has a good chance of beating an
 ADVANTAGE GAMBLING: Gambling where your superior skill gives you an
   advantage over the other players.
 
+ALL RED: A Holding double-suited in hearts and diamonds. This is a
+  writing convenice for me in this book; if I say you've got
+  AAJT All Red that means you've got Aces double suited.
+
 BABY: A Low board card, in the range 2,3,4,5. Also called a WHEEL CARD.
 
 BACKDOOR: A hand made using both the turn and the river card. Holdem
