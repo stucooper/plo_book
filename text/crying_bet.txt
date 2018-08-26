@@ -1,6 +1,6 @@
 THE CRYING BET
 
-Last updated: 20180816
+Last updated: 20180826
 
 Most of the time in Poker you want to be Last To Act.
 Position is power. You get to see what the earlier players
@@ -84,6 +84,13 @@ lead-changing bet, whereas in fact this was my Crying Bet and got him
 to fold.
 
 "Yes, that one was World Class" I said.
+
+"Donk"
+=====
+
+A First-to-Act bet is called a "Donk" bet in some of the literature.
+My Crying Bet is a specific Donk, a Donk in the circumstance where
+your hand is strong enough to check/call with.
 
 Final Crying Bet Advice
 =======================
