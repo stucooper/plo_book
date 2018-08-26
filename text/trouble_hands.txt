@@ -1,6 +1,11 @@
 TROUBLE HANDS
 
-Last updated: 20180816
+Last updated: 20180827
+
+TV journalist: "Robo.. excuse me.. Robo.. any special
+  message for all the kids watching at home?"
+Robocop: "Stay out of trouble".
+ -- "Robocop" (directed Paul Verhoeven) 1987
 
 Before we look at the hands you should play in Omaha, I'll
 warn you about some stack-killing hands you'd do well to avoid.
@@ -8,6 +13,7 @@ warn you about some stack-killing hands you'd do well to avoid.
 There's a class of hands I call "Trouble Hands", some of the
 other poker literature calls them "Sucker hands". In Holdem
 these are high but not high enough holdings like A9, KT, QJ.
+
 When they flop top pair in a raised pot, making top pair
 decent kicker, they're often a long way behind top pair better
 kicker. So even when they flop decently they're Low Confidence
@@ -27,10 +33,10 @@ into real trouble.
 In PLO the trouble holdings are pocket pairs like 66,55,44,33,22;
 low straight connectors like 5432 and non-nut suited cards like
 Jack-high hearts, Queen-high spades and so on. These hands are
-seductive because you miss most flops and get an easy fold for 
+seductive because you miss most flops and get an easy fold for
 a tiny loss; maybe you've called $10 preflop and whiffed. Your
-stack goes from $220 to $210. No problem. Where the real problem 
-lies is when you hit a good flop and get your stack in and you're 
+stack goes from $220 to $210. No problem. Where the real problem
+lies is when you hit a good flop and get your stack in and you're
 still behind to a much better hand and you're smoked.
 
 You flop bottom set and lose your stack to middle set. You play 6332,
@@ -39,9 +45,11 @@ from $220 to Zero. Now you see the problem.
 
 In Holdem the trouble hands normally lose on kicker; in Omaha
 the troble hands lose to same-rung hands of higher rank.
-Small sets lose to medium sets lose to high sets.
-Small straights lose to medium straights lose to high straights.
-Small flushes lose to medium flushes lose to nut flushes.
+
+Low two pair lose to higher two pair.
+Low sets lose to medium sets lose to high sets.
+Low straights lose to medium straights lose to high straights.
+Low flushes lose to medium flushes lose to nut flushes.
 
 Because all the other players have four cards as well, and because
 there's lots of other players taking the flop, the bigger and
@@ -76,7 +84,7 @@ relationship with the pocket pairs and the sets they generate.
 It's superstitious based on what pairs have been good to you and
 which haven't. Personally I find QQ sets better than KK sets.
 44 seems to have made Quads for me a lot more than any other
-pair, and it's nice at showdown to say "four fours". 
+pair, and it's nice at showdown to say "four fours".
 
 Bottom set needs to Quad
 ------------------------
@@ -85,7 +93,7 @@ Bob Ciaffone shows a hand where a player with bottom set
 on the turnboard, currently ahead, can't win unless
 exactly his quad card comes on the river. And there's only
 four players in this hand! The other hands are top three pair
-(so other repeaters Luckboat them), two-suit flush draws and 
+(so other repeaters Luckboat them), a flush draws in two suits and
 big straight wraps. The hands are:
 
 AK22
@@ -97,18 +105,18 @@ and the turnboard is
 
 Qc9c2s4s
 
-The JT87 wrap  wins if the river is a red K,J,T or 8.
-The A53x wrap  wins if the river is a red 6,5,3 or A
+The JT87 wrap   wins if the river is a red K,J,T or 8.
+The A53x wrap   wins if the river is a red 6,5,3 or A
 The Q94x 2 pair wins if the river is a    Q, 9 or 4
-The AJ53 spade/club draw wins if the river is black 
-  and doesn't pair the board. This includes 
+The AJ53 spade/club draw wins if the river is black
+  and doesn't pair the board. This includes
   both remaining sevens. (it must be 7s or 7c)
-The AK22 bottom set wins if (and only if) the river 
+The AK22 bottom set wins if (and only if) the river
   is the case 2.
 
 I simplified Ciaffone's example slightly by putting both
-the spade and club draw in the same holding. The take-home
-point to remember from this example is that bottom set is
+the spade and club draw in the same holding. The real lesson
+to take to heart from this example is that bottom set is
 often smoked; if it isn't already behind to a better set
 it could be fading a deck of outs on the river. In this
 example, the entire deck. Every card besides the single
