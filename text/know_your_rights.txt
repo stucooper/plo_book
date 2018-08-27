@@ -1,6 +1,6 @@
 KNOW YOUR RIGHTS
 
-Last updated: 20180819
+Last updated: 20180827
 
 Poker dealers do their best to run a good and fair game,
 but their main interest is in keeping the game running
@@ -38,19 +38,20 @@ that flush draw is no use". Whenever this looks like happening,
 I'll announce "One player to a hand!"
 
 3) Players have to read their own Board
+   and decide to Table their hand.
 ---------------------------------------
 
 Reading the Board yourself is a critical skill in both Holdem
 and Omaha. If you table your hand, "Cards speak" and the
 dealer and other players can assist in finding your best
-poker hand, but unless you table your hand, you're on your own.
+poker hand, but until you table your hand, you're on your own.
 
 Sometimes I've bet on the river and been called and I table
 a far-from-Nut hand like a so-so two pair. The calling player
 is looking at his hand for a while, not wishing to show a loser
 if he can't find a winner. Some dealers, to speed things up,
 will mention the winning cards and winning hands possible on this
-board, and assist that player in his tabling decision.
+board, and assist the caller in his tabling decision.
 
 These dealers are COMPLETELY OUT OF LINE. It is the player's
 responsibility to read the board at every stage, including the
@@ -65,6 +66,14 @@ if the winner asks for a mucked showdown hand to be revealed then
 THAT HAND BECOMES LIVE AGAIN! There's a tiny but non-zero chance
 that the mucker has folded a winner or a hand that could split the pot.
 Just accept this pot and stack your chips.
+
+The Star have a very generous (in my view) interpretation of The Muck,
+your hand isn't dead until it touches other mucked cards.
+You can toss your cards onto the table face down, in an obvious
+attempt to fold your hand, and still change your mind and get your cards
+turned over, provided they haven't yet been reaped by the dealer
+and added to the muck. And you still get to win a showdown! I don't agree
+with this at all, but it's their Casino and that's their ruling.
 
 4) Three Hundred Max Buyin
 --------------------------
@@ -92,6 +101,11 @@ the pot until the caller gives up his cards, even though the table
 can all see that the called player with the Nut flush is the winner
 of this pot.
 
+A lot of the dealers arrange the four tabled cards of the called player
+so that the two being used are next to the board and the two unused
+cards are sideways behind it. This helps you check that the shown
+down hand is indeed what it looks like.
+
 6) Call for the camera
 ----------------------
 
@@ -113,6 +127,9 @@ and home games are a lot more strict with the muck than The Star is,
 normally if there's any chance a mucking player could have won he
 gets it no matter how much he says "I fold" and "You win" and losing
 words like that.
+
+I'm repeating some of the stuff I wrote in Point 3, players must
+decide on their own to table their hand, but I feel strongly about this.
 
 If you follow the advice in Step 5 (Check the Showdown Winner) carefully
 you should never need to call for the camera because you're unsure
