@@ -1,6 +1,6 @@
 FLOP PLAY
 
-Last updated: 20180816
+Last updated: 20180827
 
 In Holdem you normally "play it or dump it" on the Preflop Betting
 Round. In Omaha you'll be taking a lot more flops, and your
@@ -64,10 +64,12 @@ is a K,Q,J,T,9 or 8.
 
 Flopping top two pair in Omaha is like flopping Top Pair/Top Kicker
 in Holdem. It's a good hand, and it'll often win the pot as it is,
-but if players stick around and big money piles into the pot, it's
-got little chance of winning. In Holdem some great advice is
-"don't go broke with one pair", in PLO I suggest you "don't go broke
-with two pair".
+but if players stick around on the turn and the river and the pot
+get big, it's got little chance of still being the winning hand.
+In Holdem some great advice is "don't go broke with one pair",
+in PLO I suggest you "don't go broke with two pair". Remember that
+the winning hand shown down in PLO is often the Nuts, and two pair
+on a full board isn't very often the Nuts.
 
 Have a look how wet or dry the flop is. Since straight wraps are
 so big in Omaha you need a widely separated flop to be convinced
@@ -82,8 +84,9 @@ You can push two pair strongly when you have a short stack, it's a good
 enough holding to get your money in with. This is like Holdem if you
 have a $70 stack on a $50 pot and you hold KJ on a flop of JT8. You might
 as well go all-in and you'll often get called by T9 and a lot of the
-time you'll double up. But if you've got a $200 stack you have to play
-it a lot more carefully.
+time you'll double up. But if you've got a $200 stack you have to tread
+much more carefully, otherwise you give way too much money to someone
+who already has a set or a straight.
 
 Flop texture
 ============
@@ -99,8 +102,8 @@ him to fill up, if he's not already got a full house) and sometimes
 there's two players each with a 6 (remember the Top Forty principal:
 the likelihood is that both the unknown Sixes are in the holdings)
 
-When this happens, you normally see a 80% pot sized bet from one player
-and a single caller. The betting often slows down until one of the
+When this happens, you normally see a 60%-100% pot sized bet from one player
+and a single caller. The betting often slows down unless one of the
 players gets a full house (either on the turn or the river) and then
 betting comes alive again.
 
@@ -111,6 +114,26 @@ holding a 6 are making crying calls trying to hit their full house
 when they're actually drawing dead. This is a fantastic result
 for the player with the overfull and sometimes he'll pick up the
 stacks of two other players, with no risk whatsoever.
+
+Normally in PLO drawing hands are just small dogs or even favourites,
+but when you flop the Overfull you're the huge favourite. The only
+cards you have to dodge are the quad card or an overcard that might
+match a higher pocket pair which outboats you. This happened to me
+in a bad beat; I have 99, the flop comes 944, I bet it out and get
+one caller, who I understandably put on a 4. The turn is a King
+and I lose to KKQJ, who makes KKK44 to my 99944. I'm not sure why
+he called my flop bet with just that overpair, but he pulled
+in a big pot.
+
+In Holdem flop with low pairs like T66, 944 and K33 are "Orphan flops";
+flops where nobody is likely to have hit anything and a preflop raiser
+can make a pretty safe Continuation Bet and pick up the pot most of the
+time. In Omaha you can't make these bets at Orphan flops, there's that
+many cards out there that on T66 it's likely someone has a 6, on 944
+it's likely someone has a 4, on K33 it's likely someone has a 3. So
+a bluff at these flops (I call them "Dope flops") is very unlikely to
+succeed; you're normally just giving your money away if you don't
+hold at least the trips card yourself.
 
 Flush flops
 -----------
