@@ -1,6 +1,6 @@
 SESSIONS
 
-Last updated: 20180816
+Last updated: 20180827
 
 Cash poker is played in sessions. Your poker sessions starts
 with your arrival on the casino floor and ends with your
@@ -45,3 +45,23 @@ Depending on your arrival time, you might have a long wait
 before you finally get your Omaha seat. You need to work
 harder than ever to breathe in when you've endured a long wait
 to get your poker fix.
+
+Buyin size
+==========
+
+I recommend a buyin size of $150, but you have to respect your buyin.
+If you keep chasing longshots with it, you'll lose buyin after
+buyin after buyin and soon you're in the hole $450 or $600 and
+it's a long way back from there. If $150 isn't enough money to keep
+you away from longshots, maybe you should buy in bigger, even for
+the maximum $300.
+
+With $300 you'll stay away from the longshots but more of your money
+is at risk if you hit an Omaaaagh hand. You're not playing the
+Shortstack approach anymore, as you've bought in for the maximum $300.
+You've got too much on the table to join the Party Hands. But if you
+get a double up, your stack is now around the $570-$620 mark, which
+is a great size to play the big pots with.
+
+Shortstacking is so important in PLO that I strongly believe that
+the $150 buyin is the right size.
