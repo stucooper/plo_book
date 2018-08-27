@@ -1,6 +1,6 @@
 FLOP PLAY
 
-Last updated: 20180827
+Last updated: 20180828
 
 In Holdem you normally "play it or dump it" on the Preflop Betting
 Round. In Omaha you'll be taking a lot more flops, and your
@@ -233,7 +233,7 @@ Playing a Big Draw
 There are two ways of playing a big draw on the flop.
 You can get as many chips in as you can, which has the
 advantage of getting paid the maximum when your draw
-comes in, but of course you lose the maximum when you miss.
+comes in, but the disadvantage of losing the maximum when you miss.
 
 You'll know the No Limit Holdem concept of the Semi-Bluff;
 a bet or raise on the flop which can win the pot right now
@@ -253,13 +253,20 @@ can be produced. You're a great chance of winning more money
 on the river if you hit, since the pot is now so huge and it
 looks like you might be trying to buy the side pot.
 
-If your draw is Nutty, I suggest you flat call a bet if someone's
-already made one, which can keep downstream players in the
+If your draw is to the Nuts and you face a bet on the flop
+with multiple players still in the hand, I suggest you flat
+call, which can keep downstream players in the
 pot as well and swell the pot size that much more by the
-time the turn comes.
+time the turn comes. You can pick up information from the
+downstream players; sometimes you correctly sense that
+other people are staying in the hand with the same flush
+draw as you; which is great because they'll pay you
+off when you hit but is bad because there's now fewer
+flush cards to come on the turn or the river.
 
-Although having said that, getting extra players out of the hand
-is a win for you. Someone staying in a hand normally has outs
+While it's good stringing extra players along to swell the pot,
+getting them out of the hand is also a win for you.
+Someone staying in a hand normally has outs
 to win, even with something as silly as hitting bottom trips on a
 turn repeater, so getting the pot down to fewer players increases
 your chances of winning this pot. The sweetest sound you can
@@ -271,12 +278,20 @@ You can take the turn card as cheaply as you can and come out blasting
 if your draw comes in, slow right down if the board pairs,
 or try to take a cheap river if the turn is a non-repeat brick.
 Sometimes the brick turn has added you extra outs, perhaps a second
-suit flush draw or more straight outs. When the happens
+suit flush draw or more straight outs. When that happens
 you can come out betting in line with the "win the most when you hit"
-principle, or you can still try to keep things cheap. Ask yourself
+principle, or still try to keep things cheap. Ask yourself
 if it's likely that your river bet will be called by at least one
 player; if you think that's the case then you'd probably keep
 things cheap on the turn betting as well.
+
+Like many things in poker, this decision can be viewed as a
+Risk/Reward question. If you keep things cheap and your draw
+comes in, you'll wish that you'd bet earlier streets and the
+pot was as big as it could possibly be, now that you know
+you'll win it. But if you bet on the come and your draw
+misses, you'll rue wasting money on your bets on a pot
+you've now got no chance of winning.
 
 In the next chapter I look at a very loose thin draw call I
 sometimes make on the flop, The Nutshot.
