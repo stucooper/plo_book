@@ -1,6 +1,6 @@
 WHY PLAY PLO?
 
-Updated: 20180710
+Last updated: 20180828
 
 Why would you play Pot Limit Omaha? Many poker players
 stick exclusively to No Limit Holdem, cash and tournaments, and
@@ -37,7 +37,7 @@ In 2/3 NLH:
 - You can overbet the pot
 - Your good preflop hands hold up more
 - Your flopped sets hold up more
-- You're in the running for the "flop a Royal Flush" jackpot and 
+- You're in the running for the "flop a Royal Flush" jackpot and
   occasional other promotions. The Star haven't done a "Bad Beat Jackpot"
   like other casinos, but if they did, it would be in the Holdem games.
 - There's always a game going, 24x7
@@ -49,17 +49,21 @@ In 2/3 NLH:
 PLO is the biggest game spread on The Star main floor; some games
 have just a minimum buyin and no maximum! I've seen with my own
 eyes a game with $200/$400 blinds and a minimum buyin of $40,000.
+(I have actually seen, only once, a bigger No Limit Holdem game,
+but on any given day PLO will be the biggest game going in the
+poker area).
+
 The biggest game I've played in is $5/$5/$10 with a buyin of
 $300-$1500; but even playing in the 1/3 PLO game I feel like a Big
 Time Poker Player, much more than I do when I'm playing 2/3 NLH.
 
 1/3 PLO is actually a very big game, disguised as a nickel and dime game.
-The buyin range is smaller than Holdem, but the Pots are bigger, by 
+The buyin range is smaller than Holdem, but the Pots are bigger, by
 and large. There's action aplenty in Pot Limit Omaha.
 
 If you're an NLH-only player at the moment, have a good read of my
 list of 2/3 NLH advantages and then re-read my list of 1/3 PLO
-advantages. Walk over to a 1/3 PLO table and watch a few 
+advantages. Walk over to a 1/3 PLO table and watch a few
 hands - really watch them. How did the betting go? How strong
 were the hands shown down to win the pot? What are the stack
 sizes of the players? You'll probably find an interesting mix
@@ -73,7 +77,7 @@ by active players still competing hard for the big pots and still
 building a big side pot. This can sometimes help an all-in player,
 where an active player with a huge draw and a huge stack blasts
 away another active player, and the all-in player's marginal
-hand holds up when the active player's draw misses and the 
+hand holds up when the active player's draw misses and the
 blasted-off player would've won. This concept is called
 Protection and you see it in Tournament Holdem a bit.
 
@@ -82,8 +86,8 @@ cards dealt, and everyone has a 4 card holding, there's
 a whole lot of card combinations out there just
 waiting to outdraw you. If you try to trap, and give a free
 card, you'll get outdrawn over and over again.
-In PLO when you flop top set on a flop of JT5 two diamonds 
-it's usually the case that someone has the flush draw, 
+In PLO when you flop top set on a flop of JT5 two diamonds
+it's usually the case that someone has the flush draw,
 someone else has a good straight draw (with more
 than just the 8 outs you get in a Holdem Open-Ended Straight draw)
 and someone could have a higher pair that could become
@@ -96,5 +100,5 @@ In Omaha you come out blasting with pot-sized bets and
 you'll often get action and callers. I'll be looking a lot
 at when it's correct to bet and correct to call, but for now
 let me impress upon you that in PLO when
-you flop strong you don't trap, you come out blasting. You have 
-to do this yourself, Do Your Own Betting (DYOB). 
+you flop strong you don't trap, you come out blasting. You have
+to do this yourself, Do Your Own Betting (DYOB).
