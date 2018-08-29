@@ -1,6 +1,6 @@
 ESSENTIAL POKER BOOKS
 
-Updated 20180817
+Last updated: 20180829
 
 I own over 150 books on Poker and Gambling. Unfortunately
 just having so many books doesn't make me a champion player,
@@ -40,7 +40,14 @@ and get a fuller sense of some NLH and betting concepts that I
 refer to.
 
 
-The number of Omaha books in my library is quite small.
+The number of Omaha books in my library is quite small,
+and I buy any Omaha book I can reasonably get my hands on.
+When I say "reasonably", I expect a good book will be priced
+in the $30-$70 range. Some of the Omaha books advertised
+online retail for $1500 to $3000, which is far too much to pay
+for a book. I'll talk about these at the end of my survey
+of the affordable Omaha books.
+
 That's because there aren't many good
 Omaha books out there, apart from Slotboom, Hwang and Jockusch
 who we'll meet shortly. I mentioned in the "Why Play PLO?" chapter
@@ -71,7 +78,7 @@ good suggestions on when to run it twice.
 
 Even though there are chapters specifically on each game type,
 the authors can't help saying "in Hi-Lo you'd to this" or
-"if this was in a tournament you'd make this adjustment". 
+"if this was in a tournament you'd make this adjustment".
 
 T.J. Cloutier coined the Omaha term "Danglers". He's just about
 my favourite player from the very early days of the World Series.
@@ -90,7 +97,7 @@ OMAHA HOLDEM POKER by Bob Ciaffone
 
 This slim book (106 pages) is much older than Cloutier/McEvoy
 but does split up the different games advice properly. Limit
-Omaha was much more the game in those old days and the book 
+Omaha was much more the game in those old days and the book
 reflects this. Worth a read, you can knock it off in just
 a few hours of reading and even faster if you avoid
 the Omaha/8 material.
@@ -113,11 +120,11 @@ in your PLO Library.
 HOW GOOD IS YOUR POT LIMIT OMAHA? by Stewart Reuben
 2003. D&B Poker
 
-Stewart Reuben, whose Christian name is spelled a way I don't agree 
+Stewart Reuben, whose Christian name is spelled a way I don't agree
 with, is a High Stakes London player who has written many poker books,
 including "Pot Limit and No Limit Poker" with Bob Ciaffone.
 Inspired by "How good is your chess?" which puts you in the mind
-of a grandmaster considering his next chess move. 
+of a grandmaster considering his next chess move.
 Reuben wrote this book and "How good is your Pot
 Limit Holdem". At each betting decision, you get a range of options
 (pass = fold, call, raise a bit, raise the pot) and you get marked
@@ -163,7 +170,7 @@ SECRETS OF PROFESSIONAL POKER VOLUME 1 by Rolf Slotboom
 
 A collection of Rolf's magazine columns. I feel like doing a similar
 book with all of my Australian Poker Weekly Columns from 2008-2011.
-Rolf's book is well organised into columns on Limit Texas Holdem, 
+Rolf's book is well organised into columns on Limit Texas Holdem,
 No Limit Holdem for Limit players, Limit Holdem for No Limit Players
 and finally (and of most interest to us) 21 columns on Pot Limit Omaha.
 
@@ -223,6 +230,24 @@ focussed on 6-max online games. It's not that suited to
 Full-Ring Live PLO. It's presented in a 28-lesson
 format (learn Omaha a lesson per day in a month). If you're
 going to play a lot of 6-Max online you should get it.
+
+MEGA-EXPENSIVE BOOKS by Various Authors
+
+When Super System came out in 1978, it was priced at $100.
+Doyle Brunson felt that if people wanted these poker secrets,
+they might as well pay good money for it. $100 was a lot of
+money in 1978 for a book and the 2018 equivalent of a super
+expensive book which hopefully reveals poker secrets is $3,000!
+
+Here is a list of some other Omaha books and the exorbitant
+prices being asked for them. I can't afford them.
+
+Pot Limit Omaha Course From Rags to Riches: Kim Ishida: $2996
+How to crush Pot-Limit Omaha Cash by Viktor: $2988
+Advanced PLO Play: The Workbook by Tri Slowhabit Nguyen: $634.95
+How to crush Pot-Limit Omaha by Viktor: $168
+The PLO Book: Transitioning from NLHE to PLO: $89.90
+
 
 Forums and YouTube Videos
 =========================
