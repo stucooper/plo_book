@@ -1,6 +1,6 @@
 RAINY DAY EXERCISE
 
-Last updated: 20180825
+Last updated: 20180829
 
 Next time you're stuck at home on a rainy day with nowhere to go
 and nothing to do, try this Rainy Day Exercise. Stop looking
@@ -234,4 +234,6 @@ are now no fewer than three full houses; JJJ55, 555TT and 555JJ. Seat 8,
 with 555JJ, is unwilling to put Seat 1 on a better full house
 because he'd need both the remaining Jacks to win. Which he does.
 
-River: 7c.
+River: 7c. Nothing changes on the final board of JT557. If those lower
+full houses haven't given the JJJ55 overfull all their chips yet,
+they will on the river betting.
