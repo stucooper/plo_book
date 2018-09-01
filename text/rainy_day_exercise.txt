@@ -46,13 +46,13 @@ QQ or 99, or even both.
 Pick the winner
 ===============
 
-Now that you've seen all the holdings, and before you deal the 
-flop/turn/river, try and pick the winner of this hand. Put the 
-50 cent coin on the holding you think has the best chance of 
-winning, the 20 cent coin on your number 2 pick and the 10 cent 
+Now that you've seen all the holdings, and before you deal the
+flop/turn/river, try and pick the winner of this hand. Put the
+50 cent coin on the holding you think has the best chance of
+winning, the 20 cent coin on your number 2 pick and the 10 cent
 coin on your number 3 pick. You have the advantage
-of seeing all 40 cards in the holdings, so you might discount 
-a strong hand like AAK9 two hearts because you can see the 
+of seeing all 40 cards in the holdings, so you might discount
+a strong hand like AAK9 two hearts because you can see the
 other two Aces are in other holdings and there's 7 other hearts
 out already.
 
@@ -246,3 +246,33 @@ because he'd need both the remaining Jacks to win. Which he does.
 River: 7c. Nothing changes on the final board of JT557. If those lower
 full houses haven't given the JJJ55 overfull all their chips yet,
 they will on the river betting.
+
+DEAL 7:
+Seat 1:  KJc6c5    Seat 2: QhT6h2   Seat 3: ATh9h5
+Seat 4:  Kc665c    Seat 5: AdQdJ7   Seat 6: KQc8c2
+Seat 7:  ATs4s4    Seat 8: 433s2s   Seat 9: JdJs9s3d
+Seat 10: AK9d7d
+
+Preflop comment: Mostly playable hands here, without anything
+to get too excited about. Seat 8 with 4332 is too low in rank
+and should fold. Seat 4 has a nice hand with the chance of making
+a King-high flush, a set of sixes or a low straight with the 65.
+I also like Seat 9's double-suited Jacks but sadly both of the
+Jacks he needs are in other holdings.
+
+Flop: QT7. This flop helps most of the holdings; Seat 1 has KQJT
+open-ender, Seat 2 has top 2, Seat 5 Nutshot to Broadway
+(needs a King) and top and bottom 2 pair QQ77, Seat 9 QJT9
+open-ender and Seat 10 a Nutshot to Broadway (needs a Jack,
+which unfortunately can't arrive, the four Jacks are in the holdings.
+
+Turn: 8 of spades, making Seat 9 the currently best straight.
+On the turnboard of QT78 his J9 is currently the nuts. There's
+now a worse two pair QQ88 for Seat 6.
+
+River: offsuit 9, bringing in Seat 1's open-ender. On the final board
+of QT789, Seat 1's KJ has the nut straight and has bad-beated Seat 9.
+Seat 9 is likely to pay off a bet here, because with two Jacks in his
+own holding he might reason that his Jacks are blockers and Seat
+1 probably doesn't have the exact hand King-Jack needed to make
+the nuts. Sadly for Seat 9, Seat 1 indeed has the nuts.
