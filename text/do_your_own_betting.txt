@@ -1,16 +1,18 @@
 DO YOUR OWN BETTING
 
-Last updated: 20180825
+Last updated: 20180901
 
 In No Limit Holdem, you need to slowplay and trap your opponents.
-There's sometimes only two or three players still active on the flop,
-and if you bet your big hands too big on the flop you risk everyone
-folding and winning a small pot.
+There's often just two or three players still active on the flop,
+and if you bet your big hands too big you risk everyone
+folding and winning a small pot. You've got to try to bet the
+flop and build the pot so you can win more on your big hands,
+but if you go too big too soon you might lose your customers.
 
 Pot Limit Omaha is not the trapping game that No Limit Holdem is.
 There's three important reasons for this.
 
-1) There's normally more than three players still active on the flop.
+1) There's often three or more players still active on the flop.
    More players means there's more chance that someone's also connected
    well with the flop, and will call your big bets and give you action.
 
@@ -19,7 +21,7 @@ There's three important reasons for this.
    player who was staying in with a different draw to make a full house
    using other cards in his holding.
 
-3) As the betting is Pot Limit, you can't blast players out of the pot
+3) The betting is Pot Limit, so you can't blast players out of the pot
    on the flop with an oversized bet. The worst immediate odds a player
    is getting,facing a single pot bet is 2 to 1. If the pot is $70 and
    you bet the pot of $70, the first player is being presented with a
