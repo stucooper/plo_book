@@ -1,13 +1,13 @@
 THE HANDS RUN BIG
 
-Updated 20180814
+Updated 20180910
 
 "From time to time a very good hand,
  correctly played,
  will cost you your whole stack;
  that's just part of big-stack poker".
 
-- Dan Harrington, in Harrington on Cash Games, Volume 1, page 82.
+- Dan Harrington, Harrington on Cash Games Volume 1, page 82.
 
 
 One of the first things to understand about Omaha 
@@ -17,13 +17,13 @@ Nuts or the second Nuts. The hands run big.
 
 This means you've got to be very careful when you're betting or
 calling with a strong but non-nut hand and
-enemies in this pot are sticking around. You could be in a lot 
+enemies are sticking around. You could be in a lot 
 of trouble.
 
 In Texas it's pretty rare for two both-hole-cards-used made
 flushes to be in a contest together and almost unheard of for three 
-flushes to be there. In Omaha this happens all the time. Thanks to
-everyone having a 4-card holding, there's a lot more flushes out there.
+flushes to be there. In Omaha this happens all the time.
+Everyone has a 4-card holding, there's a lot more flushes out there.
 This means you've got to be very careful with non-nut flushes in the
 face of heavy betting. If you're the player lucky enough to have 
 the nut flush, you can bet it strongly and expect more action than you'd
@@ -42,6 +42,12 @@ are dealt off, the next 4 cards (burn and three-card flop) contained
 2 Jacks. The likelihood is strongest that both remaining Jacks are
 in the players' holdings. There's not many "dead cards" at the bottom
 of the deck, 40 of them have already been dealt to the player.
+
+When you do the Rainy Day Exercise, you'll notice when handing the
+cards how few remain to do the flop, turn and river. Because
+The Star deals the cards out of a shoe, it's not so physically obvious
+when you're at the table, but when you handle the cards yourself you can
+see how few there actually are.
 
 In Texas ten-handed only the top 20 cards are dealt to the players,
 so on a flop of JJ3 you'll normally win with the Jack - there's a good
