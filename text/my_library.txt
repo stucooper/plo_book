@@ -1,6 +1,6 @@
 ESSENTIAL POKER BOOKS
 
-Last updated: 20180829
+Last updated: 20180910
 
 I own over 150 books on Poker and Gambling. Unfortunately
 just having so many books doesn't make me a champion player,
@@ -193,6 +193,10 @@ other Omaha books. Most of the book is PLO High advice, there's
 also a lot of Limit Omaha/8 content and Pot Limit Omaha/8 content,
 which I haven't needed to read.
 
+There's extensive analysis of Straights in Omaha, and the kind
+of holdings that can make powerful winning straights. Make sure
+you read that chapter and work through it.
+
 This book is the single best PLO book on the market.
 
 POT-LIMIT OMAHA: UNDERSTANDING WINNING PLAY by William Jockusch
@@ -263,6 +267,12 @@ The two main voices in YouTube PLO are Joey "ChicagoJoey" Ingram
 and Fernando "JNandez87" Habegger. A bit like the Matthias Plum
 book, the YouTube videos are mostly geared towards succeeding
 in the online environment.
+
+Fernando Habegger worked for Doug Polk's PLO training course,
+but the two had a falling out (over money, naturally) and
+for a while made YouTube videos attacking each other. Habegger
+has now gone his own way and makes PLO videos and training content
+under his own name.
 
 From a Internet message board/posting point of view, the Two Plus Two
 forums are the best regarded. They're
