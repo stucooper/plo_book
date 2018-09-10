@@ -1,6 +1,6 @@
 WHY PLAY PLO?
 
-Last updated: 20180828
+Last updated: 20180910
 
 Why would you play Pot Limit Omaha? Many poker players
 stick exclusively to No Limit Holdem, cash and tournaments, and
@@ -79,7 +79,10 @@ where an active player with a huge draw and a huge stack blasts
 away another active player, and the all-in player's marginal
 hand holds up when the active player's draw misses and the
 blasted-off player would've won. This concept is called
-Protection and you see it in Tournament Holdem a bit.
+Protection and you see it mostly in Tournament Holdem.
+In PLO it turns up Pre-flop, where a big stack player
+will often blast off other medium stacks with the third raise,
+leaving him one-on-one against a short stack.
 
 PLO is not a trapping game like NLH is. Because there's so many
 cards dealt, and everyone has a 4 card holding, there's
