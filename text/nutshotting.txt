@@ -1,15 +1,20 @@
 NUTSHOTTING
 
-Last updated: 20180826
+Last updated: 20180925
 
 Everyone knows that a gutshot straight draw is a thin draw
 with just 4 outs, and unless you're getting a ridiculous
 10 to 1 on your call, you're going well against the odds.
 
 I'll sometimes take this longshot call in PLO facing a flop bet.
-Because the betting is Pot Limit, the flop bet often isn't too
+Because the betting is Pot Limit, the flop bet isn't too
 large and if I hit my magic out I'll be able to win tons more
-money. I call this "Nutshotting"- taking a gutshot draw to a
+money. If I put in a big bet on the turn with a made
+straight and I get called by two pair hands or flush draws
+with just one card to come, the callers are the people
+making the mistakes.
+
+I call this "Nutshotting"- taking a gutshot draw to a
 Nut Straight.
 
 To call with a Nutshot Draw, I want as many of the following conditions
@@ -22,7 +27,7 @@ to be true as possible:
    put in a huge bet to charge any sets and flush draws and two pair hands
    the maximum to try and outdraw me (and hopefully miss)
 4) I have good reason to believe that if I hit, the whole pot will be mine.
-   I shouldn't be splitting this pot with the same straight.
+   I won't be splitting this pot with the same straight.
 5) There's no board pair on the flop, and the flop isn't onesuit. Don't
    draw to straights when higher rung hands are already possible
 6) There's some other passengers in this pot, and if I call on the flop
@@ -32,6 +37,9 @@ to be true as possible:
    already have a pair that could luckboat by the river, or a pocket
    pair that could spike a set. Runner-runner flush chances also
    count as a tiny bit more value.
+8) I won't get re-raised by a later actor. Either I'm last to call and
+   my call closes the betting, or my best judgement is that everyone
+   else will flat call or fold, as I hope for in condition (6).
 
 Here's an example of two Nutshot draws I took, from my session notes
 of 2nd March 2018. In the first hand I have Q776, four players have
@@ -58,8 +66,8 @@ look, but here my 6 gives me redraws to higher straights if I can spike
 a 2, 3 or 4 on the turn. Again I make a Nutshot call on the flop and
 the turn comes a repeat Jack, making the turnboard of AJ5J. I
 get out of the way as two player get their stacks in. AJxy crushes
-J5xy. This is a cooler for J5, I'll have more to say about this same
-hand in my section on two-pair hands.
+J5xy. This is a cooler for J5, who has just learned a valuable
+lesson in what happens when you flop bottom two pair in Omaha.
 
 Don't nutshot to Broadway
 -------------------------
@@ -73,3 +81,19 @@ Broadway draw does come in, I'll split the pot with someone
 or be freerolled as they have Broadway with two-pair or
 Broadway with a flush draw.
 
+Most of my nutshots are with connectors in the midrange rank;
+6,7,8,9,T.
+
+You don't have to play like this
+--------------------------------
+
+You might prefer not to add nutshotting to your game and that's
+fine. Nutshotting is a long-odds shot, and you could argue
+quite forcibly that my nutshot draws are going well against
+the odds. A lot of the time I get my nutshot on the turn and
+lose a huge pot when the river brings the third flush card
+or pairs the board. Nutshotting might not be a winner in
+a risk/reward sense. I thought long and hard about leaving
+this chapter out of my book, but I have to be true to myself
+and my readers and be honest about how I play, and nutshotting
+is part of my game.
