@@ -1,6 +1,6 @@
 ESSENTIAL POKER BOOKS
 
-Last updated: 20180910
+Last updated: 20180925
 
 I own over 150 books on Poker and Gambling. Unfortunately
 just having so many books doesn't make me a champion player,
@@ -73,11 +73,13 @@ winning, ABC Pot Limit Omaha.
 Unfortunately the book mixes Limit Omaha High and Limit Hi-Lo Omaha
 advice into just about every page, and also Tournament advice.
 And like Super System 1, there's a few pages on "Insurance"
-which are now out of date; a more modern book might provide
-good suggestions on when to run it twice.
+which are now out of date; a modern book would provide
+good suggestions on when to run it once, twice or three times.
+(As my book is about 1/3 PLO and the casino only runs it
+once, I'm not giving any advice on running it twice or more either).
 
 Even though there are chapters specifically on each game type,
-the authors can't help saying "in Hi-Lo you'd to this" or
+Cloutier and McEvoy can't help saying "in Hi-Lo you'd to this" or
 "if this was in a tournament you'd make this adjustment".
 
 T.J. Cloutier coined the Omaha term "Danglers". He's just about
@@ -103,30 +105,33 @@ a few hours of reading and even faster if you avoid
 the Omaha/8 material.
 
 Sick of losing runner-runner, Ciaffone suggests a game "T-Omaha"
-where the turn and river are placed above and below the flop
-(forming a sideways "T" shape) and you can't use both of them to make your
-final five-card hand. This would make the Omaha 2+3 Showdown
-rule even harder to understand for new players. The showdown
-rule would be 2+3F or 2+2F+1TR where 3F means "all three
+where the turn and river are placed above and below the third
+flop card (forming a sideways "T" shape) and you can't use
+both of them to make your final five-card hand. This would make
+the Omaha 2+3 Showdown rule even harder to understand for new players.
+
+The showdown rule would be (2+3F,2+2F+1TR) where 3F means "all three
 flop cards", 2F means "two flop cards of your choosing" and 1TR
 means "one of the turn and river, but not both".
+
 Ciaffone probably gets to play this variation in his home games only.
 The idea never caught on.
 
 Cloutier/McEvoy cover the same ground as Ciaffone, and in my opinion
 do a better job. This small book is not essential to have
-in your PLO Library.
+in your PLO Library. If you can pick it up cheaply, go right
+ahead, but it's not essential.
 
 HOW GOOD IS YOUR POT LIMIT OMAHA? by Stewart Reuben
 2003. D&B Poker
 
-Stewart Reuben, whose Christian name is spelled a way I don't agree
+Stewart Reuben, whose Christian name is spelled a way I disagree
 with, is a High Stakes London player who has written many poker books,
 including "Pot Limit and No Limit Poker" with Bob Ciaffone.
 Inspired by "How good is your chess?" which puts you in the mind
 of a grandmaster considering his next chess move.
 Reuben wrote this book and "How good is your Pot
-Limit Holdem". At each betting decision, you get a range of options
+Limit Holdem?". At each betting decision, you get a range of options
 (pass = fold, call, raise a bit, raise the pot) and you get marked
 at the end for your decision.
 
@@ -136,7 +141,7 @@ plays 6332 (which can't even flop MIDDLE set let alone top set)
 and loses to QJ on the runout QQ3J7. I'll revisit this book soon.
 
 Reuben's hands normally involve all the players having Megastacks,
-which isn't the case at the games I play. Once again, this is
+which isn't the case in 1/3 PLO. Once again, this is
 not an essential book to have in your PLO library.
 
 SECRETS OF PROFESSIONAL POT-LIMIT OMAHA by Rolf Slotboom
@@ -162,7 +167,7 @@ $200 is a bit on the high side.
 
 Some of Slotboom's "cash out and join a new table as a new
 shortstack" recommendations aren't possible in live poker, you can
-only jump around that much on the Internet. His shortstacking
+only jump around like that on the Internet. His shortstacking
 advice is great for getting your buyin from $150 up to $400 or so.
 
 SECRETS OF PROFESSIONAL POKER VOLUME 1 by Rolf Slotboom
@@ -195,7 +200,8 @@ which I haven't needed to read.
 
 There's extensive analysis of Straights in Omaha, and the kind
 of holdings that can make powerful winning straights. Make sure
-you read that chapter and work through it.
+you read that chapter and work through it. Understanding straights
+properly will give you a real edge in PLO.
 
 This book is the single best PLO book on the market.
 
