@@ -100,7 +100,7 @@ Number of double-suit holdings: (aabb)
   = 78 x 78 x 6
   = 36,504
 
-It's odd that there's less double-suited holdings than three-to-a-suit
+It's odd that there are fewer double-suited holdings than three-to-a-suit
 holdings. This is because the double-suited holdings are "tight",
 there's no room for extra cards. With the three-to-a-suit holdings,
 there's a fourth offsuit card that can be any of 39 fourth cards.
