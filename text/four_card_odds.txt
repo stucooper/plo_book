@@ -1,9 +1,9 @@
 FOUR CARD HOLDING ODDS
 
-Last updated: 20180826
+Last updated: 20181117
 
 I have a Maths degree as well as a Computer Science degree and
-although my day job is in Computers, I retain an interest and
+while my day job is in Computers, I retain an interest and
 skill in Maths. This chapter is about some maths and probability as it
 applies to Poker and especially to Omaha.
 
@@ -46,7 +46,10 @@ Omaha holdings is (52x51x50x49)/24 = 270,725. There are
 over two hundred and seventy thousand different four-card
 combinations you can be dealt in Omaha.
 
-Number of Badugi holdings = (52x39x26x13)/24 = 28561.
+Number of Badugi holdings: (abcd)
+ = (52x39x26x13)/24
+ = 28561.
+
 This is worked out as follows: the first card you peek at can be anything,
 it's a Diamond. The next card you peek at has to be one of the three
 other suits, there's 39 of them. So 52x39 choices for the first two cards.
@@ -63,7 +66,8 @@ holding you must have one club (pick one of 13) one spade
 (pick one of 13) and the number of ways of doing that
 is 13x13x13x13. Sometimes when working out these probabilities
 you come up with an answer that can be arrived at in
-two different ways.
+a mathematical way and a different, more intuituve way.
+13x13x13x13 is a more intuitive way.
 
 The turnboard is another random four card combination so these
 probabilites apply to it as well. The turnboard will have no flush
@@ -71,7 +75,9 @@ chances only 10% of the time. 9 times out of 10, a flush draw will
 be possible on the turn. 1 in 7 times, a flush draw will be possible
 in two suits.
 
-Number of all-cards-same-suit holdings = (52x12x11x10)/24 = 2,860 = 1%
+Number of all-cards-same-suit holdings: (aaaa)
+ = (52x12x11x10)/24
+ = 2,860
 
 Number of three-of-a-suit, one offsuit holdings
  = 4 x number of ways of picking 3 cards from a suit x 39 (offsuit cards)
@@ -101,8 +107,8 @@ there's a fourth offsuit card that can be any of 39 fourth cards.
 So there are 39 Ac5c2c triple suited holdings, because the fourth
 card can be any heart, diamond or spade.
 
-Number of two-of-a-suit, two others
-  = 4 suits x number of ways of two-of-a suit
+Number of two-of-a-suit holdings: (aabc)
+  = 4 suits x number of ways of two-of-a-suit
     x number of ways of other two cards being offsuit
 
   We know already the number of ways of getting two-of-a suit
