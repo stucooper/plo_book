@@ -1,6 +1,6 @@
 PREFLOP STEP RAISING
 
-Last updated: 20180814
+Last updated: 20181118
 
 If you're an NLH Tournament player, you might know
 a preflop technique called the Sandwich Play, or Squeeze Play.
@@ -41,6 +41,11 @@ chapter that several Omaha writers have proposed rule changes to Omaha
 that have no hope of being implemented. "All preflop raises must be
 the maximum of full pot" is my futile rule change.
 
+My other rule change, which I want to see in Holdem as well as Omaha,
+is "Straights beat Flushes". I chase that many straights that if
+this rule change came in, I'd soon be one of the top 100 players
+in the world.
+
 The Step Raisers often sit close to each other at the table, either right
 next to each other or with just one or two seats between them. When
 an empty seat opens they might even move so they're next to each other.
@@ -51,7 +56,7 @@ the big blind - there's up to a full 8 players caught in the middle.
 Sometimes in PLO you'll call a preflop bet to $10 and get an easy fold
 when it's pot raised and pot re-raised behind you. It's easy to fold T977
 for $10 when it comes back to you as a $110 call, but not so easy when
-it's $10 come back to you for $30. But if there's step raising going on 
+it's $10 come back to you for $30. But if there's step raising going on
 you're often not going to see the flop for $30. You call the $30, another
 player calls but then there's another step raise for $40 and the
 first raiser now makes it $50. If you call the $50 you're just throwing
@@ -64,10 +69,10 @@ players and cause them to make scared money mistakes against the
 5/5 players who are much more comfortable playing at these bigger stakes.
 
 I once stuck around holding Aces with two guys Step Raising, when they'd had
-enough preflop Step Raising the flop came AT4. I flat called the 
-first player's bet, there was a post-flop Step Raise and it was only when 
-action returned to me that I raised the pot. (Step Raising is extremely 
-rare after the Flop). I got called by just one of these clowns and I 
+enough preflop Step Raising the flop came AT4. I flat called the
+first player's bet, there was a post-flop Step Raise and it was only when
+action returned to me that I raised the pot. (Step Raising is extremely
+rare after the Flop). I got called by just one of these clowns and I
 won a monster pot. That extra little bit from the other Step Raiser on
 the flop was a real sweet part of my win.
 
