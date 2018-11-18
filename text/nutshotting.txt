@@ -1,6 +1,6 @@
 NUTSHOTTING
 
-Last updated: 20181005
+Last updated: 20181118
 
 Everyone knows that a gutshot straight draw is a thin draw
 with just 4 outs, and unless you're getting a ridiculous
@@ -45,7 +45,7 @@ to be true as possible:
    my call closes the betting, or my best judgement is that everyone
    else will flat call or fold, as I hope for in condition (6).
 
-Here's an example of two Nutshot draws I took, from my session notes
+Here's two example of Nutshot draws I took, from my session notes
 of 2nd March 2018. In the first hand I have Q776, four players have
 paid $10 to take the flop which comes Q53 two spades. I don't have
 spades myself, I've missed my 777 set and my top pair, while
@@ -69,8 +69,11 @@ the $160 that the pot was when I was calling into it
 another $380 on top of that from the two callers on the turn.
 I called $40 and won $530, on a 10 to 1 shot.
 
-If I'd had more money behind to bet on the river I would have got
-a crying call from the low straight, though not the missed flush draw.
+If I'd had even more money behind to bet on the river
+I would have got a crying call on the river from the low straight,
+though not the missed flush draw. The final board is Q5348, so A2
+has to call because only the exact 76 straight wins, and I could
+well be jamming with a set here.
 
 In my second Nutshot draw, I'm playing the co-ordinated but low
 holding of 6432. The flop comes AJ5. Normally these 9-out
