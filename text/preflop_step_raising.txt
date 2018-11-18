@@ -51,7 +51,8 @@ next to each other or with just one or two seats between them. When
 an empty seat opens they might even move so they're next to each other.
 This maximises the number of people who'll get sandwiched by their
 step raising. Imagine if the step raising is done by the small blind and
-the big blind - there's up to a full 8 players caught in the middle.
+the big blind - there's up to a full 7 players caught in the middle.
+(Star poker tables at the moment are 9-max in both Holdem and Omaha).
 
 Sometimes in PLO you'll call a preflop bet to $10 and get an easy fold
 when it's pot raised and pot re-raised behind you. It's easy to fold T977
