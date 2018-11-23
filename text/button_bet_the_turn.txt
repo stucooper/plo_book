@@ -1,0 +1,66 @@
+BUTTON BET THE TURN
+
+Last updated: 20181123
+
+If you're on the Button and there's a small to moderate pot
+by the turn and everyone has checked to you,
+put in a bet, especially with OK-ish hands
+you feel you'd call a river bet with. This bet serves a bunch of
+useful purposes.
+
+1) It can win you the pot outright. Especially in hands where
+everyone has also checked the flop. A check on the flop is
+sometimes a shoot for a check-raise, but if a player has
+checked both the flop and the turn he's not building the pot
+and has a small pot hand. Dan Harrington mentions this in
+a Holdem context in FIXME(find the Harrington reference).
+
+2) You'll annoy players hoping for a free river card. They'd
+like one to see if they can spike a good two pair or trips
+or a gutshot straight or a low flush but they don't want
+to pay for the privelege. None of their draws are good enough
+to bet themselves, so they'll take a free card and win this
+small pot if they can.
+
+3) It can buy you a cheaper showdown. Your turn bet means you're
+now the betting leader, and often the other players will check
+to you again on the river, afraid your hand is better than theirs.
+This saves you money when you've got a calling hand that's a loser.
+Yes you bet the turn and you lose that money, but if you'd checked
+the turn you would've called a bigger amount on the river anyway.
+The pot is $60, you bet $35 on the turn and check-behind and lose
+on the river, you've lost $35. But if you'd checked the turn,
+someone bets $50 on the river and you call, you lose $50.
+
+So betting the turn in this case has saved you $15.
+
+Now saving $10 and $15 here and there isn't the primary focus
+of your PLO play, you're playing for stacks. But if you've got that
+$15 more in your stack when you double up, you end up $30 better
+off than if you didn't have that $15. The bigger your stack the better.
+
+4) This bet also serves as a pot builder so if you spike a nut hand
+you can sell it on the river for more money. Say you've got 5443
+2 diamonds on a turnboard of AJ59 two diamonds. You've got three
+nut out deuces and quite a few other cards that could be winners
+as there's been little postflop betting in this hand. A four makes
+you a probably-winning set, any diamond makes you a showdown-worthy
+flush and even a repeat Five cound win.
+
+If everyone checks to you again on the river, you can play poker
+with this hand and consider if you can value bet a non-nut hand.
+I'd probably check behind the tiny diamond flush,
+value bet a set of 444 and even value bet the trip fives. If
+I was nut with a river deuce I'd sell it for as much as I think anyone
+would call; and the turn bet has built the pot so that I can sell it
+for more.
+
+Except when you're nut with river two, you need to fold to a check-raise
+on either the turn or the river.
+
+5) As you've taken the betting lead, you can consider a bluff if
+the river is a brick that doesn't complete any draws. On the AJ59
+turnboard, a river card that's not a Broadway card or an 8 is a Brick.
+Since you'd bet the turn it looks like you've got a good two pair hand
+like AA99 so if the river is a A,9,7,6,5,4,3 or 2 you can value bet
+or bluff.
