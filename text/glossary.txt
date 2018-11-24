@@ -1,6 +1,6 @@
 GLOSSARY
 
-Last updated: 20181117
+Last updated: 20181124
 
 Most books put the glossary right at the back and you never
 look at it very much. I'm reversing this by putting my glossary at
@@ -89,13 +89,13 @@ BLUSH: A one-card flush bluff, you don't actually have the flush but
   and the board has K94 of Spades, you have The Blush.
 
 BOARD: The shared community cards. Sometimes called the COMMUNITY.
- 
+
 BOARD PAIR: A turn or river card that makes the community cards show a pair.
   An all-in player, with a set or THREE PAIR and seemingly needing to improve
   to a full house to win, will often ask the dealer to "Pair
   the Board". Also called a REPEATER.
 
-BOARD PAIR BLUFF: A bluff, representing making a Full House when 
+BOARD PAIR BLUFF: A bluff, representing making a Full House when
   the Board Pairs.
 
 BRICK: A turn or river card that doesn't help any of the drawing hands.
@@ -365,8 +365,17 @@ ONE-WAY HAND: A holding which looks like it only has one thing going
   or a straight. Good Omaha holdings have the possibility of making more
   than one of these hand types.
 
-OVERFULL: The best possible full house, made with top set with an underpair
-  showing on the board. KK on a K88 board has flopped the Overfull.
+OVERFULL: The current best full house, made with top set with an underpair
+  showing on the board. KK on a K88 flop has flopped the Overfull.
+
+  The overfull isn't always the Nuts, it loses to Quads and it can be
+  outdrawn by a higher pair overfilling it. If you have KK87 on the
+  K88 flop, you can't lose to quads as you've accounted for one of the
+  remaining Eights.
+
+  KT on a flop of KKT is the current best full house, but isn't an
+  Overfull. The Overfull is specifically the full house made with
+  Top Set and an underpair on the board.
 
 PAR: (DRS) The amount of money in chips you need to be even for the night.
   If you've blown two $150 buyins and you're into you're third $150
