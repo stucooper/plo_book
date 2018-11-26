@@ -20,7 +20,8 @@ like one to see if they can spike a good two pair or trips
 or a gutshot straight or a low flush but they don't want
 to pay for the privelege. None of their draws are good enough
 to bet themselves, so they'll take a free card and win this
-small pot if they can.
+small pot if they catch lucky. Your turn bet denies them
+that chance and they'll give up on this nothing pot and fold.
 
 3) It can buy you a cheaper showdown. Your turn bet means you're
 now the betting leader, and often the other players will check
@@ -55,7 +56,7 @@ I was nut with a river deuce I'd sell it for as much as I think anyone
 would call; and the turn bet has built the pot so that I can sell it
 for more.
 
-Except when you're nut with river two, you need to fold to a check-raise
+Except when you're nut with a river two, you need to fold to a check-raise
 on either the turn or the river.
 
 5) As you've taken the betting lead, you can consider a bluff if
