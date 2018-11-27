@@ -1,6 +1,6 @@
 THE LEAVING DECISION
 
-Last updated: 20180915
+Last updated: 20181128
 
 Cash poker has an important element that Tourment Poker doesn't,
 the Leaving Decision. In a tournament you have to play until you bust, or
@@ -9,8 +9,11 @@ unless you're playing in the dead hours of the morning and the game
 is about to stop, the game simply goes on without you after you leave.
 
 From your point of view, the game is over once you leave it.
-There's poker games going on 24x7, the only ones you care about
-are the ones you're playing in.
+There's poker games going on 24x7, the only one you really care about
+is the one you're playing in. You might glance at a mate playing
+on the other table, or watch a big all-in pot on it when
+the players there are making a bit of noise, but the game you
+care about is your own.
 
 The leaving decision is the most important decision you'll make in Cash
 Poker. If I wrote about aspects of poker proportional to how important
@@ -191,7 +194,7 @@ and whether it's time to call it a night.
 
 For simplicity of this table, I'll assume each of your buyins is a
 fixed $150 and you win 3 good hands in 40 minutes and your stack is
-now $100.
+now $1000.
 
 Buyin     In-for   Session position      Feeling
   1         150         +850             Blissful
