@@ -1,6 +1,6 @@
 THE CRYING BET
 
-Last updated: 20181005
+Last updated: 20181202
 
 Most of the time in Poker you want to be Last To Act.
 Position is power. You get to see what the earlier players
@@ -23,6 +23,15 @@ you run into the nuts. If your stack is noticeably bigger
 than the current pot, you should probably just check/call
 and save yourself money when you are behind, since the most
 you'll have to call it the pot.
+
+If you bet an amount n that's less than the pot size P,
+you can be raised to 3n+P; so even betting as little as
+1/3 pot means you might have to pay 2P to see the showdown,
+if you're raised the maximum. If the pot is 300 and you bet
+100, a later player can pot-raise you to 600, and he's usually
+only doing that with the Nuts. So don't use crying bets when
+you've got tons of chips left, it's far too expensive when
+you're not the winner.
 
 Remember that you've decided already that if you check and
 a later player bets, you're going to call that bet. You've already
@@ -77,9 +86,10 @@ that I'm going to Crying Call, I can go ahead and Crying Bet.
 Don't crying bet a straight on flush boards. There's too much
 chance that you'll get flat called by a medium or low flush.
 Sometimes the flush isn't there and you pick up the pot as it
-is, but betting extra into this pot is a losing play; any
-flush calls you and you're giving chips away. A straight on
-a flush board isn't often a certain check/call hand.
+is, but betting extra into a flush board is giving your chips
+away; any flush calls and you're giving chips away. A straight on
+a flush board isn't a certain check/call hand anyway, so doesn't
+qualify as the sort of hand you Crying Bet with.
 
 World Class Play
 ================
@@ -120,3 +130,8 @@ and remember in Omaha as in Holdem it's much better to be
 In Position, Last to Act than it is to be Out of Position,
 First to Act. Poker is about winning the most with your
 winning hands, and the Crying Bet helps you do this.
+
+So the conditions for a Crying Bet, normally made on the river, are
+
+(1) A strong hand you'll call with should Last-to-Act bet
+(2) A stack size less than twice the pot.
