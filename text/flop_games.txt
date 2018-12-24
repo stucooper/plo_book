@@ -1,6 +1,6 @@
 POKER GAMES: DRAW, STUD AND FLOP
 
-Last updated: 20180923
+Last updated: 20181225
 
 Most poker games fall into one of three categories: Draw games,
 Stud Games or Flop Games. Within each category is a group of
@@ -10,7 +10,7 @@ the Hand Rankings used.
 
 Broadly speaking, Poker was Draw Games until the 1950s, Stud Games
 from the 1950s to the 1980s and Flop Games from the 1980s until today. You
-can see the migration in the different editions of Super System.
+can see the migration in the two different editions of Super System.
 In Super System (1978) there's chapters on Draw Poker, both
 Draw Poker High and Lowball. There's also sections on Stud Hi,
 Stud Hi-Lo, Limit Holdem and No Limit Holdem. In Super System 2 (2005)
@@ -52,7 +52,7 @@ Stud Games
 In Stud Poker, players have unique hands with some of their
 cards private ("downcards") and some visible to all
 players ("upcards"). Watching the upcards of the other players
-and remembering what upcards were earlier folded by players
+and remembering what upcards were folded by players
 now out of the hand is a key skill of the game.
 
 Seven Card Stud is the most enduring of the Stud games. Players
@@ -94,7 +94,7 @@ same Board for every player.
 
 Dan Harrington writes that Holdem hits the sweet spot of
 the right amount of information visible to the observant player.
-In 5-card Draw Poker there's no information shared, everyone has
+In 5-card Draw Poker there's no information visible, everyone has
 downcards. In 5-card Stud Poker there's too much information, everyone
 holding 4 upcards and just a single downcard. Holdem gets it just right
 with 5 shared upcards and two downcards per player.
