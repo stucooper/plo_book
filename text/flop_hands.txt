@@ -1,0 +1,54 @@
+HANDS ON THE FLOP
+
+Last Updated: 20181227
+
+You know from your Holdem experience how to read a Flop and see what
+hands and draws might be out there. There's not much happening
+on a flop of T52 rainbow. Whoever is ahead on the flop will probably
+be ahead on the river; although a hand like KQ could stay in and pair
+their overcard. A bet on that T52 flop will often win the pot and end
+the hand right now.
+
+In contrast, there's lots of potential on the flop J98 two diamonds.
+Two pair, pair with straight draw, made straight and flush draw are
+all possible hands connecting with this flop. The best hand on the flop
+will often get outdrawn.
+
+A flop with widely spaced rainbow cards is called a Dry Flop and a flop
+with straight and flush chances is called a Wet Flop. Because
+straight draws run so wide in Omaha, you need a very widely spaced
+flop to be truly straight-dry. There needs to be four gaps between
+each card. There are so few of these flops that I'll list them:
+K83, K82, K72, Q72. That's all of them. If there's only a three-gap,
+like K92, someone with exactly QJT has flopped a 9-out nut straight
+"inside wrap" draw. 
+
+No unpaired flop containing an Ace is straight-dry.
+
+A flop with a pair on it I call a Dope flop and I'll discuss separately.
+Also to be discussed separately are three-of-the-same-suit monochrome flops.
+
+You want to flop big in PLO; either top set that can improve to the
+best possible full house, a nut flush draw, or a big straight wrap.
+Really good hands flop combinations of these, which I'll look at later.
+
+If you don't connect strongly with the flop, chances are excellent that
+someone else in this hand has, and will easily beat you in this hand.
+Don't bring a knife to a gunfight, get out cheaply this hand. A much
+better opportunity will come soon; when they've got the knife and you've
+got the cannon.
+
+Flop betting in a multiway Omaha pot that isn't already huge is pretty
+honest. A pot sized bet on a JT4 flop normally comes from top set; and
+the callers have straight or flush draws. Depending on the hands involved,
+top set might not be the favourite to win.
+
+TOP SET
+=======
+
+Jamming with Top Set is a PLO tradition; charging the maximum for hands
+to try to outdraw you. You can't stop draws staying in; as the betting
+is Pot Limit. A good 12-out draw is getting about the right price in
+Pot Limit; if he's being charged 2 to 1 for his call as he is about
+25% to make his draw on the next card.
+
