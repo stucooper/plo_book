@@ -92,3 +92,94 @@ now but it's not likely to be the best hand once all the cards are out.
 Sets only turn into full houses 20% of the time and if they don't,
 there's five unpaired board cards and it's too easy for other
 holdings to have straights or flushes.
+
+MIDDLE SET
+=======
+
+More stacks have been killed with flopped Middle Sets than any other
+holding. They lose to straight wraps and flush runouts and they're
+absolutely smoked my top set. If the top card on the flop is an Ace
+you can take your chance that nobody has an AAA set but if the
+top card is anything else you could be behind to top set.
+
+If you bet your middle set and get pot raised, what hand can the
+raiser have except top set? OK sometimes he's got bottom set but
+if you regularly commit your stack with middle set in Omaha
+you're making a huge mistake. If your stack is less than
+$200 then go ahead and take your chances but save your stack
+when you're deep.
+
+BOTTOM SET
+==========
+
+Bottom set is even more of a stack killer than Middle Set. It's
+a real trap for Holdemites who've scooped $400 pots in NLH
+with hidden sets 444, 333 or 222 and don't see why they can't
+do the same in Omaha.
+
+Sometimes Bottom set is up against top two pair and when the board
+pairs on the turn, it's become Bottom Boat and is smoked. Bottom
+set is the ultimate low confidence hand.
+
+I regularly fold holdings with 22, 33 or 44 in them, unless they
+have other things going for them like a suited Ace or
+wheel straight chances. 5422 or A322 I'll take a flop with
+but T822 is in the muck preflop. This preflop fold doesn't just
+save me $3 or $10 in the preflop call, it saves me my stack
+on thos times that I flop bottom set and I'm miles behind.
+
+You have to fold bottom pocket pairs if you're going to be an
+Omaha winner. When the big money goes into a PLO pot, the
+winning hand is often the absolute nuts and bottom set,
+once all the cards are out, is never the nuts.
+
+The lowest pocket pair I've flopped an overful with is 55.
+I got a 544 flop and won a big pot from two other players who
+each had a 4.
+
+Now and again I lose a big pot to a 222 set, it's worth checking
+the full four card holding of the winner and seeing if
+they had anything going for their hand besides that trashy low
+pair. I've won the stacks of 222 sets many more times than
+I've lost big pots to them, so if the other players really want
+to keep taking flops with low pairs I don't mind.
+
+
+TWO PAIR HANDS
+==============
+
+There;s four ways of flopping Two Pair in Omaha. Let's say the
+flop is a reasonably dry J73; there's some inside wrap hands
+possible but it's pretty dry. You can flop top two pair
+(your holding is J7xy), top and bottom pair (J3xy), bottom two pair
+(73xy) or all three pairs (J73x).
+
+To begin with, any two pair hand is smoked by top set (such as
+that hand I mentioned in the Top Set section where I had TT
+against T7 on a T72 flop). Don't imagine that your having top two
+pair lessons the chance of a villain having top set or middle set.
+In No Limit Holdem you need to learn not to go broke with just one pair.
+In Omaha you have to learn not to go broke with two pairs. The reasoning
+is the same in both games: anyone willing to pour big money into the pot
+has a hand that beats you. Unless your stack is small and you're
+prepared to tkae a chance with a likely-best-hand-right-now,
+don't overcommit with two pair.
+
+That said, let's have a look at the different kinds of two pair hands
+
+Top Two Pair
+------------
+
+This is of course the best of the two pair hands and can be worth
+good investment, if your radar tells you there's no sets against you.
+If top pair repeats on the turn (turnboard J73J) you've got the nuts
+and you'll win the stack of middle set, bottom set and top and
+bottom pair.
+
+If the middle card repeats (turnboard J737) you've got the probable
+nuts (JJ beats you but you hope your "top set isn't out there" radar
+is accurate). You can lose to KQ7x id the river is an overcard King
+or Queen. It's worth taking that chance.
+
+Top and Bottom Pair
+-------------------
