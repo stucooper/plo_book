@@ -183,3 +183,12 @@ or Queen. It's worth taking that chance.
 
 Top and Bottom Pair
 -------------------
+
+Top and Bottom Pair is very problematic. It's smoked by the sets
+and by top two pair. If the top card repeats it's game over.
+Imagine J3 v J7 on that turnboard of J73J. Another way top and bottom pair
+loses its stack is when bottom pair repeats and the villain had middle
+set and fills up. Omaha is a tough game of nut hands.
+
+You won't win too many big pots when you start out with flopped
+Top and Bottom Pair.
