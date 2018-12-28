@@ -192,3 +192,49 @@ set and fills up. Omaha is a tough game of nut hands.
 
 You won't win too many big pots when you start out with flopped
 Top and Bottom Pair.
+
+Bottom Two Pair
+---------------
+
+Bottom Two Pair as you'd imagine is by far the worst of these holdings.
+It's smoked by all sets and any other two pair hand. You want other
+things happening in your hand if you want to continue with this hand.
+
+I've correctly folded the highest possible bottom two pair on the
+flop a few times; KQ to a flop of AKQ.
+
+Once I got super lucky with bottom two pair, Queen high flush draw
+against top two pair Ace high flush draw. I've got Q854 on a
+T54 flop. I've against AJT5 with a better flush draw, luckily for
+me I get a miracle 4 on the turn and end up with the lucky
+44455 full house, almost the only way I could have won this hand.
+
+Three Pair
+----------
+
+Three Pair is a very interesting Omaha hand. It's not a final
+Omaha hand but an intermediate one on the flop. If other
+players have top and bottom pair or bottom two pair with nothing
+else going for their hand, they're almost no chance of winning
+(in pracice they have a tiny chance of runner runner fourth card
+trips, but their chances are desperately slim).
+
+Some players play three pair as though it's top set
+(any board pair fills them up) but it's actually a fair bit weaker.
+There's 6 outs on the turn for the 3-pair boat compared to 7 outs
+on the turn for the top set boat. Overcard turns improve
+other hands to better two pair a lot more than top sets
+get killed by overcards.
+
+Because three pair smokes the other two pair hands, and it's likely
+the best handa now, you can get a fair stack in on the flop
+if you like, especially if your top two pair are pretty high
+and not too vulnerable to overcard turns. KJx is a great three
+pair hand when you flop it; it's vulnerable to straight wraps but
+it won't get outdrawn to higher two pair that often.
+
+Three pair sometimes becomes Four pair on the turn but again
+you've fewer full house outs than traditional top set. J732 on
+a J732 turnboard has 8 outs while JJ&8 on J732 has 10 outs.
+
+Four pair can't be counterfeited.
