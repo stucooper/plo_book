@@ -272,8 +272,8 @@ FULL RING: A poker cash game with a lot of players dealt to; 8, 9 or 10.
 GO TO WAR: Bet or raise the maximum you can. Jam your stack in.
 
 GUTSHOT-GUTSHOT: An improbable straight made RUNNER-RUNNER.
-  "Can you belive this? I've got top set on AT5, he calls me with
-  AK55 and it comes ATQJ and he beats me gutshot-gutshot".
+  "Can you belive this? I've got set-over-set on AT5, he calls me with
+  AK55 and it comes AT5QJ and he beats me gutshot-gutshot".
 
 HAND: A full deal of poker. Sometimes this term means the four unique
   hole cards you are dealt, but in this book I call your four hole cards
