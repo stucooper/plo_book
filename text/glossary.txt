@@ -1,6 +1,6 @@
 GLOSSARY
 
-Last updated: 20181124
+Last updated: 20190107
 
 Most books put the glossary right at the back and you never
 look at it very much. I'm reversing this by putting my glossary at
