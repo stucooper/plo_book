@@ -1,11 +1,11 @@
-SHORTSTACKING
+SHORTSTACKING AND THE ROLF SEAT
 
-Last updated: 20180816
+Last updated: 20190107
 
-Imagine you've got a friend who has played some NLH Tournaments
+Say you've got a friend who has played some NLH Tournaments
 at the Pub/Club level and now wants to try Cash NLH at the Casino.
-What kind of playing advice would you give him? I'd suggest that he
-  - buys in for the minimum $100
+What kind of playing advice would you give him? You'd suggest that he
+  - buys in for the minimum $100 at the $2/$3 game
   - waits for premium pairs and high suited cards
   - raises with these big cards preflop to thin the field and make
     for easier postflop decisions
@@ -14,8 +14,9 @@ What kind of playing advice would you give him? I'd suggest that he
 
 There's a few poker books suggesting this strategy for beginning
 players, one of the best is "Getting Started in Hold'em" by Ed Miller.
-As you gain more experience and poker feel you add low pairs, more
-speculative hands, bigger buyins and more positional awareness.
+As your friend gains more experience and poker feel he will add low
+pairs and speculative hands like connectors and one gappers. He will
+make bigger buyins and use more positional awareness.
 
 A similar approach is possible in PLO, but it's actually a sophisticated
 approach that many experienced players use. It's called "Shortstacking"
@@ -23,13 +24,29 @@ because it involves buyin in for a pretty small stack, relative to the
 other players and the maximum allowed buyin. Here's the essence of
 the shortstacking approach:
   - buy in for the minimum or a bit more ($100-$175)
-  - sit to the right of the most aggressive player
+  - sit to the right of the most aggressive player (the "Rolf Seat")
   - look to limp-raise or check-raise him with all your strong hands.
   - cash out and leave if he can get his stack above $400
 
 The seat you get (if it becomes available) is called the Rolf Seat,
 after Rolf Slotboom who developed this style of play for his
 own game.
+
+The Rolf Seat is the opposite to what Holdem players expect. In Texas
+Holdem you want to be acting after the aggressive player, so you can
+re-raise to isolate him and get one-on-one with him when you've got
+position on him. In Pot Limit you normally can't raise big enough to
+get everyone else out pre-flop this way; so you have to limp-reraise
+after a field of callers so that your raise is big enough to blast
+other players out. This is similar to the "Sandwich Play" in No Limit
+Tournaments.
+
+This is like how a lot of people play pocket Kings under-the-gun in
+Texas; you limp, hope for a raise and a few callers, and when action
+returns to you, you come over the top and win the pot outright as it
+is or get heads up with some bonus money in the pot from the callers.
+With No Limit betting, you can usually size the bets to get the outcome
+that you want.
 
 You know in Tournament No Limit Holdem where someone is all-in preflop
 for not much and there's three callers and all those callers check
