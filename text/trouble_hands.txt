@@ -1,6 +1,6 @@
 TROUBLE HANDS
 
-Last updated: 20180827
+Last updated: 20190108
 
 TV journalist: "Robo.. excuse me.. Robo.. any special
   message for all the kids watching at home?"
@@ -10,8 +10,8 @@ Robocop: "Stay out of trouble".
 Before we look at the hands you should play in Omaha, I'll
 warn you about some stack-killing hands you'd do well to avoid.
 
-There's a class of hands I call "Trouble Hands", some of the
-other poker literature calls them "Sucker hands". In Holdem
+These are holdings I call "Trouble Hands", some of the
+other poker literature calls them "Sucker hands". In Texas Holdem
 these are high but not high enough holdings like A9, KT, QJ.
 
 When they flop top pair in a raised pot, making top pair
@@ -28,7 +28,8 @@ You might tell yourself "I'll flop two pair with this Queen-Jack
 and win the stack of the raiser who might have Ace-Queen or
 Ace-Jack" but that doesn't happen often enough to make up
 for all the times that you flop a single pair and get yourself
-into real trouble.
+into real trouble. Calling a raise with Queen-Jack in Holdem gets
+you into trouble.
 
 In PLO the trouble holdings are pocket pairs like 66,55,44,33,22;
 low straight connectors like 5432 and non-nut suited cards like
@@ -37,7 +38,8 @@ seductive because you miss most flops and get an easy fold for
 a tiny loss; maybe you've called $10 preflop and whiffed. Your
 stack goes from $220 to $210. No problem. Where the real problem
 lies is when you hit a good flop and get your stack in and you're
-still behind to a much better hand and you're smoked.
+behind, even drawing dead, to a much better hand and you lose
+your whole stack.
 
 You flop bottom set and lose your stack to middle set. You play 6332,
 get a 754 flop and lose your stack to T986. Your stack goes
@@ -59,9 +61,9 @@ take your stack.
 The Deuce is a poison card in any holding. No good
 PLO holdings contain a Deuce. The only good Deuce is suited to an Ace
 and even then you wish it was a different rank, still suited to the Ace.
-In the holding AhJT2h sure you're now a nut flush chance in Hearts
-but it'd be so much better if that 2h was the Jh, Th, or 9h.
-A pair of Deuces isn't good because the only set it flops is
+In the holding AhJT2h that Deuce of Hearts means you're now a nut flush
+chance in Hearts but it'd be so much better if that 2h was the Jh, Th, or 9h.
+A pair of Deuces is no good because the only set it flops is
 bottom set, which is a Low Confidence Hand and a Stack Killer.
 
 The Trey is less poison than the Deuce, but it's still pretty toxic.
@@ -83,7 +85,7 @@ After you've played a lot of PLO, you develop an almost mystical
 relationship with the pocket pairs and the sets they generate.
 It's superstitious based on what pairs have been good to you and
 which haven't. Personally I find QQ sets better than KK sets.
-44 seems to have made Quads for me a lot more than any other
+44 seems to have made Quads for me more than any other
 pair, and it's nice at showdown to say "four fours".
 
 Bottom set needs to Quad
@@ -119,8 +121,8 @@ the spade and club draw in the same holding. The real lesson
 to take to heart from this example is that bottom set is
 often smoked; if it isn't already behind to a better set
 it could be fading a deck of outs on the river. In this
-example, the entire deck. Every card besides the single
-quad card is a loser.
+example, the entire deck. Every river card besides the case
+deuce is a loser.
 
 Since you know in advance that low sets can be stack killers
 in Omaha, why even play low pocket pairs preflop? Wait for better
@@ -170,9 +172,9 @@ set chances and only one, non-nut straight chance. Here the runout
 was J32A8, but the turn completed a flush for the winner who
 again couldn't have been forced out by betting from me on that flop.
 
-K642 and 5554 are both pretty easy preflop folds, the great thing
-in these two instances is they were stacksaving folds. The fold
-didn't save me $3, $10 or $15, the fold saved me my entire stack.
+K642 and 5554 were both pretty easy preflop folds, the great thing
+in these two instances is that they were stacksaving folds. The fold
+didn't save me $3, $10 or $15, the fold saved me my stack of $170.
 That's a sensational result. The holdings had no Nuttability, they
-were exactly the kind of holdings that even when they flopped
-just as well as they possibly could, they lost.
+were exactly the kind of trouble holdings that even when they flopped
+just as well as I could possibly expect, still lost to proper Omaha hands.
