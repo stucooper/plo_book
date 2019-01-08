@@ -1,20 +1,20 @@
 THE CRYING BET
 
-Last updated: 20181202
+Last updated: 20190109
 
 Most of the time in Poker you want to be Last To Act.
 Position is power. You get to see what the earlier players
 do before it's your action. This helps you fold when you're behind,
 bet when you're ahead, losing less money when the pot
-isn't yours and winning more when it is, by and large.
+isn't yours and winning more when it is.
 
 Here's an interesting First To Act river
 play I use that I call the Crying Bet.
 
 A Crying Bet is a River bet you make with a medium strength non-nut hand
 that you would crying call with, facing a bet from a later player.
-Omaha hands are so strong here that "medium strength" here means
-a big set, pretty strong straights or flushes.
+Omaha hands are so strong that "medium strength" here means
+a big set, pretty strong straights or high flushes.
 
 When making a crying bet, you want your stack to be less
 than the pot. If your stack is a lot bigger than the pot,
@@ -22,7 +22,7 @@ you run the risk of losing more than you should when
 you run into the nuts. If your stack is noticeably bigger
 than the current pot, you should probably just check/call
 and save yourself money when you are behind, since the most
-you'll have to call it the pot.
+you'll have to call is the pot.
 
 If you bet an amount n that's less than the pot size P,
 you can be raised to 3n+P; so even betting as little as
@@ -37,24 +37,24 @@ Remember that you've decided already that if you check and
 a later player bets, you're going to call that bet. You've already
 figured that out in your heart of hearts. You're not likely to
 find a super tell from the river bettor and make a tough fold.
-Pot odds and the strength of your hand dictate a call.
+Your stack size and the strength of your hand dictate a call.
 
 By getting your money in first with your Crying Bet, you take away the
-"check behind" option from later players, who must either fold
+"check behind" option from later actors, who must now fold
 or call, sometimes with worse hands than yours. You thus realise
 full value for your hands. If you'd checked, the worse hands often
 check behind and you don't get that full value.
 
 All Omaha players with any experience at all soon understand how
 strong a hand you need to have to bet on the river, and they
-soon get used to checking semi-strong hands in position on the river.
+soon get used to checking behind semi-strong hands on the river.
 
 Now and then I Crying Bet straight into the Nuts and lose, but remember
 I knew I was going to Crying Call anyhow. Instead of the river betting
 going Me: Check Her: Bet Me: Crying call and lose, the betting goes
 Me: Crying Bet Her: Easy call and win. I lose my stack either way.
 
-The really good players at the table will notice that you're sometimes
+Really good players at the table will see that you're sometimes
 betting the river with a non-nut hand. You're not a complete
 nut-peddlar. This can help you in future hands when you're in
 first position and this time you are peddling the nuts.
@@ -88,7 +88,7 @@ chance that you'll get flat called by a medium or low flush.
 Sometimes the flush isn't there and you pick up the pot as it
 is, but betting extra into a flush board is giving your chips
 away; any flush calls and you're giving chips away. A straight on
-a flush board isn't a certain check/call hand anyway, so doesn't
+a flush board isn't a crying call hand anyway, so doesn't
 qualify as the sort of hand you Crying Bet with.
 
 World Class Play
@@ -120,7 +120,7 @@ to fold.
 
 A First-to-Act bet is called a "Donk" bet in some of the literature.
 My Crying Bet is a specific Donk, a Donk in the circumstance where
-your hand is strong enough to check/call with.
+your hand is strong enough to Crying Call with.
 
 Final Crying Bet Advice
 =======================
@@ -133,5 +133,15 @@ winning hands, and the Crying Bet helps you do this.
 
 So the conditions for a Crying Bet, normally made on the river, are
 
-(1) A strong hand you'll call with should Last-to-Act bet
+(1) A strong hand you'll crying call with should Last-to-Act bet
 (2) A stack size less than twice the pot.
+
+Don't forget "Check to induce"
+==============================
+
+Remember that sometimes the way you make money in poker on the
+river is by checking, letting Last-to-Act bluff and then calling.
+Last-to-Act can't bluff if you've already Crying Bet your stack
+at him, he gets an easy fold. So sometimes the best line for you
+to take on the river is to check and then make your Crying Call,
+which some of the time will be snapping off someone's bluff.
