@@ -19,6 +19,7 @@ shortstacking.txt
 preflop_betting_round.txt
 preflop_step_raising.txt
 straddle.txt
+party_pots.txt
 horror_pots.txt
 flop_play.txt
 nutshotting.txt
