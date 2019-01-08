@@ -1,12 +1,12 @@
 FLOP PLAY
 
-Last updated: 20180828
+Last updated: 20190109
 
 In Holdem you normally "play it or dump it" on the Preflop Betting
 Round. In Omaha you'll be taking a lot more flops, and your
 "play it or dump it" decision often comes after you've seen the flop.
 There's still plenty of hands that you'll dump preflop, and a 
-good preflop fold of a Trouble Holding can save you your stack, 
+good preflop fold of a Trouble Hand can save you your stack,
 but a lot of the time you and plenty of other people will be taking
 a flop. In 1/3 PLO there are a lot of flops with 7 players having
 paid $3 to see a flop, or 5 players having paid $10 to see a flop.
@@ -14,7 +14,7 @@ paid $3 to see a flop, or 5 players having paid $10 to see a flop.
 Hit, Fit or Fold
 ----------------
 
-You've got to connect with the flop so strongly in Omaha. Overpairs
+You've got to connect with the flop strongly in Omaha. Overpairs
 aren't the winners that they are in Holdem. If someone bets the pot
 and you're wondering what to do, ask yourself this question:
 "Can I beat middle set by the turn?". If you've got good outs
@@ -40,16 +40,24 @@ unless the top pair repeats.
 Once you've looked at your holding preflop and decided to play,
 you'll have a good idea what a good flop for you would be.
 If you're playing QQJ8 a good flop would be Qxy or KTx or T9x.
-If you've got a suited Ace a good flop would have two more cards
-of that suit, giving you a nut flush draw.
+If you've got a suited Ace a good flop would have two cards
+of your suit, giving you a nut flush draw.
 
 If you don't flop the cards that you'd hoped for, don't continue 
-in the hand. Another hand will be along in two minutes (TAHITM), let 
+in the hand. There's another hand in two minutes (TAHITM), let
 other players fight it out for this pot.
+
+You have to check/fold a lot of flops in Omaha. If the flop has
+completely missed you (you've "whiffed" the flop), it's helped
+someone else and you won't be the winner of this pot. Get out
+as cheaply as you can.
 
 There's a lot of flops that look like they help your hand but they
 really help other people's hands a lot more. Make sure you're
-drawing to hands that will be winners if they hit.
+drawing to hands that will be winners if they hit. T J Cloutier
+advises to "Draw only to the Nuts"; if your straight draw or
+flush draw won't be the nut straight or flush if it hits, you're
+better off not paying to make what could be a very expensive loser.
 
 Top two pair
 ------------
@@ -123,7 +131,7 @@ in a bad beat; I have 99, the flop comes 944, I bet it out and get
 one caller, who I understandably put on a 4. The turn is a King
 and I lose to KKQJ, who makes KKK44 to my 99944. I'm not sure why
 he called my flop bet with just that overpair, but he pulled
-in a big pot.
+in a big pot, well against the odds.
 
 In Holdem flop with low pairs like T66, 944 and K33 are "Orphan flops";
 flops where nobody is likely to have hit anything and a preflop raiser
@@ -153,7 +161,7 @@ had you bet, but if you start betting your sets regularly you'll
 just be giving your chips away on those times when the made flush
 is out there (and it usually is, trust me). A set on a flush
 draw is really a 7 out draw to a full house on the flop and
-a 10 out draw to a full house on the turn. It gets there 20%
+a 10 out draw to a full house on the turn. It gets there only 20%
 of the time, but when it does get there it's just about
 unbeatable. Proceed with caution.
 
@@ -193,8 +201,8 @@ can afford to slowplay, it's so easy to have a 2 pair hand in Omaha
 on the flop that if you give free cards and the board pairs you've
 cost youself badly. Had you bet the flop on an obvious made flush,
 the two-pair, four-out hand would've folded, but now you've cost
-yourself the pot and probably more of your stack with a losing
-crying call just-in-case on the river betting.
+yourself the pot and a lot more of your stack when you
+make a losing just-in-case crying call on the river betting.
 
 Straight flops
 ==============
