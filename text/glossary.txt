@@ -1,10 +1,10 @@
 GLOSSARY
 
-Last updated: 20190107
+Last updated: 20190109
 
 Most books put the glossary right at the back and you never
-look at it very much. I'm reversing this by putting my glossary at
-the front. My book is full of poker language and it's quite
+look at it that much. I'm reversing this by putting my glossary at
+the front. My book is full of poker language and it's very
 important that you understand it from the outset.
 
 These poker terms apply to cash poker games not tournaments.
@@ -25,7 +25,8 @@ Poker terminology changes over time. Holdem used to be Texas Hold'em
 and then a few people (myself included!) got sick of always putting
 the apostrophe in and the game is now simply Holdem. Your two
 unique cards in Holdem were originally HOLD CARDS then they became
-Hole Cards. A one-on-one confrontation used to be HEAD-UP and is now
+Hole Cards. I call the four cards you have in Omaha your HOLDING.
+A one-on-one confrontation used to be HEAD-UP and is now
 HEADS UP, which is also a business term for a meeting between two
 people to get on the same page.
 
@@ -40,7 +41,7 @@ ACES CRACKER: A HOLDING that you think has a good chance of beating an
 ADVANTAGE GAMBLING: Gambling where your superior skill gives you an
   advantage over the other players.
 
-ALL RED: A Holding double-suited in hearts and diamonds. This is a
+ALL RED (DRS): A Holding double-suited in hearts and diamonds. This is a
   writing convenice for me in this book; if I say you've got
   AAJT All Red that means you've got Aces double suited.
 
@@ -106,7 +107,7 @@ BRICK: A turn or river card that doesn't help any of the drawing hands.
 BOTTOM TWO: To have the bottom two pair after the flop. On a flop of
   K94, a player with 9854 has flopped Bottom Two
 
-BROADWAY: The best possible straight, AKQJT.
+BROADWAY: The highest possible straight, AKQJT.
 
 BROADWAY CARDS: Cards in the range A,K,Q,J,T; the 5 cards of the BROADWAY
   straight. K,Q,J,T are sometimes called Picture cards, Face Cards
@@ -140,11 +141,11 @@ CHECK BEHIND: A betting move where you're last to act, the player(s)
 CHECK-CALL HAND: A holding strong enough to call a decent sized bet
   with, but not really strong enough to bet (in case it gets pot-raised
   and becomes too expensive to call). A classic Check-Call hand in Omaha
-  is a flopped non-nut flush. Many non-nut full houses are also Check-Call
+  is a non-nut flush. Some non-nut full houses are also Check-Call
   hands.
 
 CHECK-FOLD: To check when it's your betting option and then fold to
-  any reasonable bet. Compare BET-FOLD.
+  a bet. Compare BET-FOLD.
 
 COMMUNITY: The shared cards (flop, flop+turn, flop+turn+river) in
   Omaha and Holdem. I much prefer the term BOARD.
@@ -177,7 +178,7 @@ DEALER: The Casino employee who handles the cards, runs the hand,
   used to be called the Dealer but these days is called the BUTTON.
 
 DOWN CARD: A card in a poker game dealt face down and private to one player
-  and known only to him.
+  and known only to him. In Omaha, each player is dealt four Down Cards.
 
 DOPE FLOP: (DRS) A flop with a low pair on it (22,33,44,55,66,77,88,99).
   It's likely helped someone in the hand who has one of these cards.
@@ -365,7 +366,7 @@ OMAAAAGH: (DRS) A big hand where you correctly get all your chips in,
 ONE-WAY HAND: A holding which looks like it only has one thing going
   for it. It can only make one good hand, either a high set, a good flush
   or a straight. Good Omaha holdings have the possibility of making more
-  than one of these hand types.
+  than one of these hand types. One-way hands have poor FLOPPABILITY.
 
 OVERFULL: The current best full house, made with top set with an underpair
   showing on the board. KK on a K88 flop has flopped the Overfull.
@@ -400,8 +401,8 @@ POT BUILDER: A preflop bet that will probably be called by a few people
   a Pot Sweetener.
 
 RAINBOW FLOP: A flop with three different suits. Nobody can make a flush
-  on the turn. If the turn is the fourth suit, nobody can make a flush
-  in this hand, period.
+  by the turn. If the turn is the fourth suit, nobody can make a flush
+  in this hand, whatever the river is.
 
 RAG: A useless BOARD card that doesn't complete your draw, on either the
   turn or the river. "I flopped a flush draw, two pair and gutshot
@@ -515,10 +516,10 @@ TRIPS: To match a BOARD PAIR with one of your own cards. Trips is
   On a flop of K94, 9987 has a SET of Nines.
 
 TURN: (1) The fourth community card in FLOP GAMES
-      (2) The round of betting following the revelation of the Turn.
+      (2) The round of betting following the fourth community card being shown.
 
 TURNBOARD: (DRS) The four community cards after the turn is produced.
-  "The flop came 986, the Turnboard was 986K and the RIVERBOARD was 986K2"
+  "The flop came 986, the Turnboard was 986K and the FINALBOARD was 986K2"
 
 UPCARD: A card visible to all players. FLOP GAMES like Omaha have
   Five shared Upcards.
