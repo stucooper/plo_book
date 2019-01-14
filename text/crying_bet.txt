@@ -1,6 +1,6 @@
 THE CRYING BET
 
-Last updated: 20190109
+Last updated: 20190115
 
 Most of the time in Poker you want to be Last To Act.
 Position is power. You get to see what the earlier players
@@ -49,7 +49,7 @@ All Omaha players with any experience at all soon understand how
 strong a hand you need to have to bet on the river, and they
 soon get used to checking behind semi-strong hands on the river.
 
-Now and then I Crying Bet straight into the Nuts and lose, but remember
+Now and then I Crying Bet right into the Nuts and lose, but remember
 I knew I was going to Crying Call anyhow. Instead of the river betting
 going Me: Check Her: Bet Me: Crying call and lose, the betting goes
 Me: Crying Bet Her: Easy call and win. I lose my stack either way.
@@ -142,6 +142,16 @@ Don't forget "Check to induce"
 Remember that sometimes the way you make money in poker on the
 river is by checking, letting Last-to-Act bluff and then calling.
 Last-to-Act can't bluff if you've already Crying Bet your stack
-at him, he gets an easy fold. So sometimes the best line for you
+all-in at him, he gets an easy fold. So sometimes the best line for you
 to take on the river is to check and then make your Crying Call,
 which some of the time will be snapping off someone's bluff.
+
+This line does of course allow check-behind; if your stack is so
+tiny compared to the pot that you'll obviously call on the river,
+check to induce probably won't work and you should Crying Bet.
+
+When you're inducing a bluff you don't make any money from raising
+because the bluffer won't call; so just flat call the (possible) bluff
+and see if you win. If it was a bluff then you win and your
+raise wouldn't have been called. If you're paying off a better
+hand you save a bit of money by just calling.
