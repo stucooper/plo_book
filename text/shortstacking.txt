@@ -1,22 +1,43 @@
 SHORTSTACKING AND THE ROLF SEAT
 
-Last updated: 20190107
+Last updated: 20190122
 
+A Beginner's Strategy for NLH Cash
+----------------------------------
 Say you've got a friend who has played some NLH Tournaments
-at the Pub/Club level and now wants to try Cash NLH at the Casino.
-What kind of playing advice would you give him? You'd suggest that he
+at the Pub/Club level and now wants to try NLH Cash at the Casino.
+What kind of playing advice do you give him? You'd suggest that he
   - buys in for the minimum $100 at the $2/$3 game
-  - waits for premium pairs and high suited cards
+  - waits for pocket pairs and high suited cards
   - raises with these big cards preflop to thin the field and make
     for easier postflop decisions
   - set mines with 55-88, raise/call with 99-JJ, bet/raise with QQ,KK,AA,AK
+  - set mines with 22-44 if in late position in a limped pot
   - cash out and leave if he can get his stack above $300.
 
-There's a few poker books suggesting this strategy for beginning
-players, one of the best is "Getting Started in Hold'em" by Ed Miller.
+Poker is easier with a short stack; you wait for a situation that
+you expect to have good showdown winnability and get your money in.
+Your stack is too small to be able to run bluffs, but you can't
+lose a big amount of money in a single hand because you don't
+have that much money in your stack to begin with.
+
+Playing a big stack means that you have a lot more money at risk
+on any one hand, so cashing out as your stack gets big can be
+great advice for new players who don't yet have big stack experience.
+
+In Online Poker you can change tables instantly and conveniently and
+also play multiple tables at once. In Live Poker, cashing out normally
+means you're done for the day, unless you can transfer to a different
+table and cash down and pocket some of your profits that way.
+
+There's a few poker books suggesting the beginning players
+strategy, one of the best is "Getting Started in Hold'em" by Ed Miller.
 As your friend gains more experience and poker feel he will add low
 pairs and speculative hands like connectors and one gappers. He will
 make bigger buyins and use more positional awareness.
+
+The PLO Shortstacking approach
+------------------------------
 
 A similar approach is possible in PLO, but it's actually a sophisticated
 approach that many experienced players use. It's called "Shortstacking"
@@ -30,7 +51,13 @@ the shortstacking approach:
 
 The seat you get (if it becomes available) is called the Rolf Seat,
 after Rolf Slotboom who developed this style of play for his
-own game.
+own game. Moving to the Rolf Seat is the only time that I advise
+changing seats at a table, except if you're in Seat 1 or Seat 9
+and you have bad visibility of the other players and you're at
+frequent risk of the dealer accidentally mucking your cards.
+
+The Rolf Seat
+-------------
 
 The Rolf Seat is the opposite to what Holdem players expect. In Texas
 Holdem you want to be acting after the aggressive player, so you can
@@ -46,7 +73,12 @@ Texas; you limp, hope for a raise and a few callers, and when action
 returns to you, you come over the top and win the pot outright as it
 is or get heads up with some bonus money in the pot from the callers.
 With No Limit betting, you can usually size the bets to get the outcome
-that you want.
+that you want. Sometimes you don't get that raise and there's four
+limpers after you and you end up in a five-way pot, that's not a good
+result and you have to slow down unless a King flops.
+
+Protection
+----------
 
 You know in Tournament No Limit Holdem where someone is all-in preflop
 for not much and there's three callers and all those callers check
@@ -91,8 +123,10 @@ way instead of trying two $200 shorts or a $300 shot followed
 by a $100 shot is smart money management and maximises the
 number of buyins that can come good.
 
+Deadstack nothreats
+-------------------
 I've seen a lot of passive players make these min buyins and
 some of them call preflop bets to $10, $20 or $40 and they're
-using at least one fifth of their stack each time. These
+wasting at least one fifth of their stack each time. These guys
 are like passive tournament players who let their stack get
 too small before taking a stand, I call them deadstack nothreats.
