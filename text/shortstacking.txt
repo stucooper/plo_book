@@ -1,6 +1,6 @@
 SHORTSTACKING AND THE ROLF SEAT
 
-Last updated: 20190122
+Last updated: 20190123
 
 A Beginner's Strategy for NLH Cash
 ----------------------------------
@@ -24,6 +24,9 @@ have that much money in your stack to begin with.
 Playing a big stack means that you have a lot more money at risk
 on any one hand, so cashing out as your stack gets big can be
 great advice for new players who don't yet have big stack experience.
+Tournament players play a lot of poker where their stack is 15-40 Big Bets,
+Cash players often have 100 Big Bets or more, which you don't want to
+commit to a pot unless you have a powerful hand.
 
 In Online Poker you can change tables instantly and conveniently and
 also play multiple tables at once. In Live Poker, cashing out normally
@@ -43,38 +46,61 @@ A similar approach is possible in PLO, but it's actually a sophisticated
 approach that many experienced players use. It's called "Shortstacking"
 because it involves buyin in for a pretty small stack, relative to the
 other players and the maximum allowed buyin. Here's the essence of
-the shortstacking approach:
+how you play the shortstacking approach with $1/$3 blinds:
   - buy in for the minimum or a bit more ($100-$175)
-  - sit to the right of the most aggressive player (the "Rolf Seat")
+  - sit to the right of the most aggressive preflop player (the "Rolf Seat")
   - look to limp-raise or check-raise him with all your strong hands.
-  - cash out and leave if he can get his stack above $400
+  - limp/call with hands with good potential if your call isn't too
+    expensive and your call closes the action
+  - cash out and leave if you can get your stack above $400
 
 The seat you get (if it becomes available) is called the Rolf Seat,
 after Rolf Slotboom who developed this style of play for his
 own game. Moving to the Rolf Seat is the only time that I advise
-changing seats at a table, except if you're in Seat 1 or Seat 9
-and you have bad visibility of the other players and you're at
+changing seats at a table for strategic purposes. For real-life
+reasons I advise changing seats away from Seat 1 or Seat 9,
+which both have bad visibility of the other players. In Seat 1
+your holding is close to the mucked cards and you're at
 frequent risk of the dealer accidentally mucking your cards.
+You have to protect your holding with a card protector or chips on
+top, which is just one extra bit of physical hassle compared to
+the other seats. It's hard to be sure just when your big blind is coming.
+Seat 1 is just a physically bad place to sit on a poker table. Just
+about the only good thing I can say about Seat 1 is you don't have
+to stretch your arms as far to put your bets in.
+
+You should be able to identify quickly the most aggressive preflop player,
+he will be noticed and commented on and resented by the other players
+at the table, many of whom would like a lot more $3 each family pots.
 
 The Rolf Seat
 -------------
 
-The Rolf Seat is the opposite to what Holdem players expect. In Texas
-Holdem you want to be acting after the aggressive player, so you can
+The Rolf Seat is on the wrong side to what Holdem players expect. In
+Holdem you want to be acting just after the aggressive player, so you can
 re-raise to isolate him and get one-on-one with him when you've got
 position on him. In Pot Limit you normally can't raise big enough to
 get everyone else out pre-flop this way; so you have to limp-reraise
 after a field of callers so that your raise is big enough to blast
 other players out. This is similar to the "Sandwich Play" in No Limit
-Tournaments.
+Tournaments, except it's not a bluff, you expect to be called
+by the Most Aggressive Player and have to hold up against him
+at Showdown.
 
-This is like how a lot of people play pocket Kings under-the-gun in
-Texas; you limp, hope for a raise and a few callers, and when action
+If you don't have a raising hand, your Rolf Seat position will let
+you call the Aggressive Player's raise and close the action, if there
+have been no other raises. Sometimes you'll limp your $3, the aggressive
+player will make it $15 and a further player will make it $55; this makes
+for a very easy fold for you and you shouldn't bother about good folds
+that cost you just $3.
+
+Limp-raising preflop is how a lot of people play pocket Kings under-the-gun in
+Texas. You limp, hope for a raise and a few callers, and when action
 returns to you, you come over the top and win the pot outright as it
 is or get heads up with some bonus money in the pot from the callers.
-With No Limit betting, you can usually size the bets to get the outcome
-that you want. Sometimes you don't get that raise and there's four
-limpers after you and you end up in a five-way pot, that's not a good
+With No Limit betting, you can usually size the bet to get the outcome
+that you want. Sometimes your limp isn't raised and there's four
+limpers after you and you end up in a five-way pot. That's not a good
 result and you have to slow down unless a King flops.
 
 Protection
@@ -87,7 +113,7 @@ the all-in player gets busted by one of them? That doesn't happen
 in cash games and it happens even less in PLO cash games. Busting
 players isn't important in cash (the busted player can simply rebuy)
 the most important thing is fighting over the real cash money
-that's already in this pot. So an all-in player (which
+that's already in this pot and each other's stacks. So an all-in player (which
 a shortstacker will frequently be either preflop or on the flop) is often
 given protection by a bigger stack who jams the flop and forces
 out other players who would've ended up an unlikely winner had they
@@ -95,8 +121,8 @@ stayed in. Meanwhile the all-in shortstacker wins his main pot
 with a two-pair or a set that the jammer loses to.
 
 This doesn't happen all the time of course, often the deepstack
-jammer wins the side pot and also the main pot with some
-monster unbeatable hand. But the protection does save the
+jammer scoops every side pot and the main pot with a
+monster hand. But the protection does save the
 shortstack all-in player often enough for it to be a
 noticeable part of the shortstack's advantage. Plus,
 even when the shortstack player does lose, it's only
@@ -111,9 +137,11 @@ for $30 into a $120 pot, but only has to beat 2 other players
 (a third $30 caller has since been blasted off because of further
 jamming by the still-active players). In extreme cases an all-in
 player could be getting 6 to 1 on his money and only have
-to beat a single player heads-up. That's an excellent result
+to beat a single still-live player heads-up. That's an excellent result
 for the shortstacker.
 
+Deadstack nothreats
+-------------------
 Just because a player is making min buyin after min buyin doesn't
 mean that's he's using or understanding the Shortstacking approach.
 He could simply be running bad and doesn't want to lose
@@ -123,10 +151,15 @@ way instead of trying two $200 shorts or a $300 shot followed
 by a $100 shot is smart money management and maximises the
 number of buyins that can come good.
 
-Deadstack nothreats
--------------------
 I've seen a lot of passive players make these min buyins and
 some of them call preflop bets to $10, $20 or $40 and they're
 wasting at least one fifth of their stack each time. These guys
 are like passive tournament players who let their stack get
 too small before taking a stand, I call them deadstack nothreats.
+
+Players without PLO experience who are trying it for the first few
+times are often Deadstack Nothreats.
+
+Deadstack Nothreats are like Calling Stations in NLH. When they do
+put in their rare bets and raises, they usually have great strength
+and you should get out of the way unless you have some good Nut draws.
