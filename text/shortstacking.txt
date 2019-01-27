@@ -1,6 +1,6 @@
 SHORTSTACKING AND THE ROLF SEAT
 
-Last updated: 20190123
+Last updated: 20190127
 
 A Beginner's Strategy for NLH Cash
 ----------------------------------
@@ -91,8 +91,15 @@ If you don't have a raising hand, your Rolf Seat position will let
 you call the Aggressive Player's raise and close the action, if there
 have been no other raises. Sometimes you'll limp your $3, the aggressive
 player will make it $15 and a further player will make it $55; this makes
-for a very easy fold for you and you shouldn't bother about good folds
+for a very easy fold for you and you don't lose sleep over good folds
 that cost you just $3.
+
+So being in the Rolf Seat purifies your pre-flop game; you improve
+your chances of getting heads up with your strong hands, and you
+often close the action on hands you'd like to see a flop with. You
+have great relative position on the aggressive player, it's like you've
+got the button preflop every hand. Just by being in the Rolf Seat, you
+play a better Preflop game.
 
 Limp-raising preflop is how a lot of people play pocket Kings under-the-gun in
 Texas. You limp, hope for a raise and a few callers, and when action
@@ -140,7 +147,7 @@ player could be getting 6 to 1 on his money and only have
 to beat a single still-live player heads-up. That's an excellent result
 for the shortstacker.
 
-Deadstack nothreats
+Deadstack Nothreats
 -------------------
 Just because a player is making min buyin after min buyin doesn't
 mean that's he's using or understanding the Shortstacking approach.
@@ -163,3 +170,8 @@ times are often Deadstack Nothreats.
 Deadstack Nothreats are like Calling Stations in NLH. When they do
 put in their rare bets and raises, they usually have great strength
 and you should get out of the way unless you have some good Nut draws.
+Although the Deadstack Nothreats are usually all-in for a tiny amount,
+relative to the pot, and you're getting great pot odds to call with
+just about any kind of draw, and it doesn't hurt you too much if
+you call and lose. A $20 to $40 call into a $200 pot is giving you
+great odds to try and beat the Deadstack Nothreat.
