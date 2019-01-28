@@ -1,6 +1,6 @@
 OMAHA IS NOT HOLDEM
 
-Last updated: 20180703
+Last updated: 20190129
 
 Because Omaha and Holdem are both flop games, they seem very similar.
 Some of your Holdem skills (Reading the Board for example) transfer
@@ -52,7 +52,7 @@ holding a single high Diamond. In Omaha, you need 2 Diamonds of your
 own to make the flush here. The fourth flush card on the board doesn't
 change whether someone has a flush or not. If three flush cards
 come on the flop, nobody has a draw to a flush; they either have
-the flush already (by having another two of that suit in their holding)
+the flush already (by having two of that suit in their holding)
 or they can't get one.
 
 More 2+3 confusion occurs with double-paired Boards. In Texas if I have
@@ -131,7 +131,9 @@ A flop with a pair on it means a full house or quads can already be there.
 In Texas it pays to be aware of the Nut hand on every street
 and in Omaha it's absolutely crucial that you track what
 the Nut hand is, and whether you can make a nuttier hand after
-the next board card.
+the next board card. If you've got a chance of climbing to
+a higher hand (either higher on the poker ladder or higher in rank)
+you're said to have a "redraw" to a better hand.
 
 Sometimes the flop is so co-ordinated (wet) that the
 high value hands can be present from the start. A pair on the flop
@@ -150,7 +152,7 @@ Broadway, King high straight or Queen high straight depending on
 the board cards it's joining with).
 
 This is actually a pretty poor Omaha holding and you can fold it preflop,
-although I'd personally take a cheap flop with it just for the high 
+although I'd take a cheap flop with it just for the high
 set value of the Queens. In Texas, QQ is a hand to get excited about, in
 Omaha, QQJ4 is pretty average, maybe just on the playable side of OK.
 
