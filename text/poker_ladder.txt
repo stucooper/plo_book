@@ -1,6 +1,6 @@
 THE POKER HANDS LADDER
 
-Last updated: 20180808
+Last updated: 20190129
 
 Here are the rungs on the Highest Five-Card Hand wins Poker Ladder. 
 I use the word "rungs" because it's such an unusual word that whenever
@@ -47,7 +47,7 @@ variation "Razz" where the nut hand is A2345 (straights and flushes don't
 count in Razz). In my opinion the Razz rankings of poker hands on the same
 rung are the truest indication of poker hand rarity.
 
-"Guess what, Stuart?" I hear you ask. "I already knew the poker hand
+"Guess what, Stuart?" I hear you say. "I already knew the poker hand
 rankings and I've got no interest in 1980s games like Draw Poker,
 Lowball and Razz. Get on with the Omaha content. Oh, and you forgot to
 tell us that Omaha is played with a standard 52 card deck, no jokers".
