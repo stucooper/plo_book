@@ -1,6 +1,6 @@
 SCENARIOS
 
-Last updated: 20180619
+Last updated: 20190129
 
 1) You have $130, a bit down from your buyin of $150.
 You're in position with KKJ3, King high hearts, in a 5-way pot of $50.
@@ -8,8 +8,8 @@ The flop is QT3 all spades. All players check and so do you. The turn
 is the 9 of spades, making you a King-high straight on an all-spades
 board. Again four players check and you bet $30, getting one fold, one
 caller, and two folds. The river is the Ten of Diamonds and on the
-final board of QT39T the first-to-act player bets $50. He's got about $85 behind.
-What's your play?
+final board of QT39T the first-to-act player bets $50.
+He's got about $85 behind. What's your play?
 
 ANSWER: This is a clear fold. The Bettor either flopped the flush or
 has rivered a full house; probably by luckboating a QT two pair into TTTQQ,
@@ -38,3 +38,12 @@ drawing to one out (the 999 set) or drawing dead (the 444 set). Remember
 that if the board pairs on the turn the action will slow right down.
 The time to make money on this hand is now. You'd love to get 1 on 1
 here, as a huge favourite.
+
+It's worth getting heads up because with two other players in the hand
+you could be up against straight chances and flush chances. By getting
+heads up you can take the number of cards that beat you from 18 down
+to 7 or so, strongly increasing your chances of winning. A lot of
+non-board-pair turn cards can beat you, and if the board does pair
+you'll lose your action.
+
+FIXME: Add an "avoid step raising" preflop example.
