@@ -1,9 +1,9 @@
 ESSENTIAL POKER BOOKS
 
-Last updated: 20190127
+Last updated: 20190129
 
-I own over 150 books on Poker and Gambling. Unfortunately
-just having so many books doesn't make me a champion player,
+I own over 150 books on Poker and Gambling.
+Just having so many books doesn't make me a champion player,
 but I'm still proud of my poker library. The books
 can be divided into some broad categories:
 
@@ -28,17 +28,17 @@ John Vorhaus, Lee Nelson, Daniel Negreanu
 
 - Tells, Psychology, Poker-as-a-business books: Mike Caro, Dusty Schmidt
 
-- Omaha books
+- Omaha books: all of which I will cover below.
 
 I consider a few Holdem and general poker books to be authoritive
 and I'm quoting from some in this book. Super/System 2 is my
-go-to all-formats poker book, I also include the Harrington on Holdem
+go-to all-formats poker book. I also include the Harrington on Holdem
 three-volume series (NLH tournaments) and the Harrington on Cash Games
-two-volume series (NLH cash). It doesn't matter if you don't
+two-volume series (NLH cash). I also like Phil Hellmuth,
+"Play Poker Like the Pros". It doesn't matter if you don't
 own these books, but if you do you can look up some of my references
 and get a fuller sense of some NLH and betting concepts that I
 refer to.
-
 
 The number of Omaha books in my library is quite small,
 and I buy any Omaha book I can reasonably get my hands on.
@@ -121,7 +121,8 @@ The idea never caught on.
 Cloutier/McEvoy cover the same ground as Ciaffone, and in my opinion
 do a better job. This small book is not essential to have
 in your PLO Library. If you can pick it up cheaply, go right
-ahead, but it's not essential.
+ahead, but it's not essential. I've adopted the "flopped set of twos needs
+to hit the quad card on the river" example from this book.
 
 HOW GOOD IS YOUR POT LIMIT OMAHA? by Stewart Reuben
 2003. D&B Poker
@@ -144,6 +145,9 @@ and loses to QJ on the runout QQ3J7. I'll revisit this book soon.
 Reuben's hands normally involve all the players having Megastacks,
 which isn't the case in 1/3 PLO. Once again, this is
 not an essential book to have in your PLO library.
+
+In unlimited buyin, no-short-stacking Omaha games, this book would
+be more useful.
 
 SECRETS OF PROFESSIONAL POT-LIMIT OMAHA by Rolf Slotboom
 2006. D&B Poker
@@ -247,7 +251,7 @@ MEGA-EXPENSIVE BOOKS by Various Authors
 When Super System came out in 1978, it was priced at $100.
 Doyle Brunson felt that if people wanted these poker secrets,
 they might as well pay good money for it. $100 was a lot of
-money in 1978 for a book and the 2018 equivalent of a super
+money in 1978 for a book and today's equivalent of a super
 expensive book which hopefully reveals poker secrets is $3,000!
 
 Here is a list of some other Omaha books and the exorbitant
@@ -293,6 +297,6 @@ forums are the best regarded. They're
 at https://forumserver.twoplustwo.com.
 
 Years ago there was an active Australian poker forum which I
-used and contributed to very actively, called PokerNetwork.
+used and contributed to regularly, called PokerNetwork.
 Sadly it's no longer active, though the old posts can still be
 found at http://www.pokernetwork.com/forums/main-noticeboard/
