@@ -1,6 +1,6 @@
 DO YOUR OWN BETTING
 
-Last updated: 20181208
+Last updated: 20190129
 
 In No Limit Holdem, you need to slowplay and trap your opponents.
 There's often just two or three players still active on the flop,
@@ -13,7 +13,7 @@ Pot Limit Omaha is not the trapping game that No Limit Holdem is.
 There's three key reasons for this.
 
 1) There's often three or more players still active on the flop.
-   More players means there's more chance that someone's also connected
+   More players means more chance that someone's also connected
    well with the flop, and will call your big bets and give you action.
 
 2) Each player has four cards not two cards. Players can have a primary
@@ -29,13 +29,13 @@ There's three key reasons for this.
    raises, other players in this pot aren't getting 2 to 1, they're
    getting worse odds.
 
-Computer people, especially those who've worked in accounting, will
+Computer people, especially those who work in accounting, will
 know the popular accounting software MYOB (Mind Your Own Business).
 Do Your Own Betting is such a crucial aspect of Omaha it
 gets its own shorthand acronym: DYOB. Do Your Own Betting.
-Don't wait or expect someone else to bet for you, do it yourself.
+Don't wait or hope for someone else to bet for you, do it yourself.
 
-Like a lot of poker advice you can sometimes vary from this approach,
+Like any poker advice you sometimes vary from this approach,
 but normally your best course of action is to bet your big hands
 and bet them big. Protect your big hands. You'll win bigger pots
 when your opponents call with their worse hands or their draws and they
@@ -92,8 +92,8 @@ person I can blame in this hand is myself. I didn't Do My Own Betting.
 What card was I hoping for on the turn? If the A or 8 pairs, I get no
 action with my top full house, if the 3 pairs I'm possibly losing
 to bottom trips and might pay off a bet with a lousy 4-out full
-house draw and if the some other card comes, it might look
-innocuous but might make someone else's hand have a zillion outs going
+house draw and if some other card comes, it could look
+safe but it's actually made someone else's hand have a zillion outs going
 to the river. That's exactly what happened in this case.
 
 One major problem in my thinking during this hand was hoping that
@@ -104,4 +104,4 @@ are very bad after three checks in front of you. Simply Do Your
 Own Betting.
 
 If I'd DYOB here, I'd have picked up a good $165 pot instead
-of losing another $235.
+of losing another $235. DYOB!!
