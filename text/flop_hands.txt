@@ -1,11 +1,11 @@
 HANDS ON THE FLOP
 
-Last Updated: 20181228
+Last Updated: 20190129
 
 You know from your Holdem experience how to read a Flop and see what
 hands and draws might be out there. There's not much happening
 on a flop of T52 rainbow. Whoever is ahead on the flop will probably
-be ahead on the river; although a hand like KQ could stay in and pair
+be ahead on the river; though a hand like KQ could stay in and pair
 their overcard. A bet on that T52 flop will often win the pot and end
 the hand right now.
 
@@ -126,7 +126,7 @@ have other things going for them like a suited Ace or
 wheel straight chances. 5422 or A322 I'll take a flop with
 but T822 is in the muck preflop. This preflop fold doesn't just
 save me $3 or $10 in the preflop call, it saves me my stack
-on thos times that I flop bottom set and I'm miles behind.
+on those times that I flop bottom set and I'm miles behind.
 
 You have to fold bottom pocket pairs if you're going to be an
 Omaha winner. When the big money goes into a PLO pot, the
@@ -150,7 +150,7 @@ TWO PAIR HANDS
 
 There;s four ways of flopping Two Pair in Omaha. Let's say the
 flop is a reasonably dry J73; there's some inside wrap hands
-possible but it's pretty dry. You can flop top two pair
+possible (T98, 654) but it's pretty dry. You can flop top two pair
 (your holding is J7xy), top and bottom pair (J3xy), bottom two pair
 (73xy) or all three pairs (J73x).
 
@@ -158,11 +158,11 @@ To begin with, any two pair hand is smoked by top set (such as
 that hand I mentioned in the Top Set section where I had TT
 against T7 on a T72 flop). Don't imagine that your having top two
 pair lessons the chance of a villain having top set or middle set.
-In No Limit Holdem you need to learn not to go broke with just one pair.
+In No Limit Holdem you learn not to go broke with just one pair.
 In Omaha you have to learn not to go broke with two pairs. The reasoning
 is the same in both games: anyone willing to pour big money into the pot
 has a hand that beats you. Unless your stack is small and you're
-prepared to tkae a chance with a likely-best-hand-right-now,
+prepared to take a chance with a likely-best-hand-right-now,
 don't overcommit with two pair.
 
 That said, let's have a look at the different kinds of two pair hands
@@ -172,7 +172,7 @@ Top Two Pair
 
 This is of course the best of the two pair hands and can be worth
 good investment, if your radar tells you there's no sets against you.
-If top pair repeats on the turn (turnboard J73J) you've got the nuts
+If the top card repeats on the turn (turnboard J73J) you've got the nuts
 and you'll win the stack of middle set, bottom set and top and
 bottom pair.
 
@@ -235,6 +235,6 @@ it won't get outdrawn to higher two pair that often.
 
 Three pair sometimes becomes Four pair on the turn but again
 you've fewer full house outs than traditional top set. J732 on
-a J732 turnboard has 8 outs while JJ&8 on J732 has 10 outs.
+a J732 turnboard has 8 outs while JJ85 on J732 has 10 outs.
 
 Four pair can't be counterfeited.
