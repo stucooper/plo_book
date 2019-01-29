@@ -1,6 +1,6 @@
 THE HANDS RUN BIG
 
-Updated 20180910
+Updated 20180111
 
 "From time to time a very good hand,
  correctly played,
@@ -216,9 +216,9 @@ up and also to protect his hand against the multitude of possible draws.
 With pot limit betting, the maximum bet on the flop might not
 be big enough to chase the good draws away and the really good
 draws as we saw above can actually be the favourite to win. Jamming
-your top set and getting outdrawn is common in PLO, but you're
-still correct to jam your top set when it's the current Nuts.
+your top set and getting outdrawn is painfully common in PLO,
+but you're still correct to jam your top set when it's the current Nuts.
 
 If your flopped sets get outdrawn over and over again you'll feel like
-you're going mad, as you go further and further broke. Sometimes
-the Omaha Card Gods are much crueller than their Texas cousins.
+you're going mad, as you go further and further broke.
+The Omaha Card Gods are much crueller than their Texas cousins.
