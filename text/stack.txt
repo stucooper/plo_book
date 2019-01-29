@@ -1,6 +1,6 @@
 STACK SIZE
 
-Last Updated: 20180715
+Last Updated: 20190111
 
 Your own stack size is an important consideration in
 each hand of PLO. If your stack is less than $40 you
@@ -25,6 +25,9 @@ There is one good trick with a $40 stack, which is
 a pre-flop step-raise to a bit more; which is an invitation
 for someone with a good hand to give you protection and often
 leaves you with an easy call into a juiced pot with bonus
-dead money. 
+dead money. You might have invested $40 to win a $163 pot
+and you only have to beat one other player; there's been
+two callers of the $40 who have been blasted out by
+a big stack preflop.
 
 
