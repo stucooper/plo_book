@@ -1,6 +1,6 @@
 GLOSSARY
 
-Last updated: 20190109
+Last updated: 20190205
 
 Most books put the glossary right at the back and you never
 look at it that much. I'm reversing this by putting my glossary at
@@ -464,7 +464,9 @@ SOUL READ: A completely accurate read of your enemy's hand. You've looked
 SPREAD YOUR HAND: To show your cards during the play of a hand, when
   you're all-in and there's NO FURTHER ACTION. I typically spread
   a set if I get one or a big straight draw; this can speed up the showdown
-  when I'm the winner.
+  when I'm the winner. Also called TABLE YOUR HAND. If you're showing
+  an obvious Nuts winner, show the two cards you're using a little separate
+  from your other two cards and announce your winning hand.
 
 STACK SAVER: A preflop fold, where you get to see the runout. You flop so
   strongly that you'd be happy to get your stack in, but when
@@ -483,7 +485,8 @@ TABLE GAMES: Player-versus-the-house casino games, such as Roulette
   Three Card Poker. These games are of interest to us only because
   $10 chips from table game players sometimes enter the real poker games.
 
-TABLE YOUR HAND: To show your holding at Showdown.
+TABLE YOUR HAND: To show your holding at Showdown. You can table your
+  hand earlier if there's NO MORE ACTION. Also called SPREAD YOUR HAND.
 
 TAHITM: (DRS) Acronym for There's Another Hand In Two Minutes. Sounds like
   the country "Tahiti". This word is a useful reminder that there's
@@ -493,7 +496,7 @@ TAHITM: (DRS) Acronym for There's Another Hand In Two Minutes. Sounds like
 
 THIN DRAW: A drawing hand with only a few outs. A gutshot straight
   (4 outs, sometimes only 3 outs if there's a flush possible)
-  is a think draw. The opposite of a FAT DRAW.
+  is a thin draw. The opposite of a FAT DRAW.
 
 THREE PAIR: To match all three flop cards. Three Pair isn't a final
   five-card poker hand, but it's an intermediate poker hand that means
