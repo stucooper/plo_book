@@ -1,6 +1,6 @@
 THE RAKE
 
-Last updated: 20180605 
+Last updated: 20190219
 
 The Star like most casinos take money out of each Cash pot as their
 profit for providing the dealer, tables, shuffling machines, venue,
@@ -34,7 +34,7 @@ Dealer rakes         Your pot is at least        Your pot is at most
      8                       72                          81
      9                       81                          90
     10                       90                         139
-    15                      135                    all the chips on the table 
+    15                      135                       no maximum
 
 Since the game is 1/3 and there's always at least a big blind posted; 
 the minumum pot being contested is $3 and if everyone folds in this
@@ -59,7 +59,7 @@ favour of the players.
 Sometimes a player I don't like very much puts in a big check raise
 on the flop, wins that pot and the dealer misses taking the full rake.
 I'll quickly point this out to the dealer and make sure the right
-rake is taken. This is a pretty fun needle - it's amazing how annoyed
+rake is taken. This is a great needle - it's amazing how annoyed
 some people get when they miss out on a few dollars of free money.
 
 In hands with main pots and side pots, the main pot is raked first and
