@@ -1,13 +1,14 @@
 DO YOUR OWN BETTING
 
-Last updated: 20190129
+Last updated: 20190219
 
 In No Limit Holdem, you need to slowplay and trap your opponents.
 There's often just two or three players still active on the flop,
 and if you bet your big hands too big you risk everyone
-folding and winning a small pot. You want to bet the
-flop and build the pot so you can win big on your big hands,
+folding and winning a small pot. You want to bet to
+build a bigger pot so you can win big with your big hand,
 but if you bet too big too soon you might lose your customers.
+So slowplay and trapping are a key part of No Limit Holdem.
 
 Pot Limit Omaha is not the trapping game that No Limit Holdem is.
 There's three key reasons for this.
@@ -47,8 +48,9 @@ disaster. If you don't DYOB, you set yourself up for losing huge pots.
 
 One of the worst plays in Omaha is checking the flop when you should
 have bet, betting the turn which has now made it attractive for
-a player to call and then losing a big pot on the river. Had you
-simply bet the flop, you would've picked up the pot then and there.
+a player to call, or even put him in the lead and then losing a big pot
+on the river. Had you simply bet the flop, you would've picked up the
+pot then and there. Your slowplay has trapped nobody but yourself.
 That's exactly the pattern I'll show you in the following
 Badly Played Hand
 
