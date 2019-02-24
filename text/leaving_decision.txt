@@ -68,9 +68,12 @@ and no maximum!
 
 Some casinos don't run Invitation Games, all of their games
 are open to anyone able to afford the minimum buyin for that
-game.
-
-FIXME: Add info from The Professor, The Banker and the Suicide King
+game. In "The Professor, The Banker and the Suicide King",
+Michael Craig writes of Ted Forrest joining a $10,000/$20,000
+Limit Holdem game at the Bellagio against Chip Reese and
+an unknown rich player new in town, Andy Beal.
+Expecting the biggest game going to be $400/$800, Forrest joined
+a Public Game that was twenty-five times bigger.
 
 Hit and Run
 ===========
