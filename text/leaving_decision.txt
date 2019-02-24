@@ -1,6 +1,6 @@
 THE LEAVING DECISION
 
-Last updated: 20190125
+Last updated: 20190224
 
 Cash poker has an important element that Tourment Poker doesn't,
 the Leaving Decision. In a tournament you have to play until you bust, or
@@ -37,6 +37,110 @@ I'm going to shout it out one more time.
 
 THE MOST PROFITABLE SINGLE CHANGE EXPERIENCED CASH GAME
 PLAYERS CAN MAKE IS IMPROVING THEIR LEAVING DECISION
+
+Public and Invitation Games
+===========================
+
+Because you're playing in a Casino environment, against
+self-selecting players, you're playing in a Public Game.
+Anyone with the right to be in the Casino can sign up to
+the game and join it when their seat becomes available.
+In a Public Game, you can leave the game with no notice
+at any time that suits you. Simply take all your chips
+from the table and turn them into beautiful cash.
+
+Etiquette rules are different in Invitation Games and Home Games.
+In these games you should announce your intention to leave
+after a specified time. Normally half an hour or two or three
+more rounds of the button is the right amount. You can then
+"lock up your chips" by tank-folding every hand preflop and
+not putting your chips at risk. You'll only lose three or so
+big blinds and small blinds before you can cash out.
+
+The Star do run a few Invitation Games, where you need to
+be "in the know" to get in the game and they're not advertised
+for general players to join. In these games you should
+give the same notice of your intention to leave as in a home game.
+
+Most of these invitation games are at megastakes; one of the
+games is $100/$200/$400 PLO with a minimum buyin of $40,000
+and no maximum!
+
+Some casinos don't run Invitation Games, all of their games
+are open to anyone able to afford the minimum buyin for that
+game.
+
+FIXME: Add info from The Professor, The Banker and the Suicide King
+
+Hit and Run
+===========
+
+A Hit and Run is when you win a big pot and leave the
+game immediately. You keep all the money you've just won
+and don't risk losing any of it back.
+
+Big Bet Poker (No Limit and Pot Limit games) are stack games
+where you can get the whole of your stack involved in any one hand,
+as long as you're in a pot with a player with a bigger stack
+than yours. In most other forms of gambling, there's a set limit
+to how much one gamble will cost you. You can play five spins of
+a Poker Machine and know it will cost you $30, you can play
+five hands of Blackjack and know it will cost you at most $100.
+In Big Bet Poker, you don't know what the next five hands might
+cost you. You run the risk of losing big in any hand.
+
+To avoid losing back this beautiful money you've just won in
+this big pot, simply Hit and Run. There is no penalty
+(besides jibes from the other players) in Hit and Running from
+a Public Game. You'll be allowed to play again the next time
+you want to play, under the same waiting list rules that apply
+to everyone else who wants to play in the game. Leave the
+game whenever you want to.
+
+The $100 Boundary Fallacy
+=========================
+
+Are you ever up $498 in your session and you're annoyed that
+you haven't won Five Hundred Dollars? You want to push on
+and win just three more dollars so you can say "I won over
+Five Hundred Dollars in this session". This is one of the worst
+risk/reward decisions in poker; you're risking your stack by
+playing on to chase a tiny reward just because your brain tells
+you that you're slightly under what would be a big win.
+
+I suffer from this feeling all the time - and I'm good at Maths!
+You know what the number slightly under a Big Win is? A Big Win.
+Take your big win.
+
+Our brains are trained through advertising to think that
+a car at $19,990 is under Twenty Thousand and that a book
+priced at $29.95 is under Thirty Dollars. Well they're not really;
+you're paying $20k for the car and $30 for the book. Learn
+to consider your $498 win as a $500 win and you'll be much better off.
+
+Being good at Maths doesn't help me avoid the $100 Boundary
+Fallacy because the Fallacy is much more of a Psychological
+issue. I'm shit at Psychology.
+
+Don't keep a shorthanded game going
+===================================
+
+In the dead hours of the morning (4am and later) I sometimes find
+myself at the final 1/3 PLO table and it's down to 6, 5 or 4
+players and if two or even one more player leave the game will
+break and there won't be any more 1/3 PLO action until the morning
+game gets going which might not be until 10:30 or 11:00am.
+
+Don't stay in this game just to keep it going if you're losing,
+tired or playing badly. You're still playing in a Public Game.
+It's not your fault that there's no players on the waiting list
+and the game could die at any moment. It's not the Casino's fault
+either, it's just a fact of real life poker you've got to deal with.
+
+The Casino's not paying you to keep the game going and they're still
+charging full rake. You're probably getting tired and there might
+not be much money on the table to win anyhow. Don't be ashamed
+or afraid to call it a night.
 
 Your next 100 sessions
 ======================
