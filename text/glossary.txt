@@ -1,6 +1,6 @@
 GLOSSARY
 
-Last updated: 20190205
+Last updated: 20190303
 
 Most books put the glossary right at the back and you never
 look at it that much. I'm reversing this by putting my glossary at
@@ -222,6 +222,7 @@ FIVE-FIVE REFUGEE: (DRS) Someone in the 1/3 PLO game who normally
 
 FLOP: (1) The first three community cards in a FLOP GAME.
       (2) The round of betting immediately following the revealing of the Flop.
+      In this book I call the betting round the FLOPSTREET.
 
 FLOP GAMES: Poker games involving shared community cards that are
   revealed in three phases: a three card Flop, a fourth card Turn and
@@ -234,6 +235,8 @@ FLOPPABILITY: (DRS) The ability of your HOLDING to Flop well.
   QQ73 has low floppability; it needs a Queen to flop well. 9877 has
   high floppability; it's good on flops with a 7 and various straight
   flops. See NUTTABILITY.
+
+FLOPSTREET: (DRS) The round of betting following the Flop being revealed.
 
 FOUR CARD BINGO: The game of PLO where the winner is decided on whoever
   fitted best with a strange board. If you win on a board of J95T5 with a
@@ -520,9 +523,14 @@ TRIPS: To match a BOARD PAIR with one of your own cards. Trips is
 
 TURN: (1) The fourth community card in FLOP GAMES
       (2) The round of betting following the fourth community card being shown.
+      I called the betting round the TURNSTREET.
 
 TURNBOARD: (DRS) The four community cards after the turn is produced.
   "The flop came 986, the Turnboard was 986K and the FINALBOARD was 986K2"
+
+TURNSTREET: (DRS) The round of betting following the TURN being revealed.
+  This is a word I made up so you know I'm taking about the betting round
+  and not the fourth community card.
 
 UPCARD: A card visible to all players. FLOP GAMES like Omaha have
   Five shared Upcards.
