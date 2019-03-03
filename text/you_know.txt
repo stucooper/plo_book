@@ -1,10 +1,10 @@
 YOU KNOW HOLDEM SO YOU KNOW OMAHA
 
-Last updated: 20180826
+Last updated: 20190303
 
 I deliberately lied in the name of this chapter. No Limit Holdem
 and Pot Limit Omaha are very different games. Just about the only
-things they have in common are the number of betting rounds and 
+things they have in common are the number of betting rounds and
 the community cards produced at each phase.
 
   Players dealt unique hole cards
@@ -18,10 +18,10 @@ the community cards produced at each phase.
   Showdown
 
 In both games, the hand ends prematurely if one player bets all
-other players out of the pot and nobody is all-in for a main pot.
+the other players out of the pot and nobody is all-in.
 
 Because PLO betting rounds are Pot Limit not No Limit, they play
-very differently. You can't shove all-in with a giant overbet and 
+very differently. You can't shove all-in with a giant overbet and
 take the pot down or get heads-up with one player. It's quite common
 in Omaha for 4 or even 5 players to still be live on the flop.
 
@@ -41,17 +41,25 @@ In Omaha you've got to use 2 cards of your own and 3 from the Board, a
 showdown rule I call 2+3. This changes the hands you can make.
 In Texas a board of T8632 four Diamonds will usually see the winner
 holding a single high Diamond. In Omaha, you need 2 Diamonds of your
-own to make the flush here. 
+own to make the flush here.
 
 More 2+3 confusion occurs with double-paired Boards. In Texas if I have
 AK on a board of KK884 then I have a full house AKK88. But in Omaha
-I don't - I have trip Kings. With a holding of AKQT and a board of 
+I don't - I have trip Kings. With a holding of AKQT and a board of
 KK884 my best hand is [AK]KK8 for KKKA8. I'm showing the 2 cards I'm
 using in square brackets [] here. Once I've used my two cards there's
 no room in the board 3 to include both those KK88 to fill up.
 
-The 2+3 Showdown Rule takes a lot of getting used to. One of the advantages
-experienced Omaha players have when a Holdemite joins the table is
-the Holdemite misreads the board a lot and ends up calling with
-hands that aren't full houses and aren't flushes. This is always
-great for the Omaha regulars and very painful for the Holdemite.
+When there's three of a kind on the Board, you need a pocket pair in
+your own holding to make a full house. Holding AKQT to a board of K8883,
+my best hand is [AK]888 and I don't have a full house. Someone with
+JT99 beats me because his best hand is [99]888. Of course in both
+Omaha and Texas, someone with the fourth 8 in their holding makes Quads
+and wins.
+
+The 2+3 Showdown Rule takes a lot of getting used to. One of
+the advantages an experienced Omaha player has against a Holdemite is
+experience in 2+3 Board reading. The Holdemite misreads the board
+a lot and ends up calling with full houses that aren't, flushes that
+aren't and even straights that aren't. This is great for the Omaha
+regular and very costly for the Holdemite.
