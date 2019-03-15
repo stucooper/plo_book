@@ -1,6 +1,6 @@
 GLOSSARY
 
-Last updated: 20190303
+Last updated: 20190315
 
 Most books put the glossary right at the back and you never
 look at it that much. I'm reversing this by putting my glossary at
@@ -237,6 +237,10 @@ FLOPPABILITY: (DRS) The ability of your HOLDING to Flop well.
   flops. See NUTTABILITY.
 
 FLOPSTREET: (DRS) The round of betting following the Flop being revealed.
+
+FOLDER'S REMORSE: Folder's remorse is what you have when you fold
+  on the flop or turn, only to discover in the runout that you
+  would have made a Nut hand and won a big pot.
 
 FOUR CARD BINGO: The game of PLO where the winner is decided on whoever
   fitted best with a strange board. If you win on a board of J95T5 with a
