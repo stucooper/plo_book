@@ -246,9 +246,9 @@ FOUR CARD BINGO: The game of PLO where the winner is decided on whoever
   fitted best with a strange board. If you win on a board of J95T5 with a
   holding like KQ95, you've won the game of Four Card Bingo.
 
-FOUR PAIR: To have all four cards on the BTT paired in your HOLDING.
-  Four pair is not a FIVE CARD HAND, it's an intermediate hand on the BTT
-  that will be resolved to a FIVE CARD HAND on the final board.
+FOUR PAIR: To have all four cards on the TURNBOARD paired in your HOLDING.
+  Four pair is not a FIVE CARD HAND, it's an intermediate hand on the TURNBOARD
+  that will resolve to a FIVE CARD HAND on the final board.
 
 FOURTH STREET: Old-school term for the turn card and the betting round
   that follows the turn.
