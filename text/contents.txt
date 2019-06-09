@@ -22,6 +22,7 @@ straddle.txt
 party_pots.txt
 horror_pots.txt
 flop_play.txt
+play_on_flush_flop.txt
 free_card_play.txt
 nutshotting.txt
 crying_bet.txt

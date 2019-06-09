@@ -1,0 +1,88 @@
+TYPICAL PLAY ON A FLUSH FLOP
+
+Last updated: 20190609
+
+Let's ignore stack sizes and player types for now. Often a complex
+problem becomes simple if you concentrate on just a single aspect;
+here we'll look at how a typical hand plays out when three cards of the
+same suit flop.
+
+Any hand that's not the Nut flush is a low confidence hand on this flop.
+Don't even think about betting straights, sets or two pair hands. Stay
+in as cheaply as you can with sets and 3-pair hands, fold two pair
+to serious action and fold straights to just about any action.
+
+Because of Omaha's 2+3 showdown structure, you don't make a one-card
+flush if a fourth suit card comes on the turn or the river. You've
+either got the flush or you can't make one.
+
+A decent but non-nut flush becomes a check/call hand on this same-suit
+flop. There's usually an all-check round; either on the flop or the
+turn. If both betting rounds are checked through, it's possible a
+straight might win this hand but it's still not strong enough to bet;
+it will just win the pot as it is, if the river betting is checked
+through.
+
+You can't bet your straight, in a small pot, because a small flush is
+strong enough to check-call you and beat you.
+
+If there is a decent bet on the flop; the hand will narrow to two or
+three or at most four runners. Typically two players each have a flush
+(sometimes even three) while the other player has a set or three pair
+and will see the turn to see if he can fill up. Remember if there's
+betting on the flop, fold your straight.
+
+If you do have the Nut flush, this is one of the few times in Omaha
+where I recommend that you don't blast full pot. Make your bet look
+like a "I want to know where I'm at" bet and you're a bit scared you
+might be up against a higher flush. Bet two-third to seventy percent
+of the pot, which should keep in no-chance lower flushes and
+full-house draws. If the board doesn't pair, bet again
+moderate-strength if it's heads-up, or blast full pot if the pot is
+multiway. The reason to blast full pot multiway is that with two other
+players still in the pot, chances are better that one will come with
+you for the ride. You're likely toast if the board pairs, so charge
+the drawing players as much as you can. If you take down the pot as it
+is with your big bet, that's not a bad result at all.
+
+The Blush
+---------
+
+If you hold the Ace of the flush suit, but you don't have a second
+card of that suit, you have a bluffing opportunity because you know
+nobody else has the Ace-high flush and they will be scared of losing
+to the Nut flush. Facing big bets from you, villains with flushes know
+that they could be facing the Nut flush and will sometimes find a good
+fold.
+
+You'll need to credibly bet both the flop and the turn. See my advice
+earlier in this chapter for how a player who *has* flopped the nut
+flush bets in when he flops the Nut flush. If you give up on either
+the flop or the turn, the pot might still be small on the end and your
+river Blush bluff bet will probably be called.
+
+I suggest you don't try Blush bluffs when the Ace has flopped and your
+blush card is the King. Players value their Queen-high, Jack-high
+and even Ten-high flushes a lot more when they see the Ace is already
+on the board.
+
+When a player with a mid-flush calls a flop bet, they're waiting to
+see what happens in the betting on the turn. That's why you have to
+credibly bet both streets- the second bet convinces the midflushes
+that you've got that Nut flush.
+
+Keep an eye on the villain's pot commitment. A villain might call off
+if he's pot committed or if he's got three of the flush suit in his
+own holding (you can't know his holding of course). Some players just
+call off when they flop flushes. This is great because these guys pay
+you off when you *do* have the real flush.
+
+I let other players Blush bluff me all the time, especially when the
+pot is three-way. There's just too much of a chance that I've
+overflushed here. Sure one of the players might be Blush bluffing, and
+the other might be a set looking to fill up, but there's a really
+strong chance I'm drawing dead here. I don't really care which of the
+two other players in the pot has me beat, the important thing is I
+know I'm beat, so I'll fold and save my stack.
+
+
