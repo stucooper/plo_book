@@ -1,6 +1,6 @@
 KNOW YOUR RIGHTS
 
-Last updated: 20180827
+Last updated: 20190609
 
 Poker dealers do their best to run a good and fair game,
 but their main interest is in keeping the game running
@@ -135,7 +135,16 @@ If you follow the advice in Step 5 (Check the Showdown Winner) carefully
 you should never need to call for the camera because you're unsure
 the winner had the hand you thought he did. Those times I called for
 the camera, I was the Called player who showed first, not the Calling
-Player who shows second.
+Player who shows second. The Calling player, in my opinion, attempted to
+muck and should have lost the pot, but the camera decisions went against me.
+
+Someone called the camera on a pot I won with a rivered straight flush!
+His issue was whether the river card was the proper river card from
+the deck. The dealer had pulled the burn and river cards from the
+dealing shoe at the same time; so maybe that river card should've been
+the burn card and vice-versa? We all sat around for 20 minutes and the
+eye in the sky checked it and the river was the correct card and my
+straight flush held.
 
 7) Your right to leave
 ---------------------
@@ -154,5 +163,5 @@ You have a right to leave a poker table any time you're not in
 a hand. You don't have to post your blind because it's your turn
 next hand, you don't have to stick around because it's 5am and
 if you leave the game will break and nobody else will be able
-to keep playing. You should wish the other players good luck
-and verbally announce your departure.
+to keep playing. Just verbally announce your departure and wish the
+other players good luck.
