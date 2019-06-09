@@ -1,6 +1,6 @@
 GLOSSARY
 
-Last updated: 20190315
+Last updated: 20190609
 
 Most books put the glossary right at the back and you never
 look at it that much. I'm reversing this by putting my glossary at
@@ -63,6 +63,9 @@ BADUGI: A four card holding or TURNBOARD with one of each suit. You can't make
 BEHIND: (1) A player who acts after you in a betting round
         (2) The amount of money remaining in a stack after putting money
             into the pot. "He called the $40 bet preflop and had $110 behind"
+        (3) A player who needs to improve his hand on the river to win
+            this pot.
+        (4) A player who is losing in this session. (sometimes called "stuck")
 
 BET-FOLD: To bet, though intending to fold to a raise. This action-filled
   move can save you money if you're confident that you only get raised
@@ -89,7 +92,11 @@ BLUSH: A one-card flush bluff, you don't actually have the flush but
   If you've got the Ace of spades (without another spade in your holding)
   and the board has K94 of Spades, you have The Blush.
 
-BOARD: The shared community cards. Sometimes called the COMMUNITY.
+BOARD: The shared community cards. Sometimes called the COMMUNITY. In this
+  book I refer to the board at each of its three phases: the flop,
+  the turnboard and the riverboard. Turnboard and Riverboard are useful terms
+  because you know I'm talking about the 4 cards by the turn or the 5 cards
+  by the river and not just the single flop card or single river card.
 
 BOARD PAIR: A turn or river card that makes the community cards show a pair.
   An all-in player, with a set or THREE PAIR and seemingly needing to improve
