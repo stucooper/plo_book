@@ -1,6 +1,6 @@
 TYPICAL PLAY ON A FLUSH FLOP
 
-Last updated: 20190609
+Last updated: 20190615
 
 Let's ignore stack sizes and player types for now. Often a complex
 problem becomes simple if you concentrate on just a single aspect;
@@ -16,15 +16,22 @@ Because of Omaha's 2+3 showdown structure, you don't make a one-card
 flush if a fourth suit card comes on the turn or the river. You've
 either got the flush or you can't make one.
 
+Omaha hands end up high on the poker ladder once all the hands are out,
+and this flop has landed the winning hand on at least the Flush rung.
+The only rungs above Flush are Full House, Quads and Straight Flush.
+If the flop contains a board pair (which we'll look at in the next
+chapter) then the winning hand might already be on the Full House rung
+or the Quads rung).
+
 A decent but non-nut flush becomes a check/call hand on this same-suit
 flop. There's usually an all-check round; either on the flop or the
 turn. If both betting rounds are checked through, it's possible a
-straight might win this hand but it's still not strong enough to bet;
+straight might just win this hand but it's still not strong enough to bet;
 it will just win the pot as it is, if the river betting is checked
 through.
 
 You can't bet your straight, in a small pot, because a small flush is
-strong enough to check-call you and beat you.
+strong enough to check-call you in this small pot and beat you.
 
 If there is a decent bet on the flop; the hand will narrow to two or
 three or at most four runners. Typically two players each have a flush
