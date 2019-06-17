@@ -49,9 +49,11 @@ In 2/3 NLH:
 PLO is the biggest game spread on The Star main floor; some games
 have just a minimum buyin and no maximum! I've seen with my own
 eyes a game with $200/$400 blinds and a minimum buyin of $40,000.
-(I have actually seen, only once, a bigger No Limit Holdem game,
+I have actually seen, just once, a bigger No Limit Holdem game,
 but on any given day PLO will be the biggest game going in the
-poker area).
+public poker area. There may be bigger Holdem games or
+short deck games going on in High Rollers rooms, but the big game
+in the public area is PLO.
 
 The biggest game I've played in is $5/$5/$10 with a buyin of
 $300-$1500; but even playing in the 1/3 PLO game I feel like a Big
@@ -82,7 +84,10 @@ blasted-off player would've won. This concept is called
 Protection and you see it mostly in Tournament Holdem.
 In PLO it turns up Pre-flop, where a big stack player
 will often blast off other medium stacks with the third raise,
-leaving him one-on-one against a short stack.
+leaving him one-on-one against a short stack. This works to the
+advantage of both the big stack blaster, and the short stack.
+The percentages of both players improve because they've now only
+got to beat a single other player to win.
 
 PLO is not a trapping game like NLH is. Because there's so many
 cards dealt, and everyone has a 4 card holding, there's
@@ -105,3 +110,15 @@ at when it's correct to bet and correct to call, but for now
 let me impress upon you that in PLO when
 you flop strong you don't trap, you come out blasting. You have
 to do this yourself, Do Your Own Betting (DYOB).
+
+Because the pots in PLO are usually big, you get some relief from
+the 10% rake because the pots are a long way over the cap ($150).
+If your holdem pots are always $73, $86 and $55, the full 10%
+rake of $7,$8 and $5 is taken out each time. But when your PLO
+pots are $350, $270 and $800, the rake is $15, $15 and $15,
+which works out to 5.5%, 4.2% and 1.8% on those three pots.
+
+When the game gets shorthand (5 players or fewer) the pots become
+smaller and a lot of money is being lost to higher rake. But in
+full ring PLO with big pots, you're paying less rake than you are
+in the same Holdem game.
