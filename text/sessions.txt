@@ -1,10 +1,15 @@
 SESSIONS
 
-Last updated: 20190609
+Last updated: 20190630
 
 Cash poker is played in sessions. Your poker sessions starts
 with your arrival on the casino floor and ends with your
-departure from the casino floor.
+departure from the casino floor. In the last long chapter,
+The Leaving Decision, I wrote a lot about when to end your session
+and about how losing $300 less each time you have a losing session
+adds money to your wallet, even though it doesn't feel like it as
+you walk out of the casino a loser for the session. In this chapter,
+I'll look more at a single session.
 
 Breathe in
 ==========
@@ -12,7 +17,10 @@ Breathe in
 Some players try to hit the ground running and get their stack
 committed in their first, second or third hand. This is great
 when it works (it's always fun to double up or triple up early)
-but very expensive when it fails.
+but very expensive when it fails. It also does nothing for your
+table image and means it'll be very hard for you to run bluffs
+because the other players can see you're happy to get it in with
+a very wide range of hands; you're not a high pairs top-set miner.
 
 You don't know anything about the table when you first sit down.
 Even if there's six regulars there you know well, you can't tell
@@ -21,10 +29,13 @@ is sitting behind a $1600 stack it's obvious they're running well.
 
 Rushing and overplaying your hands is a mistake in any kind
 of Poker and it's worse in Omaha because
-(a) you can hit a good looking flop and still be miles behind
-(b) your whole stack gets committed so quickly and easily
-(c) If you'd just wait a few more hands you'll get dealt a much
-    better starting hand which you can play strongly
+(a) you can hit a good looking flop and still be miles behind.
+(b) your whole stack gets committed so quickly and easily.
+(c) if you wait a few hands more you'll get dealt a much
+    better starting hand which you can play strongly. You don't have
+    to wait too long for a great hand in Omaha; so wait up to half
+    a dozen hands for your first great hand; don't overplay a
+    marginal hand right off the bat.
 (d) you're not going to bluff anyone off this early in your session.
 
 So breathe in. Look around the table, get a feel for how the game
@@ -65,3 +76,30 @@ is a great size to play the big pots with.
 
 Shortstacking is so important in PLO that I strongly believe that
 the $150 buyin is the right size.
+
+How much money to bring
+=======================
+
+Allow me to share a slightly personal secret. My daily ATM withdrawal limit
+is $1,000. It used to be $2,000 but a couple of years ago my bank
+changed it to $1,000. I could go and visit my bank in person and have
+it changed to a higher amount if I wanted to, but $1,000 works well for
+me.
+
+For most of my sessions I arrive with $900 in my wallet and my ATM card;
+which means my maximum session loss is $1900, provided that my ATM
+withdrawal is made after midnight. If I've used my ATM card before then
+and I run really badly, I risk losing my arrival cash plus two
+ATM withdrawals (eg at 11:45pm and 02:20am) which makes a maximum loss
+of $2,900 which is a crushing loss.
+
+If I've got a lot of cash at home I will often turn up with $1500 or $1800
+in my wallet and leave my ATM card at home. Now my loss is limited to the
+cash I've brought with me, and once that's gone, it's time to go home.
+
+Since my buyin is normally $150, if I lose $1500 in a session then I've
+lost a full ten buyins. I've sometimes made a miracle recovery from this
+position and booked a small win or a "real money in my pocket" manageable
+loss of $150-$600 but many more times I've made the loss even worse
+by blowing another $600 to $1000. You have to pull the handbrake sooner or
+later.
