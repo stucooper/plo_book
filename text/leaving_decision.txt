@@ -1,12 +1,13 @@
 THE LEAVING DECISION
 
-Last updated: 20190303
+Last updated: 20190630
 
 Cash poker has an important element that Tourment Poker doesn't,
 the Leaving Decision. In a tournament you have to play until you bust, or
-you're the Last Man Standing. In Cash you can leave at any time, and
+you're the Last Man Standing or you make a final table deal and you're
+one of the last Men standing. In Cash you can leave at any time, and
 unless you're playing in the dead hours of the morning and the game
-is about to stop, the game simply goes on without you after you leave.
+breaks, the game simply goes on without you after you leave.
 
 From your point of view, the game is over once you leave it.
 There's poker games going on 24x7, the only one you really care about
@@ -38,8 +39,8 @@ I'm going to shout it out one more time.
 THE MOST PROFITABLE SINGLE CHANGE EXPERIENCED CASH GAME
 PLAYERS CAN MAKE IS IMPROVING THEIR LEAVING DECISION
 
-Public and Invitation Games
-===========================
+Public Games and Invitation Games
+=================================
 
 Because you're playing in a Casino environment, against
 self-selecting players, you're playing in a Public Game.
@@ -55,7 +56,12 @@ after a specified time. Normally half an hour or two or three
 more rounds of the button is the right amount. You can then
 "lock up your chips" by tank-folding every hand preflop and
 not putting your chips at risk. You'll only lose three or so
-big blinds and small blinds before you can cash out.
+big blinds and small blinds before you can cash out. This is
+actually a lot harder to do than it sounds; inevitably you keep
+looking at your hands and you'll play a few of them and maybe
+get bad beated and lose a decent whack of your profit. A few
+players have even reversed their leaving announcement and end up
+playing the invitation game to the bitter end.
 
 The Star do run a few Invitation Games, where you need to
 be "in the know" to get in the game and they're not advertised
@@ -64,7 +70,9 @@ give the same notice of your intention to leave as in a home game.
 
 Most of these invitation games are at megastakes; one of the
 games is $100/$200/$400 PLO with a minimum buyin of $40,000
-and no maximum!
+and no maximum! The one I've played in as a much more manageable
+$1/$2/$5; which is a game Star used to run but then dropped so
+that there were just two low-limit PLO games, $1/$3 and $5/$5/$10.
 
 Some casinos don't run Invitation Games, all of their games
 are open to anyone able to afford the minimum buyin for that
@@ -74,6 +82,10 @@ Limit Holdem game at the Bellagio against Chip Reese and
 an unknown rich player new in town, Andy Beal.
 Expecting the biggest game going to be $400/$800, Forrest joined
 a Public Game that was twenty-five times bigger.
+
+Anyhow, when you play in the $1/$3 PLO game at Star, you're playing
+in a Public game and you have the right to leave without notice at
+any time. That is the most fundamental right of cash poker.
 
 Hit and Run
 ===========
@@ -87,7 +99,7 @@ where you can get the whole of your stack involved in any one hand,
 as long as you're in a pot with a player with a bigger stack
 than yours. In most other forms of gambling, there's a set limit
 to how much one gamble will cost you. You can play five spins of
-a Poker Machine and know it will cost you $30, you can play
+a Poker Machine and know it will cost you $50, you can play
 five hands of Blackjack and know it will cost you at most $100.
 In Big Bet Poker, you don't know what the next five hands might
 cost you. You run the risk of losing big in any hand.
@@ -112,8 +124,8 @@ playing on to chase a tiny reward just because your brain tells
 you that you're slightly under what would be a big win.
 
 I suffer from this feeling all the time - and I'm good at Maths!
-You know what the number slightly under a Big Win is? A Big Win.
-Take your big win.
+You know what the number just a bit under a Big Win is? A Big Win.
+Take that big win.
 
 Our brains are trained through advertising to think that
 a car at $19,990 is under Twenty Thousand and that a book
@@ -123,7 +135,7 @@ to consider your $498 win as a $500 win and you'll be much better off.
 
 Being good at Maths doesn't help me avoid the $100 Boundary
 Fallacy because the Fallacy is much more of a Psychological
-issue. I'm shit at Psychology.
+issue. I'm good at Maths, I'm shit at Psychology.
 
 DOCTOR STRAIGHT FACT: The very night after I wrote this section
 I played a session where my third buyin rose to great heights and
@@ -151,9 +163,10 @@ and the game could die at any moment. It's not the Casino's fault
 either, it's just a fact of real life poker you've got to deal with.
 
 The Casino's not paying you to keep the game going and they're still
-charging full rake. You're probably getting tired and there might
-not be much money on the table to win anyhow. Don't be ashamed
-or afraid to call it a night.
+charging full rake. Some casinos have reduced rake for shorthanded
+dead hours games, Star isn't one of the. You're probably getting tired
+and there might not be much money on the table to win anyhow. Don't be
+ashamed or afraid to call it a night.
 
 Your next 100 sessions
 ======================
@@ -222,27 +235,29 @@ Would you take $500 not to play poker tonight?
 ==============================================
 
 Imagine a scenario where you got an offer of $500 to leave
-the casino and not play poker tonight. Maybe you met a friend
-who just won a tournament and wanted to share some winnings
-with you, provided you went out and partied with him. Maybe your
-office called and if you drove there and did a cinch
-thirty minute job they'd give you $500 in callout fees.
+the casino and not play poker tonight. You meet a friend
+who just won a tournament and wants to share some winnings
+with you, provided you go out and party with him. Your
+office calls and if you drive there and do a cinch
+thirty minute job they'll give you $500 in callout fees.
 Easy money. You don't have to take the offer (your can party
 another time with your mate, your office has other people they
 can get to do the job) but the offer's there. Do you take it?
 
 I think you should. $500 is nicely above your session average
 in poker and here's a chance to make a guaranteed $500 by
-simply not  playing poker.
+simply not playing poker.
 
 I received an offer like this one night and I knocked it back.
+It didn't involve a party-hungry mate or my office calling up.
 I'd sat down at my 1/3 PLO table with my first $150 buyin and
 my very first hand was a Party Hand, which I won with a non-nut
 flush on the river. After 2 minutes at the table I had a stack
-of $670.
+of $670 and I'm up $520. Send it.
 
 OK, let's freeze time right there. I've played one hand, not well
-and not badly, the cards fell my way and I've been gifted
+and not badly, it was a Party Hand and I know how to play those on my
+first buyin, the cards fell my way and I've been gifted
 $520 in winnings. I haven't got any read on what looks like
 an averagely difficult table and I have an unspoken offer from
 The Poker Gods of $520 to not play poker tonight. I can get home
@@ -251,8 +266,8 @@ things to do in my life than play poker, so I should take the
 $520 and have the earliest of nights.
 
 The table didn't have any known chumps on it. If I keep playing
-I could win well, win small, lose small or lose big. I could
-see no easy money to be picked up, I'd need more big hands
+I could win well, win small, lose small or lose big. I can't
+see any easy money to be picked up, I'd need more big hands
 and help from the cards to win more pots.
 
 I didn't take the offer from the Poker Gods. I kept playing.
@@ -267,9 +282,9 @@ a nice increase on that first hand $520 win. Going from $920
 down to $220 was very bad and my final cashout figure of $420
 for a $270 win feels about the right amount for the session.
 The dollars don't lie. Still, I could've taken the offer
-presented; $500 to not play poker tonight.
+presented; $520 to not play poker tonight.
 
-You can think of it as $500 compensation for missing out on the
+You can think of it as $520 compensation for missing out on the
 rush and thrill and enjoyment of playing poker.
 
 My Biggest Regrets
@@ -380,18 +395,42 @@ I get tired and lose focus. When I'm really tired I find myself
 getting up from the table and walking around for the exercise,
 waving my arms around and trying to get my blood flowing.
 
+In my Uni days I did a lot of advanced Maths subjects.
+The end of semester exams for these subjects were three to four hours
+long, depending on how much different stuff was covered in the course.
+The exams were long enough that slow handwriting speed wasn't a
+factor and I really had plenty of time to finish the paper, and
+to spend 40 minutes on the really tough questions and cross out
+a few wrong first attempts if I was going down the gardeb path.
+
+If the exams had been longer than four hours, that would have been
+cruel. There was nothing I could have done going into the fifth hour
+of the exam that I couldn't do in the first four. I was already
+mentally exhausted after three hours of concentration, after four
+hours I was very happy to call it a day.
+
+In the same way, my poker sessions deteriorate going into the fourth
+hour and the fifth hour. I can set my own hours and leave when I'm
+getting tired.
+
 When I'm really tired I get grumpy and the physical sound
-of poker chips being thrown into the pot starts to annoy me.
-That's a personal thing for me that I've noticed, and a good
-sign that it could be time to wind things up.
+of poker chips hitting each other as they're being thrown into the pot
+starts to annoy me. The sound of people doing chip ruffling also gets
+under my skin. That's a personal thing for me that I've noticed, and a
+great biological sign that it should be time for me to wind things
+up.
 
 DOCTOR STRAIGHT FACT: I once called it a night after just
 two hours at the table. It was a Friday night
 session in a week where, after a long holiday
 of wake-any-time-before-midday sleepins, I'd had to wake up
 at 6am each morning. My body was still getting used to that
-punishment and I just wasn't up to playing though until 4am.
+punishment and I just wasn't up to playing midnight to 4am.
 My eyes were swimming and I cashed out before 2am, taking a
 $450 win because my body just physically wasn't up to a late
-night. This was the most exhasuted I've ever been at the table
-and I'd only been playing two hours!
+night. When I got the cash at the payout counter, one of the $50 notes
+looked strange, it was almost swimming in front of my eyes. A very
+strange feeling indeed (luckily I was fine on the weekend after a good
+sleepin, otherwise I would have gone to the see a Doctor). This was
+the most exhasuted I've ever been at the table and I'd only been
+playing two hours!
