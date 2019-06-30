@@ -1,6 +1,6 @@
 ADVICE FOR NEW PLAYERS
 
-Last updated: 20180816
+Last updated: 20190630
 
 If you're new to Omaha, here's some suggestions to help you in
 your first few sessions. As you get more experienced you'll
@@ -54,7 +54,7 @@ Don't be afraid of showing a losing hand at showdown
 
 If you've got any kind of doubt in a Showdown, table your hand.
 Once your hand is tabled, Cards Speak and the Dealer and other
-players can help identify your best hand. The worst sin in poker
+players will help identify your best hand. The worst sin in poker
 is to fold a hand at showdown that was the winner or would have
 split the pot.
 
@@ -67,25 +67,33 @@ that simply don't play in Omaha. Take a few seconds to make entirely
 sure that the winner has the hand he says he has, under 2+3 rules,
 and don't be afraid to table your hand if you're unsure.
 
+Star don't award a pot until the losing player has surrendered his
+card; even if the winner has shown an unbeatable nuts (top flush
+on unpaired flush board with no straight flush possible, top full house
+with blocker on paired board, like KK8x on a K8873 board, hands like
+that.) You have the right to check to your full satisfaction that
+the winner's hand is indeed the nuts that it looks like. And you can
+still table your hand if you want.
+
 Don't straddle
 --------------
 
 As a new player to Omaha, you'll want to play some hands and get
 as much experience for the cost of your buyins as you can.
-Straddling $6, paying twice as much out of position when you haven't
-even seen your cards, goes against your Experience Goals.
+Straddling $6, paying twice as much in a terrible table position when
+you haven't even seen your cards, goes against your Experience Goals.
 
 Sometimes most players at the table are straddling and they'll put
 you under verbal pressure to straddle also. Don't do it.
-Straddling won't make you one of the boys and it doesn't disguise
+Straddling won't make you one of the boys and it won't disguise
 the fact you're new to Omaha.
 
 Raise with the big straight draws
 ---------------------------------
 
 Holdemites aren't used to the strength of big Omaha draws. If your
-holding and the flop make a 5-card continuum, and you're above the board,
-and the flop isn't single-suited, Jam it!
+holding and the rainbow flop make a 5-card continuum, and you're above
+the board, Jam it!
 
 Avoid tricky play
 -----------------
@@ -123,7 +131,7 @@ Don't draw to low flushes
 
 One of the traps Omaha has for Holdemites is low flushes. In Holdem
 a low flush using both of your hole cards is normally a winner, but in
-Omaha it's often a loser. If you've done the work in the Rainy Day
+Omaha it's usually a loser. If you've done the work in the Rainy Day
 chapter you'll have a good appreciation of the fact that suited
 cards as high as suited kings are often behind to the holdings of
 other players who have suited Aces in the same suit. That's the
@@ -159,11 +167,15 @@ you'll call $3 or $10 and have to surrender to later reraises,
 that's just the nature of PLO, but you don't want to call
 $40 or more and still not get to see the flop for that price.
 Preflop you have to take a second peek at earlier callers who
-are still in the hand, and think if they will re-raise when
-action returns to them or just call. You won't always get
-it right, but if you keep yourself in the habit of looking,
+are still in the hand, and make a quick guess if they will re-raise
+when action returns to them or just call. You won't always get
+it right, but if you get yourself in the habit of looking,
 you'll get it right more often.
 
-Many players (including myself) count out the right chips
-for a call before the action is on them, providing tells for
-observant players on what their action will be.
+Many players (including myself) count out the exact chips
+for a call before the action is on them, providing a reliable tell for
+observant players that they will be calling. I'll try and train
+myself out of this habit so I don't give away this tell. I'm
+a quick and accurate counter of chips so if I just wait my
+turn I won't be slowing things down by waiting to get my
+call chips until action is on me.
