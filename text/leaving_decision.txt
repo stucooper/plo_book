@@ -1,6 +1,6 @@
 THE LEAVING DECISION
 
-Last updated: 20190630
+Last updated: 20190729
 
 Cash poker has an important element that Tourment Poker doesn't,
 the Leaving Decision. In a tournament you have to play until you bust, or
@@ -129,8 +129,8 @@ Take that big win.
 
 Our brains are trained through advertising to think that
 a car at $19,990 is under Twenty Thousand and that a book
-priced at $29.95 is under Thirty Dollars. Well they're not really;
-you're paying $20k for the car and $30 for the book. Learn
+priced at $19.95 is under Twenty Dollars. Well they're not;
+you're paying $20,000 for the car and $20 for the book. Learn
 to consider your $498 win as a $500 win and you'll be much better off.
 
 Being good at Maths doesn't help me avoid the $100 Boundary
@@ -144,8 +144,8 @@ $1420, $1502, $1440, $1449, $1410, $1435 and so on. I was keen
 on getting it over $1450 so I could say I'd won $1000 in that
 session then I remembered what I'd written in this section and
 that a stack of $1440 effectively was a $1000 win. My cashout
-amount was $1441, technically a $991 win but we can call
-it a $1000 win.
+amount was $1441, technically a $991 win but that's really
+a $1000 win.
 
 Don't keep a shorthanded game going
 ===================================
@@ -164,7 +164,7 @@ either, it's just a fact of real life poker you've got to deal with.
 
 The Casino's not paying you to keep the game going and they're still
 charging full rake. Some casinos have reduced rake for shorthanded
-dead hours games, Star isn't one of the. You're probably getting tired
+dead hours games, Star isn't one of them. You're probably getting tired
 and there might not be much money on the table to win anyhow. Don't be
 ashamed or afraid to call it a night.
 
