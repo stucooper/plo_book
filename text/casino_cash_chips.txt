@@ -1,6 +1,6 @@
 CASINO CASH CHIPS
 
-Updated: 20190630
+Updated: 20190926
 
 "Whoever invented gambling was smart,
  whoever invented chips was a genius" - Old Poker Saying.
@@ -36,21 +36,21 @@ buyin and simply leave the game. Hopefully you get a good holding in
 the next 5 hands and can win the small stack from the table games player
 without too much risk.
 
+Announce your bets: action and number
+=====================================
+
 Most players (just about everyone at the table apart from me it seems)
 try to call, bet and raise as silently as possible. They'll bet
 a mystery amount of red chips and force the dealer to count it
 and announce the bet to the other players at the table. They'll raise
 or check-raise in a similar silent fashion. I always announce what
 I'm doing and the amount of my call, bet or raise. "Call fifteen.
-Raise to 40 total. Fold". If I'm going to raise the pot, I make
-100% sure that I have the dealer's attention and doubly sure that
-action's on me and that I'm not acting out of turn. I often
-confirm it's my turn with the question "Is it on me? Yes?? OK, I
-raise the pot". 
+Raise to 40 total. Fold".
 
 Australia's greatest cricketer, Don Bradman, used to scream
 "No!" from the non-strikers end to play-and-miss deliveries
-easily gloved by the wicketkeeper. He was always on the lookout
+easily gloved by the wicketkeeper that were never a chance
+for a quick single. He was always on the lookout
 for easy runs and kept bonus Byes very much an option in his
 running between the wickets.
 
@@ -67,14 +67,26 @@ word "raise" before the chip hits the felt, you've raised to the value
 of that chip or you've raised to the size of the pot, whichever is lower,
 provided that you've put in enough chips to be a full raise.
 
-Two or more chips thrown out is a raise to that value. We'll see an
+Two or more chips thrown out is a raise to that value, or the
+biggest allowed bet. We'll see an
 interesting preflop application of this rule in 1/3 games with
 a $6 straddle, see the "Straddles" chapter for the full story.
 
-If you're facing a call of $76 and you put in a black $100 chip 
-and $6 in loose chips you're obviously calling the $76 and making 
+If you're facing a call of $46 and you put in a black $100 chip 
+and $6 in loose chips you're obviously calling the $46 and making 
 the change easier for the dealer by adding the extra $6,
-but if you chuck in 2 black chips that's clearly a raise to $200.
+but if you chuck in 2 black chips that's clearly a raise to $200 or
+the biggest allowed bet.
+
+I never make errors in the amounts of my bets, because I say a number,
+but I sometimes make out-of-turn errors. It doesn't matter much
+if I make a "call 15" error with a player still to act before me,
+but if I want to raise the pot I have to make totally sure that
+I'm not acting out of turn and that my pot raise will stand.
+
+I make 100% sure that I have the dealer's attention and doubly sure
+that action's on me and that I'm not acting out of turn. I often
+ask the question "Is it on me? Yes?? OK, I raise the pot".
 
 Buying Chips
 ============
@@ -125,8 +137,8 @@ Chip tells
 A lot of the tells in Mike Caro's Book of Poker Tells
 involve how bettors handle their chips. One tell that
 I've noticed in the Star 1/3 PLO game is players
-will casually toss in a $100 chip on the river round, frisbee
-it in so it lands from a height of 10 centimetres or so.
+will casually toss in a $100 chip on the turn or river round.
+They frisbee it in so it lands from a height of 10 centimetres or so.
 They almost splash the pot with it, they don't carefully
 place it in their normal betting area.
 
@@ -140,6 +152,12 @@ a hand on the river and hoping to get someone to call for $100.
 Rather than nonchalantly tossing in the chip, and giving off exactly
 this tell, I'd be better off pushing out a Red tower along the 
 table felt and betting in the usual way.
+
+Players sometimes call on the river with this casual frisbee; this
+isn't really a tell; the calling player has a good enough hand to
+call with (which is common in PLO) but not nut enough to raise with
+(again, common in PLO). The frisbee-chip throw is a tell from the
+bettor; not from the caller.
 
 Colouring Up and Cashing Out
 ============================
