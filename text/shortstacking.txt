@@ -1,6 +1,6 @@
 SHORTSTACKING AND THE ROLF SEAT
 
-Last updated: 20190127
+Last updated: 20191201
 
 A Beginner's Strategy for NLH Cash
 ----------------------------------
@@ -47,8 +47,8 @@ approach that many experienced players use. It's called "Shortstacking"
 because it involves buyin in for a pretty small stack, relative to the
 other players and the maximum allowed buyin. Here's the essence of
 how you play the shortstacking approach with $1/$3 blinds:
-  - buy in for the minimum or a bit more ($100-$175)
-  - sit to the right of the most aggressive preflop player (the "Rolf Seat")
+  - buy in for the minimum or a bit more ($100-$150)
+  - sit to the right of the most aggressive player (the "Rolf Seat")
   - look to limp-raise or check-raise him with all your strong hands.
   - limp/call with hands with good potential if your call isn't too
     expensive and your call closes the action
@@ -65,13 +65,24 @@ frequent risk of the dealer accidentally mucking your cards.
 You have to protect your holding with a card protector or chips on
 top, which is just one extra bit of physical hassle compared to
 the other seats. It's hard to be sure just when your big blind is coming.
+You can't see the player in Seat 10 because the dealer is in the way,
+so you have to make doubly sure of the bet size to you when you're
+making a call; so you don't accidentally call a much larger bet because
+Seat 10 has raised and you can't see his bet easily.
 Seat 1 is just a physically bad place to sit on a poker table. Just
 about the only good thing I can say about Seat 1 is you don't have
-to stretch your arms as far to put your bets in.
+to stretch your arms as far to put your bets in- but when you do bet
+you often have to place your chips on the lid of the shuffle machine,
+which isn't physically as much fun as betting on the table felt.
+
+Seat 10 is a bit better; you can certainly see your blind coming
+but you can't see Seat 1 because the dealer is in the way. You feel
+isolated and away from the action in both Seat 1 and Seat 10.
 
 You should be able to identify quickly the most aggressive preflop player,
 he will be noticed and commented on and resented by the other players
-at the table, many of whom would like a lot more $3 each family pots.
+at the table, who would like a lot of $3 family pots
+and to see a cheap flop for the minumum price.
 
 The Rolf Seat
 -------------
@@ -92,7 +103,10 @@ you call the Aggressive Player's raise and close the action, if there
 have been no other raises. Sometimes you'll limp your $3, the aggressive
 player will make it $15 and a further player will make it $55; this makes
 for a very easy fold for you and you don't lose sleep over good folds
-that cost you just $3.
+that cost you just $3. If you'd been acting after the MAP you would have
+paid $15 for this hand and then been faced with the Hobson's choice of losing
+$15 without even seeing a flop or paying another $40 to take a flop with
+a marginal hand that is going to miss a lot of the time.
 
 So being in the Rolf Seat purifies your pre-flop game; you improve
 your chances of getting heads up with your strong hands, and you
@@ -106,9 +120,12 @@ Texas. You limp, hope for a raise and a few callers, and when action
 returns to you, you come over the top and win the pot outright as it
 is or get heads up with some bonus money in the pot from the callers.
 With No Limit betting, you can usually size the bet to get the outcome
-that you want. Sometimes your limp isn't raised and there's four
-limpers after you and you end up in a five-way pot. That's not a good
-result and you have to slow down unless a King flops.
+that you want. Sometimes your limp isn't raised and there's five
+limpers after you and you end up in a six-way pot. That's not a good
+result and you have to slow down unless a King flops. Still, raising
+first to act and just picking up the blinds isn't a good result
+for pokcet Kings either. Getting a single caller in a raised pot is
+typically what you want with your strong hands.
 
 Protection
 ----------
@@ -147,6 +164,18 @@ player could be getting 6 to 1 on his money and only have
 to beat a single still-live player heads-up. That's an excellent result
 for the shortstacker.
 
+The second kind of Protection a shortstacker often gets is
+preflop heads-up protection. Often a huge stack has a great high-pair
+hand that figures to beat any other hand heads-up. The huge stack will
+often put in a massive raise that the shortstack can easily undercall
+all-in but other big stacks have to fold to. Both the huge stack and
+the shortstack are now heads up and the cards will decide the winner.
+There might be sandwiched money from call/folders preflop that makes
+this even better for the shortstack and the huge stack. The shortstack
+player sometimes min-reraises preflop as an invitation to the huge stack
+to blast out the other players and create a heads-up pot with sandwiched
+money.
+
 Deadstack Nothreats
 -------------------
 Just because a player is making min buyin after min buyin doesn't
@@ -174,4 +203,8 @@ Although the Deadstack Nothreats are usually all-in for a tiny amount,
 relative to the pot, and you're getting great pot odds to call with
 just about any kind of draw, and it doesn't hurt you too much if
 you call and lose. A $20 to $40 call into a $200 pot is giving you
-great odds to try and beat the Deadstack Nothreat.
+great odds to try and beat the Deadstack Nothreat. On the other hand
+if the pot is small you can't win much money from a Deadstack Nothreat's
+bet; there are no Implied Odds and no more money to be won on later
+betting rounds if you hit; so folding small draws is usually the
+right play unless there's big stacks still in this pot.
