@@ -1,34 +1,56 @@
 OMAHA IS NOT HOLDEM
 
-Last updated: 20190129
+Last updated: 20191201
 
 Because Omaha and Holdem are both flop games, they seem very similar.
 Some of your Holdem skills (Reading the Board for example) transfer
-over to Omaha. But be warned. No Limit Holdem and Pot Limit Omaha 
+100% to Omaha. But be warned. No Limit Holdem and Pot Limit Omaha
 are very different games. Just about the only things they have 
 in common is the Flop Game Structure.
 
-  All players at the table dealt unique hole cards
-  Preflop Betting
+The Flop Game Structure
+=======================
+
+  One or more blinds are posted so there is an initial pot to contest.
+    Holdem normally has two blinds, Omaha sometimes uses a third blind.
+  All players at the table are dealt unique hole cards. They keep these
+    cards for the duration of the deal. They use these hole cards together
+    with a certaint number of the community cards to make their best
+    five card poker hand at showdown, according to the showdown rules.
+  Preflop Betting round. In any betting round, a player unwilling to
+    match the bet must fold and surrender his cards and his chances of
+    winning the pot. A player who has called with the last of his
+    money is "all-in" and gets to showdown and contests the pot up to
+    the amount of his bet matched by other active players.
   3 card flop produced
-  Flop Betting
+  Flop Betting round
   4th card ("turn") prouduced
-  Turn Betting
+  Turn Betting round
   5th card ("river") produced
-  River Betting
-  Showdown
+  River Betting round
+  Showdown. The best five card poker hand according to the showdown
+    rule wins the pot.
 
 Omaha Showdown Rule: 2+3
 ========================
 
 In Texas you can use 2, 1 or even none of your hole cards in combination
-with the 5 community cards to make your best 5 card poker hands. If the
-final community is AKQJT, no flush possible, then everyone still in the
-hand has an unbeatable Ace-high straight (called "Broadway"). Poker
+with the 5 community cards to make your best 5 card poker hand. If you
+use none of your hole cards, you're said to be "playing the board". If the
+final community cards are AKQJT, no flush possible, then everyone still in the
+hand has an unbeatable Ace-high straight (called "Broadway") and it
+doesn't matter what anyone has as their hole cards, everyone still in
+the hand will split the pot. Poker
 legend has it that in the 2005 World Series Main Event, four players
 were in a hand with this final board. One player bet, the next player
 raised, two Internet qualifiers folded and it ended up being a 2-way
 split not a 4-way split!
+
+Besides the AKQJT community, there are some other very rare boards
+which make for a guaranteed split. 2222A is a split and AKQJT all the
+same suit is a split; everyone makes a royal flush. You won't see
+these other boards very often, but you will see unsuited Broadway now
+and then.
 
 In Omaha you have to use 2 cards of your own and 3 from the Board, a
 showdown rule I call 2+3. Two of yours plus Three from the board.
@@ -94,13 +116,15 @@ Multiway hands
 The two cards that you use from your holding to make your best
 Five-Card final hand can and do change after each board card. Consider
 this holding: Ac9d9h4c. The flop is AJc4, at this stage you are using
-your A4 and your best hand is [A4]A4J. The turn comes the 9 of clubs,
+your A4 and your best hand is [A4]A4J. Two pair Aces and Fours, Jack
+kicker. The turn comes the 9 of clubs,
 a great card for you, and now you use your 99 to make a trips hand,
-[99]9AJ. The river comes the 3 of clubs, making you the nut flush.
-You're now playing Ac4c again, not to make two pairs, but for the Nut Flush.
-Hands that can change to better and better hands are called Multiway
-hands and are prized hands in Omaha. When you're looking at your
-holding preflop; have a think about the kinds of hands it can make.
+[99]9AJ. Trip Nines, Ace-Jack kickers. The river comes the 3 of clubs,
+making you the nut flush. You're now playing Ac4c again, not to make
+two pairs, but for the Nut Flush. Hands that can change to better and
+better hands are called Multiway hands and are prized hands in
+Omaha. When you're looking at your holding preflop; have a think about
+the kinds of hands it can make.
 
 In this example my best hand climbed the poker ladder with each
 new board card. I started with two pair on the flop, climbed up
@@ -198,4 +222,4 @@ Fold it. Likewise three flush cards in your holding makes
 it less likely you'll make a flush (your holding includes one of
 your own outs) and four flush cards in your holding makes it
 much less likely. Instead of 11 other suit cards to appear
-on the board to make you your flush, there's now only 9.
+on the board to make you your flush, there's now only 10 or 9.
