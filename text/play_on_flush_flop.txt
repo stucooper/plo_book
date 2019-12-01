@@ -1,6 +1,6 @@
 TYPICAL PLAY ON A FLUSH FLOP
 
-Last updated: 20190615
+Last updated: 20191201
 
 Let's ignore stack sizes and player types for now. Often a complex
 problem becomes simple if you concentrate on just a single aspect;
@@ -39,7 +39,7 @@ three or at most four runners. Typically two players each have a flush
 and will see the turn to see if he can fill up. Remember if there's
 betting on the flop, fold your straight.
 
-If you do have the Nut flush, this is one of the few times in Omaha
+If you do have the Nut flush, this is one of those times in Omaha
 where I recommend that you don't blast full pot. Make your bet look
 like a "I want to know where I'm at" bet and you're a bit scared you
 might be up against a higher flush. Bet two-third to seventy percent
@@ -50,7 +50,7 @@ multiway. The reason to blast full pot multiway is that with two other
 players still in the pot, chances are better that one will come with
 you for the ride. You're likely toast if the board pairs, so charge
 the drawing players as much as you can. If you take down the pot as it
-is with your big bet, that's not a bad result at all.
+is with your big bet, that's not a bad result for you.
 
 The Blush
 ---------
@@ -87,9 +87,10 @@ you off when you *do* have the real flush.
 I let other players Blush bluff me all the time, especially when the
 pot is three-way. There's just too much of a chance that I've
 overflushed here. Sure one of the players might be Blush bluffing, and
-the other might be a set looking to fill up, but there's a really
-strong chance I'm drawing dead here. I don't really care which of the
-two other players in the pot has me beat, the important thing is I
-know I'm beat, so I'll fold and save my stack.
+the other might be a set looking to fill up, but there's still a good
+chance I'm drawing dead here and do I want to stack off when I am?
+I don't really care which of the two other players in the pot has
+me beat, the important thing is I know I'm beat, so I'll fold and
+save my stack.
 
 
