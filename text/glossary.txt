@@ -433,6 +433,11 @@ RED TOWER: (DRS) Twenty red $5 chips stacked up to make a $100 chip stack.
 REPEATER: A turn or river card that makes a pair on the board. Also
   called a BOARD PAIR
 
+RESULTING: The human tendency to think that a decision was bad if you
+  lose and good if you win; based on the board runout. In Omaha
+  you get to see the runout a lot of the time because a lot of hands go
+  to the river, so you don't have to regret not being able to Rabbit Hunt.
+
 ROLF SEAT: The seat to the immediate right of the most aggressive player
   at the table. This lets you limp/checkraise maximum preflop if you have
   a powerful hand and you expect the aggressive player will raise preflop
