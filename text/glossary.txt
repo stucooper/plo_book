@@ -1,6 +1,6 @@
 GLOSSARY
 
-Last updated: 20190609
+Last updated: 20191201
 
 Most books put the glossary right at the back and you never
 look at it that much. I'm reversing this by putting my glossary at
@@ -420,7 +420,7 @@ RAINBOW FLOP: A flop with three different suits. Nobody can make a flush
 
 RAG: A useless BOARD card that doesn't complete your draw, on either the
   turn or the river. "I flopped a flush draw, two pair and gutshot
-  straight, but the board went RAG RAG".
+  straight, but the board went RAG RAG". Also a BRICK.
 
 RATHOLING: Taking money from your stack and putting it in your pocket,
   so you're saving some profit and playing a smaller stack.
@@ -502,7 +502,7 @@ TABLE GAMES: Player-versus-the-house casino games, such as Roulette
 TABLE YOUR HAND: To show your holding at Showdown. You can table your
   hand earlier if there's NO MORE ACTION. Also called SPREAD YOUR HAND.
 
-TAHITM: (DRS) Acronym for There's Another Hand In Two Minutes. Sounds like
+TAHITM: (DRS) Acronym for There's Another Hand In Two Minutes. Pronounced like
   the country "Tahiti". This word is a useful reminder that there's
   another hand coming along soon and you don't have to overcommit your
   chips to a hand when you're not a strong chance of winning.
@@ -542,6 +542,11 @@ TURNBOARD: (DRS) The four community cards after the turn is produced.
 TURNSTREET: (DRS) The round of betting following the TURN being revealed.
   This is a word I made up so you know I'm taking about the betting round
   and not the fourth community card.
+
+UNDERCALL: (DRS) To call all-in when you have less than the call amount.
+  If the bet is $135 and I have $80 left in my stack, I announce
+  "undercall Eighty Dollars". The still-active players will have
+  a side pot of $55 each to contest; I'm playing for the main pot.
 
 UPCARD: A card visible to all players. FLOP GAMES like Omaha have
   Five shared Upcards.
