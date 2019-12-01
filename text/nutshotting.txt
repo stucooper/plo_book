@@ -1,6 +1,6 @@
 NUTSHOTTING
 
-Last updated: 20190915
+Last updated: 20191201
 
 Everyone knows that a gutshot straight draw is a thin draw
 with just 4 outs, and unless you're getting a ridiculous
@@ -46,6 +46,11 @@ to be true as possible:
 8) I won't get re-raised by a later actor. Either I'm last to call and
    my call closes the betting, or my best judgement is that everyone
    else will flat call or fold, as I hope for in condition (6).
+   If I've got the Rolf Seat, and the Most Aggressive Player has made
+   the pot-sized bet on the flop, I often get to close the action with
+   my call and don't have to worry about later actors. So the Rolf Seat
+   often gives me "close the action" advantage on both the preflop and
+   flop streets.
 
 Here's two example of Nutshot draws I took, from my session notes
 of 2nd March 2018. In the first hand I have Q776, four players have
@@ -73,7 +78,7 @@ I've made a lot more than 10 to 1 on that $40 flop call. I won
 the $160 that the pot was when I was calling into it
 (only $10 of which was mine from the preflop action) and
 another $380 on top of that from the two callers on the turn.
-I called $40 and won $530, on a 10 to 1 shot.
+I called $40 and won $530, on a 10 to 1 shot. Nutshot!!
 
 If I'd had even more money behind to bet on the river
 I would have got a crying call on the river from the low straight,
@@ -129,13 +134,15 @@ makes someone with 98 (who flopped a great T987 OESD) a higher, nut straight.
 I fold to the bet; there's two callers and when the turn does indeed come
 a 6, the bettor happily blasts out another pot-sized bet and the two other
 players in the hand both fold. I'm confident our bettor had the nut
-straight here, and a nice gutshot fold by me on the flop.
+straight here, and a nice gutshot fold by me on the flop. Notice I have
+the same "non-nut" problems on each of the flops T73, 973 and 873. If
+the flop was J73, a nutshot to the 6 could be taken.
 
 In the second hand I have AT87 to a flop of QJ4 two diamonds. I don't
 take the nutshot chance of the King, but two other callers do and
 the turn is indeed a King. A huge bet comes in and there's one caller and
 the Queen repeats and on the final board of QJ4KQ the hand is won by
-Quads Queens! A very good nutshot fold by me; as I said above I rarely
+Quad Queens! A very good nutshot fold by me; as I said above I rarely
 nutshot to Broadway.
 
 
