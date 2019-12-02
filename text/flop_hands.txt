@@ -1,6 +1,6 @@
 HANDS ON THE FLOP
 
-Last Updated: 20190129
+Last Updated: 20191202
 
 You know from your Holdem experience how to read a Flop and see what
 hands and draws might be out there. There's not much happening
@@ -23,7 +23,14 @@ K83, K82, K72, Q72. That's all of them. If there's only a three-gap,
 like K92, someone with exactly QJT has flopped a 9-out nut straight
 "inside wrap" draw.
 
-No unpaired flop containing an Ace is straight-dry.
+No unpaired flop containing an Ace is straight-dry. If the flop contains
+a wheel card, there's wheel straight draws out there. If the flop contains
+a Broadway card, there's Broadway straight draws out there. And if
+neither of these two things occur, the flop contains two cards in the range
+(6,7,8,9) and there's straight draws in that range out there. Doyle
+Brunson's No Limit Holdem chapter in Super System explains this at length,
+as a warning to how you can still lose if your AA flops a set on an
+unpaired board.
 
 A flop with a pair on it I call a Dope flop and I'll discuss separately.
 Also to be discussed separately are three-of-the-same-suit monochrome flops.
@@ -142,8 +149,33 @@ the full four card holding of the winner and seeing if
 they had anything going for their hand besides that trashy low
 pair. I've won the stacks of 222 sets many more times than
 I've lost big pots to them, so if the other players really want
-to keep taking flops with low pairs I don't mind.
+to keep taking flops with low pairs and nothing else going
+for their holding then I don't mind. They'll make a huge
+stack-costing mistake with bottom set sooner or later.
 
+SET OVER SET
+============
+
+I was involved in a bunch of big pots in a big home game
+(5/5 blinds, most stacks $800-$1500) in December 2019. In
+the first hand I have KKxy on a flop of KT7 and I get all-in on
+the flop. The runout looks pretty scary; the final board is KT786
+but nobody had a straight, my enemy had TTxy.
+
+In the second hand I've got 665x in a three-way pot with the flop
+of A65 two diamonds. Because the stacks are so deep, it's not always
+obvious when someone is playing AA so my middle set might be good or
+it might be smoked. I bet $80 into the $100 pot; there's a call but
+a massive check-raise to $300. I make a stack-saving fold, the
+other player calls and it's AAxy v 65xy on that A65 flop. AA easily
+wins.
+
+In the third hand I've got TTxy to a raise and the flop is KT4. The
+turn is a 4 and I get all-in but on the turnboard of KT44 I'm smoked
+by my enemy's KK. I'd hoped from his preflop raise that he had AA;
+but on this hand he had KK.
+
+Set over set happens all the time in Omaha.
 
 TWO PAIR HANDS
 ==============
@@ -227,11 +259,12 @@ other hands to better two pair a lot more than top sets
 get killed by overcards.
 
 Because three pair smokes the other two pair hands, and it's likely
-the best handa now, you can get a fair stack in on the flop
+the best hand at the moment, you can get a fair stack in on the flop
 if you like, especially if your top two pair are pretty high
 and not too vulnerable to overcard turns. KJx is a great three
 pair hand when you flop it; it's vulnerable to straight wraps but
-it won't get outdrawn to higher two pair that often.
+it won't get outdrawn to higher two pair that often. T9x is a vulnerable
+two pair hand because a lot of turn cards can make an enemy better two pair.
 
 Three pair sometimes becomes Four pair on the turn but again
 you've fewer full house outs than traditional top set. J732 on
