@@ -191,6 +191,19 @@ with Limit betting, though it can be played Pot Limit.
 If nobody has a hand 8-low or lower, the whole pot is awarded to
 the High hand.
 
+Some High-Low games, especially in home games, were played with
+Declare Showdown Rules. If you were still in the hand after
+the final betting round, you had to declare if you were playing
+for the low pot, the high pot, or both pots. There would be
+all kinds of Declare rules, sometimes players would
+declare in betting order and late-acting players could
+change their minds based on earlier declarations, in other
+rules  players would simultaenously reveal one, two or three
+chips in their hands to show if they were playing for
+low, high, or both. If you got your declaration wrong
+you won more pots than you said you would, you could lose
+your money. I've never played Declare games, they sound pretty tough.
+
 Omaha can be played with 5 hole cards. This means only 8 players
 can be dealt in (if you deal 9 players that's 45 cards and you don't
 have enough for 5 community cards and 3 burn cards). I've also
