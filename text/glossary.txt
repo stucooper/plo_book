@@ -1,6 +1,6 @@
 GLOSSARY
 
-Last updated: 20191201
+Last updated: 20200121
 
 Most books put the glossary right at the back and you never
 look at it that much. I'm reversing this by putting my glossary at
@@ -179,6 +179,13 @@ DANGLER: A card in your holding that doesn't contribute to your playability.
   If you have KQJ2, the 2 is a dangler.. it doesn't contribute to
   your straight chances and you're unlikely to be using it in
   your two showdown cards. Poker legend T J Cloutier invented this term.
+
+DEADSTACK NOTHREAT: (DRS) A Deadstack Nothreat is a player who lets his
+  stack run down to a low level, mostly through calling bets preflop and
+  missing flops and folding. This player type doesn't raise preflop to
+  get protection from the aggressive player, and ends up having a small
+  stack that is inactive (it might as well be dead) and isn't a threat to
+  the big stacks at the table.
 
 DEALER: The Casino employee who handles the cards, runs the hand,
   takes the rake and awards the pot. The player with best position
