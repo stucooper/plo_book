@@ -1,6 +1,6 @@
 THE HANDS RUN BIG
 
-Updated 20180111
+Updated 20200121
 
 "From time to time a very good hand,
  correctly played,
@@ -23,7 +23,7 @@ of trouble.
 In Texas it's pretty rare for two both-hole-cards-used made
 flushes to be in a contest together and almost unheard of for three 
 flushes to be there. In Omaha this happens all the time.
-Everyone has a 4-card holding, there's a lot more flushes out there.
+Everyone has a 4-card holding, there's a lot more flush possibilities in people's hands.
 This means you've got to be very careful with non-nut flushes in the
 face of heavy betting. If you're the player lucky enough to have 
 the nut flush, you can bet it strongly and expect more action than you'd
@@ -54,12 +54,12 @@ so on a flop of JJ3 you'll normally win with the Jack - there's a good
 chance the case (4th and final) Jack is in the bottom 28
 cards of the deck. But in PLO there's more of a chance that the 
 fourth Jack was in the top 40 cards dealt to the 
-players, not the unseen 9.
+players, not the remaining 9 cards in the stub.
 
 So if your holding is JT96 and the flop is JJ3, you're not automatically
 the winner here. You've really got a draw to a full house, and if
-there's someone else staying in the pot with you, he's got either
-that fourth Jack or pocket 33. And if he's got the fourth Jack,
+there's someone else staying in the pot with you and giving serious action, he's
+got either that fourth Jack or pocket 33. And if he's got the fourth Jack,
 chances are excellent that he's got a higher kicker than your best
 kicker the Ten. Let's say he's got AKJ9, you're currently behind
 [JT]JJ3 to [AJ]JJ3. You really want to hit your full house, and
@@ -89,10 +89,10 @@ Hands" - they're not strong enough to bet with confidence so
 when they do win it tends to be a small pot. And when you are
 behind, the Low Confidence Hands can be tempting enough to
 call with, so you can lose real money there as well. That's bad
-either way.
+either way. Low Confidence Hands are Win Small/Lose Big.
 
 You can't bet them with confidence, and you sometimes have to pay 
-off that better hand with your made draw, just in case. 
+off a better hand with your made draw, just so you can sleep at night.
 The safest thing to do is to avoid difficult decisions by getting 
 out early and not taking these non-nut chances. In Texas if I've got 98
 on a JT5 flop I'll stay in and be happy if a Q or 7 comes
@@ -140,6 +140,15 @@ to find these days) and I try to make a few trips to Melbourne
 each year and play some FLO: Fixed Limit Omaha. Now that I've mentioned
 Fixed Limit Omaha, I'll ignore it for the rest of the book.
 
+An even stranger game, that I will mention once and once only, is Faro.
+In Faro every player gets five cards and using the same 2+3 Showdown
+rules they make their best poker hand with two of their own cards
+and three of the community cards. The community cards come out one at
+a time, and the betting is limit betting where you can bet the limit on
+or twice the limit. Faro is such a strange game that seems
+a mix of Limit Omaha, Manila and Seven Card Stud that I call it the
+Platypus of Poker.
+
 Don't draw to a lower rung hand
 ===============================
 
@@ -149,10 +158,15 @@ a higher-rung hand is already possible. If the flop comes all Diamonds,
 don't draw to a straight; the flush could already be out and you're
 drawing dead. If there's a pair on the flop, don't draw to a flush
 because a full house could already be out there and you're drawing dead.
+
 On an unpaired but co-ordinated board (a "wet" board), Top Set can 
 itself be a drawing hand - you're drawing to a full house or quads and
 if the board doesn't pair it's almost impossible for your top set
 to be good - you expect you'll lose to a Straight or Flush.
+If you've got AJJ5 all red to a JT8 all black flop, you could already
+be behind to a made straight, any non-pair card from six to Ace makes
+other straights and a black card on the turn either makes a flush or
+brings in a double flush draw. You'd better hope that the board pairs.
 
 Redraws
 =======
@@ -188,7 +202,9 @@ Big straight draws are called Wraps and run so big that they can
 be a favourite on the flop against Top Set! Consider QJT8 on the
 flop K97, up against AKK4. The straight gets there is a 6,8,T,J or Queen
 arrives: 16 winners whereas the top set has 7 outs on the turn and
-10 on the river.
+10 on the river. It's possible of course for the board to brick twice
+and for KK to win on an unpaired final board of K9752 but a lot of the
+time the straight draw will get there and the top set will be run down.
 
 Omaaaagh hands
 ==============
@@ -202,11 +218,17 @@ will win for the drawing hand.
 I call these big Omaha hands "Omaaaagh" hands because it combines the word
 Omaha with the word AAAAGH which is what you say when you lose
 your stack with them because the Card Gods didn't do it for you
-on this runout. The word also sounds and spells a bit like OMG
+on this runout. The word also spells a bit like OMG
 which is what you say when you see the strength of the other
 player's draw. These Omaaaagh hands are where a lot of the variance
 comes into PLO: you'll win or lose hundreds of dollars on this hand.
 I hope the Card Gods are with you.
+
+In Home Games and Private Games and some Casino big stakes games,
+a Running it Twice (or three times or even four times) is available
+to players if they're heads up and the only two players in the pot.
+This book assumes that Running it Twice isn't available and I don't
+give any advice on when you should run it twice or not.
 
 Because good players don't chase straights and flushes once
 the board is paired, it can be hard to make big money from your
