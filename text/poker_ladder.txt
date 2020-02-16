@@ -1,10 +1,11 @@
 THE POKER HANDS LADDER
 
-Last updated: 20190129
+Last updated: 20200216
 
 Here are the rungs on the Highest Five-Card Hand wins Poker Ladder. 
-I use the word "rungs" because it's such an unusual word that whenever
-you see it you know I'm talking about how strong a poker hand is.
+I use the word "rungs" because it's an unusual word. Whenever
+you see it you know I'm talking about how strong a poker hand is
+and where it sits on this ladder.
 
 - Straight Flush
 - Four of a Kind ("Quads")
@@ -18,8 +19,7 @@ you see it you know I'm talking about how strong a poker hand is.
 
 A hand loses to any higher-rung hand, and also higher hands on 
 the same rung. Higher-rung hands are rarer 5-card poker hands. 
-Because Ace can be used in a low straight A2345 and a high straight AKQJT
-there are more straights than flushes, so flushes are higher on the ladder
+Annoyingly, Flushes are on a higher rung than Straights.
 I hate this, if I could change one rule in poker, straights would beat
 flushes.
 
@@ -42,10 +42,10 @@ flushes: 75432, 76432, 76532, 76542. There's a single 7-high straight
 flush, 76543.
 
 You might have heard of a game called "Deuce-to-Seven Lowball". It ranks 
-hands like this. Another game where low hand wins is the Seven card stud
+hands like this, where the harder-to-get rarer hand is the winner.
+Another game where low hand wins is the Seven card stud
 variation "Razz" where the nut hand is A2345 (straights and flushes don't
-count in Razz). In my opinion the Razz rankings of poker hands on the same
-rung are the truest indication of poker hand rarity.
+count against you in Razz).
 
 "Guess what, Stuart?" I hear you say. "I already knew the poker hand
 rankings and I've got no interest in 1980s games like Draw Poker,
