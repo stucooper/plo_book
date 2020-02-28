@@ -1,0 +1,59 @@
+TILT
+
+Poker players go on tilt and play badly. PLO tilt looks a bit different
+to Texas Tilt and we'll look at that in this chapter.
+
+Overplaying hands
+-----------------
+
+In NLH you can sometimes recover money by overplaying hands and
+getting lucky. You raise big with J7 off, get a single caller, and
+shove on a Jack-high flop. Your caller snaps with pocket Queens but
+you get a miracle river and you double up. It happens, in No Limit
+Holdem. It happens a lot less in Pot Limit Omaha because
+
+- Pot limit betting and good-looking holdings mean there will be
+  four or more players taking a flop. If you don't connect strongly
+  with the flop, chances are someone else sure did. And you have to
+  connect a lot more strongly than flopping top pair or middle pair.
+
+- Because nut hands and nut draws are often out there in PLO, naked
+  aggression can't win you pots. You're just giving your money away to
+  the player who already has the best hand.
+
+- Even though the other players can see you're on tilt, they still won't
+  give you big action without a superstrong hand or draw themselves. In
+  NLH you might get a guy with 66 taking a stand on a J74 flop because he
+  can see you're on tilt and his sixes might be good; in Omaha you only
+  get big action from hands that have you crushed. You can bluff-win a
+  small pot here and there but if you get big action and the pot gets big,
+  you're toast.
+
+Looser starting requirements
+----------------------------
+
+When you're on tilt in NLH you find yourself playing hands you shouldn't;
+you've loosened your starting holding requirements. Jack-Seven is a great
+example of a hand that should hit the muck as soon as you see it, but looks
+like a daring exciting hand when you're on tilt.
+
+The same effect happens in PLO. You find yourself hoping that your non-nut
+hands (Queen-high flushes, 777 middle sets and 6433 third nut straights on
+a T8752 board) are good, but when they're not, you're smoked and down another
+buyin. If you weren't on tilt, you'd be saving your stack in these cases by
+either
+
+(A) Folding your iffy holding preflop and staying out of trouble
+or
+(B) Having a good enough poker sense to realise you're behind and lose the
+minimum
+
+Remember that iffy holdings make low confidence hands. When you're on tilt,
+you push these hands for far more than they're really worth and you win
+small pots when you're ahread and lose your stack when you're behind.
+
+When you're playing loose in PLO you find yourself on the bad end of
+Nut versus Third Nut confrontations. It's a recipe for disaster. The best
+thing to do when on tilt in PLO is call it a night and leave. The next best
+thing to do is leave the table and take a walk for five minutes, try to
+regain your composure and when you return to the table, tighten up.
