@@ -28,15 +28,17 @@ You might tell yourself "I'll flop two pair with this Queen-Jack
 and win the stack of the raiser who might have Ace-Queen or
 Ace-Jack" but that doesn't happen often enough to make up
 for all the times that you flop a single pair and get yourself
-into real trouble. Calling a raise with Queen-Jack in Holdem gets
-you into trouble.
+into real trouble. You only flop two pair about 5 percent of the time;
+which is about two-and-a-half times worse than your chances of flopping
+a set when you've got a pocket pair. Calling a raise with Queen-Jack
+in Holdem gets you into trouble.
 
 In PLO the trouble holdings are pocket pairs like 66,55,44,33,22;
 low straight connectors like 5432 and non-nut suited cards like
 Jack-high hearts, Queen-high spades and so on. These hands are
 seductive because you miss most flops and get an easy fold for
 a tiny loss; maybe you've called $10 preflop and whiffed. Your
-stack goes from $220 to $210. No problem. Where the real problem
+stack goes from $220 to $210. No big loss. Where the real problem
 lies is when you hit a good flop and get your stack in and you're
 behind, even drawing dead, to a much better hand and you lose
 your whole stack.
@@ -138,6 +140,12 @@ they normally raise pot on the flop and force flush draws
 and straight draws to fold. This leaves me heads up with
 my top set as a 96% favourite or sometimes a 100% favourite.
 It doesn't get any better than that.
+
+ACTUAL HAND: I really need to follow my own advice more. I played
+J822 and got a 542 flop. I got all in on the flop in some big three-way
+action. The other hands were T744 and A355, who had the wheel and the top
+set. T744 sucked out in this hand by hitting runner-runner
+flush, I committed $200 with only one out.
 
 Hands get outdrawn
 ==================
