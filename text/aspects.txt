@@ -1,0 +1,54 @@
+ASPECTS OF YOUR HOLDING
+
+You know that if your hand makes it to showdown you'll be using
+exactly two of your cards, so you can look at the six two-card
+combinations of your holding and assess them as Holdem starting hands.
+When you hold Ah987h you have the six two-card hands: Ah7h (can make
+the nut flush), A9 (good two pair), A8 (iffy two pair), 98 (connectors
+for a straight), 97 (one gapper) and 87 (connectors).
+
+Most of these combos are pretty good and the combined power of those
+straight cards can give you some big straight wraps on the right flop.
+
+This hand still needs to hit the right flop - all Omaha holdings do.
+But there are a lot of flops that it will fit well with. The ability
+of a holding to connect well with lots of different flops is an
+aspect I call Floppability.
+
+The next concept is Nuttability - the ability of your holding to make
+the nuts, once all the cards are out. Because my hearts are Ah7h, the only
+heart flush I can make is the Ace-high flush, which in the absense of
+straight flush chances must be the nut flush. The straight cards 987
+are less nutty; they are great on a flop of K65 but they are trouble
+on an AJT flop; where they can't make a nut straight and a hand like
+Q98 has it in serious trouble.
+
+The higher the rank of your cards, the better your Nuttability is. When
+you hold AAhKQh, the only set you can make is top set. The only flush you
+can make is the nut flush. The only straights you can make are nut straights.
+If you flop two pair, it must be top two-pair. When your hand has good
+Nuttability; you can bet it strongly when you do connect with the flop,
+and you often win the stacks from dominated hands that have also flopped
+well but have lower rank and worse nuttability.
+
+A holding such as QQ74 has bad floppability but good nuttability because
+when it flops a set it's normally top set. The holding 6654 has much
+more floppability (it likes a lot more flops than QQ74 does) but very
+low nuttability. On a flop of Q65; the QQ74 has the 6654 smoked.
+
+The two-card combination Jack-Ten has an interesting nuttability behaviour.
+If you make a straight using both of these cards, that straight is always
+the nut straight unless there's also a Jack or Ten on the board. Indeed
+your Jack-Ten straight can only be outdrawn by higher straights if
+a Jack or a Ten comes on the turn or the river.
+
+Old time Manila players understand this instincitvely. JT suited is one of
+the best Manila drawing hands.
+
+There's debate in Omaha circles on whether the best holding is AAKK double
+suited or AAJT double suited. AAKK is twice as likely to flop top set,
+but AAJT flops a lot of straight draws, all of them nut. Both have the
+same capacity to make nut flushes in two suits. Against a single opponent
+I'd take AAKK, in a three-way-or-more pot I'd prefer AAJT. On a flop of
+Q72 where I'm up against a weird two-pair or a set I'd take AAKK, on a flop
+of KQ4 I'd take AAJT with all the straight outs. 
