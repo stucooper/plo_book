@@ -1,12 +1,12 @@
 PARTY POTS
 
-Last Updated: 20190109
+Last Updated: 20200305
 
 Sometimes in 1/3 PLO there's 3, 4 or 5 players all-in preflop,
 for amounts ranging from $40 to $170 to $300 or even more.
 It takes the dealer a few minutes to set the main pot and all
 the side pots correctly. Then, with no more action, the board
-is quickly run and someone will win a huge main pot and someone
+is run and someone will win a huge main pot and someone
 else might win a side pot or two. This chapter is all about
 whether you should enter these Party Pots and the sort of hands
 you want to have to take part in them.
@@ -45,18 +45,31 @@ had a stack of $350 and been unable to join in a Party Pot and
 watched with annoyance as I would have won it in the runout.
 But the risk/reward isn't good enough when you have to
 overcommit too big a stack on a far-from-certain outcome.
-Another way of expressing this idea is that Party Pots are board-luck
-gambling, not skillful Omaha hands.
+Another way of expressing this idea is that Party Pots are Board-Luck
+gambling hands, not Poker-Skill hands.
 
 Sometimes the table has three of four Party Pots each round. There's
 a Five-Five Refugee looking to get a full $300 buyin in preflop,
 hand after hand. Try to be patient in the face of this madness and
-only join the hands you feel you'll be a chance in.
+only join the hands you feel you'll be a chance in. If you do win a
+Party Pot, your stack will now be $350 or $520 or even more and you
+now have too much of a stack to take part in more Party Pots. Sit back
+and hope that the madness subsides and that there will be some
+poker-skill hands coming up soon. If the game is just Party Pot after
+Party Pot, take a walk for five minutes and consider cashing out for
+the night and taking your win.
+
+Sometimes someone min-buying for $100 is looking to triple up by
+getting into Party Pots over and over again. It might cost you $100 to
+see a flop, but if the other players still alive in the hand have big
+stacks as well you get to play poker against them for a big side
+pot. This hand becomes a Party Pot for the $100 shot-taker but a Poker
+Skill hand for you and the other big stacks.
 
 High Broadway cards with suit do well in Party Pots, combining
 great Floppability with some Nuttability.
 
-Showdowns in Party Pots can take forever as disappointed losers
+Party Pot Showdowns can take forever as disappointed losers
 with bad two pair hands wait for other players to show better hands
 before they fold. If I've got a nut or near-nut hand I'll show
 it as soon as the showdown action gets to my pots (I could be contesting
@@ -70,6 +83,10 @@ for a few more seconds if they want. Some of my sweetest showdown
 wins have been Party Pot wins with far from nut hands where I've
 tabled my hand and had to wait ages for disappointed losers to muck.
 One I remember to this day was the far-from-nut straight of 98
-on the final board of QJTT8.
+on the final board of QJTT8. There's always a tension that I'm at risk
+of a vicious slowroll, but once the losing holdings are in the muck
+and the pot is pushed my way, I feel fantastic.
 
 Good luck in your Party Pots.
+
+# FIXME: Add short section on Flips??
