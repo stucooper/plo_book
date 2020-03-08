@@ -12,6 +12,7 @@ why_play_plo.txt
 omaha_is_not_holdem.txt
 the_hands_run_big.txt
 do_your_own_betting.txt
+aspects.txt
 part3_play_of_the_hand.txt
 rainy_day_exercise.txt
 trouble_hands.txt
@@ -22,6 +23,7 @@ straddle.txt
 party_pots.txt
 horror_pots.txt
 flop_play.txt
+flop_hands.txt
 play_on_flush_flop.txt
 free_card_play.txt
 nutshotting.txt
@@ -33,6 +35,7 @@ the_rake.txt
 advice_for_new_players.txt
 needling.txt
 know_your_rights.txt
+tilt.txt
 part5_poker_fun.txt
 bad_beat_stories.txt
 bad_beats.txt
