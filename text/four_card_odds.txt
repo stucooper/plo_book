@@ -46,6 +46,17 @@ Omaha holdings is (52x51x50x49)/24 = 270,725. There are
 over two hundred and seventy thousand different four-card
 combinations you can be dealt in Omaha.
 
+Suitedness chances of your Holding
+==================================
+
+In this section I used the letters a,b,c,d to mean different suits.
+If you have four different suits your holding is (abcd), if your hand
+is double suited it is (aabb) and so on. I'm going to figure out
+the chances of your holding being all different suits (abcd, which I
+also call Badugi), two cards of one suit (aabc), double suited (aabb),
+three cards of one suit (aaab) and all the same suit (aaaa). These are
+the full set of suitedness.
+
 Number of Badugi holdings: (abcd)
  = (52x39x26x13)/24
  = 28561.
@@ -100,7 +111,7 @@ Number of double-suit holdings: (aabb)
   = 78 x 78 x 6
   = 36,504
 
-It's odd that there are fewer double-suited holdings than three-to-a-suit
+It looks strange that there are fewer double-suited holdings than three-to-a-suit
 holdings. This is because the double-suited holdings are "tight",
 there's no room for extra cards. With the three-to-a-suit holdings,
 there's a fourth offsuit card that can be any of 39 fourth cards.
@@ -136,6 +147,12 @@ TOTALS               270,725      99.99%
 The percentages add up to just under 100.00% because I've rounded
 each percentage to two decimal places. 58.43% is closer to 60%
 than 50% so I've put its frequency as "3 in 5" not "1 in 2".
+
+It's generally a bad idea in Omaha to play a 4-suit holding, you can improve
+your game right now by resolving to never play these holdings ever again,
+unless they're a perfect rundown like JT98 all clubs. The good news is
+that you still get to play a lot of hands, the table shows that you're
+only folding one percent of your preflop hands by ditching the 4-suit holdings.
 
 Number of quad holdings = (52x3x2x1)/24 = 13. This is another
 result that doesn't need fancy multiplication and division,
