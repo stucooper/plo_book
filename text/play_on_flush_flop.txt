@@ -1,6 +1,6 @@
 TYPICAL PLAY ON A FLUSH FLOP
 
-Last updated: 20191201
+Last updated: 20200311
 
 Let's ignore stack sizes and player types for now. Often a complex
 problem becomes simple if you concentrate on just a single aspect;
@@ -48,9 +48,12 @@ full-house draws. If the board doesn't pair, bet again
 moderate-strength if it's heads-up, or blast full pot if the pot is
 multiway. The reason to blast full pot multiway is that with two other
 players still in the pot, chances are better that one will come with
-you for the ride. You're likely toast if the board pairs, so charge
-the drawing players as much as you can. If you take down the pot as it
-is with your big bet, that's not a bad result for you.
+you for the ride. Often the two-pair hands drop out on the turn, and
+the lower flushes (who are drawing dead) stick around just in case; which is
+a fantastic result for you. You bet big on the turn because you're
+toast if the board pairs, so charge the drawing players as much as you
+can. If you take down the pot as it is with your big bet, that's not a
+bad result for you.
 
 The Blush
 ---------
@@ -62,6 +65,9 @@ to the Nut flush. Facing big bets from you, villains with flushes know
 that they could be facing the Nut flush and will sometimes find a good
 fold.
 
+This is called the Blush - the Bluff Flush. It's the main use of
+Blocker Theory in Omaha.
+
 You'll need to credibly bet both the flop and the turn. See my advice
 earlier in this chapter for how a player who *has* flopped the nut
 flush bets in when he flops the Nut flush. If you give up on either
@@ -71,7 +77,8 @@ river Blush bluff bet will probably be called.
 I suggest you don't try Blush bluffs when the Ace has flopped and your
 blush card is the King. Players value their Queen-high, Jack-high
 and even Ten-high flushes a lot more when they see the Ace is already
-on the board.
+on the board. On a spread flush flop like T73, your Ace of the flush
+suit gives you the Blush.
 
 When a player with a mid-flush calls a flop bet, they're waiting to
 see what happens in the betting on the turn. That's why you have to
@@ -81,8 +88,9 @@ that you've got that Nut flush.
 Keep an eye on the villain's pot commitment. A villain might call off
 if he's pot committed or if he's got three of the flush suit in his
 own holding (you can't know his holding of course). Some players just
-call off when they flop flushes. This is great because these guys pay
-you off when you *do* have the real flush.
+call off when they flop flushes. This is painful when all you have it
+the Blush but it's great you *do* have the real flush because you get
+paid off the maximum.
 
 I let other players Blush bluff me all the time, especially when the
 pot is three-way. There's just too much of a chance that I've
