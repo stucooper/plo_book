@@ -62,7 +62,7 @@ There's a $40 pot bet behind my check, and two callers when action returns
 to me. I'm a bit leery of the spades, but most of my Nutshot conditions
 are present. My draw is to the Nuts. If I spike the 4, I should be the
 only player with the 76 straight (I have two Sevens in my own holding).
-This is one part of Omaha were I do use Blocker Theory; the fact I
+This is one part of Omaha where I do use Blocker Theory; the fact I
 have two sevens means it's very unlikely another player has the
 required 76 on the turnboard of Q534.
 
