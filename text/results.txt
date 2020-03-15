@@ -6,3 +6,4 @@ Date      Venue     Stakes     Hours    In-For      Out-For   Result
 20200308  McCredie  1/2/5(opt)  4.00        400        1940   +1540
 20200313  McCredie  1/2/5(opt)  3.50        950           0   - 950
 20200314  McCredie  1/2/5(opt)  6.00        800        1450   + 650
+20200315  Lakes     1/1         5.00        400        1300   + 900
