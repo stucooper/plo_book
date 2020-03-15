@@ -16,7 +16,7 @@ The Flop Game Structure
 
   All players at the table are dealt unique hole cards. They keep these
     cards for the duration of the deal. They use these hole cards together
-    with a certaint number of the community cards to make their best
+    with a certain number of the community cards to make their best
     five card poker hand at showdown, according to the showdown rules.
 
   Preflop Betting round. In any betting round, a player unwilling to
@@ -55,11 +55,10 @@ use none of your hole cards, you're said to be "playing the board". If the
 final community cards are AKQJT, no flush possible, then everyone still in the
 hand has an unbeatable Ace-high straight (called "Broadway") and it
 doesn't matter what anyone has as their hole cards, everyone still in
-the hand will split the pot. Poker
-legend has it that in the 2005 World Series Main Event, four players
-were in a hand with this final board. One player bet, the next player
-raised, two Internet qualifiers folded and it ended up being a 2-way
-split not a 4-way split!
+the hand will split the pot. Poker legend has it that in the 2005
+World Series Main Event, four players were in a hand with this final
+board. One player bet, the next player raised, two Internet qualifiers
+folded and it ended up being a 2-way split not a 4-way split!
 
 Besides the AKQJT community, there are some other very rare boards
 which make for a guaranteed split. 2222A is a split and AKQJT all the
