@@ -421,6 +421,13 @@ POT BUILDER: A preflop bet that will probably be called by a few people
   and will build a nice sized pot to be present at the flop. Also called
   a Pot Sweetener.
 
+PROTECTION: Protection is when a preflop all-in player, who should have to
+  beat five or six players to win this pot, now only has to beat just
+  one player because an active player raises or re-raises big to blast
+  out all the other active players. This can be good strategy for both
+  the blaster and the all-in player. The same concept applies in
+  Tournament Poker.
+
 RAINBOW FLOP: A flop with three different suits. Nobody can make a flush
   by the turn. If the turn is the fourth suit, nobody can make a flush
   in this hand, whatever the river is.
