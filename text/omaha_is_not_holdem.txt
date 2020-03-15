@@ -1,6 +1,6 @@
 OMAHA IS NOT HOLDEM
 
-Last updated: 20191201
+Last updated: 20200315
 
 Because Omaha and Holdem are both flop games, they seem very similar.
 Some of your Holdem skills (Reading the Board for example) transfer
@@ -13,21 +13,36 @@ The Flop Game Structure
 
   One or more blinds are posted so there is an initial pot to contest.
     Holdem normally has two blinds, Omaha sometimes uses a third blind.
+
   All players at the table are dealt unique hole cards. They keep these
     cards for the duration of the deal. They use these hole cards together
     with a certaint number of the community cards to make their best
     five card poker hand at showdown, according to the showdown rules.
+
   Preflop Betting round. In any betting round, a player unwilling to
     match the bet must fold and surrender his cards and his chances of
     winning the pot. A player who has called with the last of his
     money is "all-in" and gets to showdown and contests the pot up to
-    the amount of his bet matched by other active players.
+    the amount of his bet matched by other active players. If there are
+    no all-in players and someone bets and all other players fold, the
+    hand finishes and the pot is awarded to the only active
+    player. This happens a lot less in Omaha then in Holdem; you will
+    see a lot more showdowns in Omaha.
+
   3 card flop produced
+
   Flop Betting round
-  4th card ("turn") prouduced
+
+  4th card ("turn") prouduced. The four community cards now form the
+    Turnboard.
+
   Turn Betting round
-  5th card ("river") produced
+
+  5th card ("river") produced. The five community cards now form the
+    Finalboard.
+
   River Betting round
+
   Showdown. The best five card poker hand according to the showdown
     rule wins the pot.
 
@@ -48,7 +63,7 @@ split not a 4-way split!
 
 Besides the AKQJT community, there are some other very rare boards
 which make for a guaranteed split. 2222A is a split and AKQJT all the
-same suit is a split; everyone makes a royal flush. You won't see
+same suit is a split; everyone makes a royal flush! You won't see
 these other boards very often, but you will see unsuited Broadway now
 and then.
 
@@ -63,7 +78,7 @@ In Texas a board of KQJT4 rainbow has any player with an Ace having
 the nut straight. In Omaha, you need both the Ace and another of
 the cards K,Q,J,T to qualify. If you've got AK44, you play the
 AK from your hand and the QJT from the board to make [AK]QJT.
-Your other cards make a set of 444 but that's not part of your best
+Your other cards make a set of 444 but they don't form your best
 poker hand. A player with AJJT also has the straight here, he
 plays his AJ with the KQT from the board for [AJ]KQT. A third
 player with AA99 doesn't have a straight here, his best hand is
@@ -72,10 +87,11 @@ player with AA99 doesn't have a straight here, his best hand is
 In Texas a board of T8632 four Diamonds will often see the winner
 holding a single high Diamond. In Omaha, you need 2 Diamonds of your
 own to make the flush here. The fourth flush card on the board doesn't
-change whether someone has a flush or not. If three flush cards
-come on the flop, nobody has a draw to a flush; they either have
-the flush already (by having two of that suit in their holding)
-or they can't get one.
+change whether someone has a flush or not. If three hearts
+come on the flop, nobody has a draw to a heart flush; they either have
+the flush already (by having two hearts in their holding)
+or they can't get one. In both Texas and Omaha, a flush is possible in
+just one suit by the time all the cards are out.
 
 More 2+3 confusion occurs with double-paired Boards. In Texas if I have
 AK on a board of KK884 then I have a full house KKK88. But in Omaha
@@ -128,14 +144,17 @@ the kinds of hands it can make.
 
 In this example my best hand climbed the poker ladder with each
 new board card. I started with two pair on the flop, climbed up
-to three of a kind on the turn and finished with a flush on the river.
+to three of a kind on the turn and finished with a nut flush on the river.
 
-If the river had been an Ace, then the final board would be AJ49A,
+If the river had been an Ace, then on the final board of AJ49A,
 I would use the combination [A9] to make my best poker hand
 (doesn't matter which of my Nines I'm using) for the hand [A9]AA9,
-Aces full of 9s. If the river had been a 4, for a final board of
+Aces full of 9sm the second nut hand that loses only to AJxy.
+If the river had been a 4, for a final board of
 AJ494, I would use my [99] combination for [99]944, Nines full 
-of Fours.
+of Fours, which loses only to AAxy or JJxy. If someone has J4xy they lose;
+they make the full house [J4]J44 for 444JJ "fours full of Jacks" but I beat
+them with [99]944 for "nines full of fours".
 
 Most of the time in Flop Games, 
 the nut hand changes with each board card produced.
