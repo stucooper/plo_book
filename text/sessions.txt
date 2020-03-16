@@ -42,15 +42,20 @@ So breathe in. Look around the table, get a feel for how the game
 is going. See what patterns you can see preflop for the first
 few hands; are there five players paying $10 for a flop, are
 there some step raisers, are there deadstack nothreats? You can't
-amswer any of those questions having just sat down but you should
-know the answer to all of them after four hands.
+answer any of those questions having just sat down but you should
+know the answer to all of them after two rounds of the button.
 
-There's a great saying in Test Match Cricket that "A batting team
+There's a great saying in Test Cricket that "A batting team
 can't win a Test by lunch on Day One, but they can lose one". If
 your openers blaze away and they're 1/135 at lunch that's a great
 start but still only a solid foundation for a great first day.
 But if nobody knuckles down and you're 7/63 at lunch, you'll
 lose this Test no matter what happens from here.
+
+The same in poker. If you blow through four buyins very quickly,
+you're on track to have a very bad session. It's better to start
+more steadily and wait for a good opportunity to double your starting
+stack.
 
 Depending on your arrival time, you might have a long wait
 before you finally get your Omaha seat. You need to work
