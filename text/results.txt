@@ -8,3 +8,4 @@ Date      Venue     Stakes     Hours    In-For      Out-For   Result
 20200314  McCredie  1/2/5(opt)  6.00        800        1450   + 650
 20200315  Lakes     1/1         5.00        400        1300   + 900
 20200319  Cantebury 1/1/2(opt)  6.00        300         620   + 320
+20200320  McCredie  1/2/5(opt)  3.00       1200        1055   - 150
