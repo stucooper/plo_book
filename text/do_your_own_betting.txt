@@ -1,6 +1,6 @@
 DO YOUR OWN BETTING
 
-Last updated: 20190219
+Last updated: 20200327
 
 In No Limit Holdem, you need to slowplay and trap your opponents.
 There's often just two or three players still active on the flop,
@@ -9,6 +9,19 @@ folding and winning a small pot. You want to bet to
 build a bigger pot so you can win big with your big hand,
 but if you bet too big too soon you might lose your customers.
 So slowplay and trapping are a key part of No Limit Holdem.
+
+In No Limit Holdem, bets are often sized in the 60% of the pot
+to 80% of the pot range. In Pot Limit Omaha you can only bet
+the size of the pot (100%) and the bet is often exactly that size.
+So a $2/$3 NLH cash hand might have a raise to $10, a bunch of folds,
+the big blind call and a pot of $22. On the flop of K86 two diamonds,
+the preflop bettor bets $15 and the caller folds and we move onto the
+next hand. In a $1/3 Omaha cash hand, someone raises to $13 and there
+are three callers, including both blinds. The flop comes K86, two
+diamonds, the preflop bettor bets the full pot of $52 and one player
+drops out but two players call. In the Holdem hand the winner has a
+pot of $22 and we didn't get to see the turn, in the Omaha hand
+there's still three players hotly contesting a pot that's now $156.
 
 Pot Limit Omaha is not the trapping game that No Limit Holdem is.
 There's three key reasons for this.
