@@ -1,10 +1,10 @@
 HORROR POTS
 
-Last updated: 20190109
+Last updated: 20200327
 
 A Horror Pot is a big multiway pot of at least $400 where
 you've got to pay over the odds to stay in to see the river,
-but you feel like staying in. If you fold and
+but the pot is so huge you feel like staying in. If you fold and
 the river brings your winning card, you'll be horrified
 as you see this enormous pot pushed to somebody else and
 you realise that if you'd bravely stayed in all that money
@@ -46,7 +46,9 @@ and the final pot will be so big that if I spike my winning
 card I'll be stacking it for two minutes.
 $200 to me, dealer? I call!!
 
-A Horror Pot is a bit like a Party Pot that develops later
-on in the deal. Party Pots are lots of people jumping in
-the pool Preflop, Horror Pots are lots of people donating
-their stacks on the turn. It's a very, very expensive Party.
+A Horror Pot is like a Party Pot where lots of active players
+still have a good amount of money in their stacks on the turnstreet,
+and the leader (with a hand like top set) blasts a pot sized bet.
+Party Pots are lots of people jumping in the pool Preflop, Horror Pots
+are lots of people facing the choice of having to commit
+their stack on the turn. It's a very, very expensive Party.
