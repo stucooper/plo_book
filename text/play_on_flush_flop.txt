@@ -1,6 +1,6 @@
 TYPICAL PLAY ON A FLUSH FLOP
 
-Last updated: 20200311
+Last updated: 20200417
 
 Let's ignore stack sizes and player types for now. Often a complex
 problem becomes simple if you concentrate on just a single aspect;
@@ -12,9 +12,9 @@ Don't even think about betting straights, sets or two pair hands. Stay
 in as cheaply as you can with sets and 3-pair hands, fold two pair
 to serious action and fold straights to just about any action.
 
-Because of Omaha's 2+3 showdown structure, you don't make a one-card
+Because of Omaha's 2+3 showdown rule, you don't make a one-card
 flush if a fourth suit card comes on the turn or the river. You've
-either got the flush or you can't make one.
+either got the flush already or you can't make one.
 
 Omaha hands end up high on the poker ladder once all the hands are out,
 and this flop has landed the winning hand on at least the Flush rung.
@@ -27,8 +27,10 @@ A decent but non-nut flush becomes a check/call hand on this same-suit
 flop. There's usually an all-check round; either on the flop or the
 turn. If both betting rounds are checked through, it's possible a
 straight might just win this hand but it's still not strong enough to bet;
-it will just win the pot as it is, if the river betting is checked
-through.
+it will just win the pot as it is, if the river betting is also checked
+through. Remember that a decent or small flush is a check/call hand, so
+if you bet your straight on the river, into a small pot, you simply get
+snapped off by anyone with a small flush, who has the easiest of calls.
 
 You can't bet your straight, in a small pot, because a small flush is
 strong enough to check-call you in this small pot and beat you.
@@ -44,7 +46,8 @@ where I recommend that you don't blast full pot. Make your bet look
 like a "I want to know where I'm at" bet and you're a bit scared you
 might be up against a higher flush. Bet two-third to seventy percent
 of the pot, which should keep in no-chance lower flushes and
-full-house draws. If the board doesn't pair, bet again
+full-house draws. This decent sized bet should get two-pair luckboat chance
+hands out of the pot. If the board doesn't pair, bet again
 moderate-strength if it's heads-up, or blast full pot if the pot is
 multiway. The reason to blast full pot multiway is that with two other
 players still in the pot, chances are better that one will come with
@@ -62,8 +65,8 @@ If you hold the Ace of the flush suit, but you don't have a second
 card of that suit, you have a bluffing opportunity because you know
 nobody else has the Ace-high flush and they will be scared of losing
 to the Nut flush. Facing big bets from you, villains with flushes know
-that they could be facing the Nut flush and will sometimes find a good
-fold.
+that they could be facing the Nut flush and will sometimes find
+what looks a good disciplined fold.
 
 This is called the Blush - the Bluff Flush. It's the main use of
 Blocker Theory in Omaha.
@@ -74,10 +77,14 @@ flush bets in when he flops the Nut flush. If you give up on either
 the flop or the turn, the pot might still be small on the end and your
 river Blush bluff bet will probably be called.
 
+Stack sizes are important with a Blush bluff - they need to be pretty deep.
+If someone's only got a smallish amount of chips left, relative to the pot,
+they might call off your river Blush bluff, and win with their lower flush.
+
 I suggest you don't try Blush bluffs when the Ace has flopped and your
 blush card is the King. Players value their Queen-high, Jack-high
 and even Ten-high flushes a lot more when they see the Ace is already
-on the board. On a spread flush flop like T73, your Ace of the flush
+on the board. On a smaller-ranked flush flop like T73, your Ace of the flush
 suit gives you the Blush.
 
 When a player with a mid-flush calls a flop bet, they're waiting to
@@ -92,6 +99,15 @@ call off when they flop flushes. This is painful when all you have it
 the Blush but it's great you *do* have the real flush because you get
 paid off the maximum.
 
+If you've got the King-high flush; it's worthwhile raising on the flop
+to put the bettor to the test. If all he has is the Blush he might
+give up; if he's actually got the real Ace-high flush he might come
+over the top with a re-reraise; to protect his currently-nut-hand
+against board pairs. I've used this play a few times and each time the
+big re-raise has come in, the re-raiser has shown me the Ace-high nut
+flush. You don't have to lose your stack simply because you've flopped
+a second best King-high flush.
+
 I let other players Blush bluff me all the time, especially when the
 pot is three-way. There's just too much of a chance that I've
 overflushed here. Sure one of the players might be Blush bluffing, and
@@ -100,5 +116,16 @@ chance I'm drawing dead here and do I want to stack off when I am?
 I don't really care which of the two other players in the pot has
 me beat, the important thing is I know I'm beat, so I'll fold and
 save my stack.
+
+Pot size control on all-flush flop
+----------------------------------
+
+Different players will have different pot-size goals on the all-flush
+flop. A straight will try to keep the pot as small as possible and win
+the pot as-is, if nobody else has a flush. An Ace high flush will bet
+big to get value from the hand and protect against the board
+pairing. A set will try to stay in cheap and win a good pot if the
+board does pair. A King high flush will try to determine if his hand
+is good at the moment.
 
 
