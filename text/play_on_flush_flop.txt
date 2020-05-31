@@ -16,8 +16,8 @@ Because of Omaha's 2+3 showdown rule, you don't make a one-card
 flush if a fourth suit card comes on the turn or the river. You've
 either got the flush already or you can't make one.
 
-Omaha hands end up high on the poker ladder once all the hands are out,
-and this flop has landed the winning hand on at least the Flush rung.
+Omaha hands end up high on the poker ladder once all the cards are out,
+and this flop has landed the possible winning hand on at least the Flush rung.
 The only rungs above Flush are Full House, Quads and Straight Flush.
 If the flop contains a board pair (which we'll look at in the next
 chapter) then the winning hand might already be on the Full House rung
@@ -27,7 +27,7 @@ A decent but non-nut flush becomes a check/call hand on this same-suit
 flop. There's usually an all-check round; either on the flop or the
 turn. If both betting rounds are checked through, it's possible a
 straight might just win this hand but it's still not strong enough to bet;
-it will just win the pot as it is, if the river betting is also checked
+it can win the pot as is, if the river betting is also checked
 through. Remember that a decent or small flush is a check/call hand, so
 if you bet your straight on the river, into a small pot, you simply get
 snapped off by anyone with a small flush, who has the easiest of calls.
