@@ -110,10 +110,28 @@ How it often works:
 4a) If Station folds, Nutster wins the pot without having to reveal his other
    two cards. Anyone who wants to know what kinds of hands Nutster enters
    the pot with or whether he had straight draws or a high pair along with
-   his suited cards, is left none the wiser.
+   his suited cards, is left none the wiser. You want to know in Omaha
+   the kinds of hand Nutster had, especially if his winning hand that
+   he two-rolled with was a strange backdoor hand like runner-runner
+   Flush. Did his full four-card holding include a set and he backed
+   into the flush? Did he have a straight wrap or two pair with his
+   other two cards? If you don't get to see the full four cards, you
+   never know.
 4b) If Station reveals his four-card holding, Nutster will now show his other
    two cards and win with his unbeatable Nut flush. Nutster has got to
    see Station's holding as well; even though he was the called player.
+
+Years ago in 2006 I played the Australian poker game 3-Card Manila in
+a backroom joint in Brookvale, at pretty high stakes. 3-Card Manila is
+like Omaha in that you have to use exactly two of your hole cards with
+three from the board to make your best poker hand. In this backroom
+club, cards didn't speak and you had to show which of the two-cards
+you were using at showdown, at the same time as showing all three of
+your hole cards. If you chose the wrong two cards and ended up playing
+a worse poker hand than you could have, tough. I saw a guy split a pot
+with a straight when he could've had the whole pot to himself by
+playing a full house instead. This is the kind of punishment that I
+wish happened to two-rollers everywhere.
 
 Wrongrolling
 ------------
@@ -142,3 +160,29 @@ be his only bad showdown habit (he doesn't slowroll, or slowcall and
 his wrongroll wasn't a tworoll waiting for me to also show my hand)
 but he wrongrolls all the time.
 
+Courtesy shows
+--------------
+
+If you win a pot uncontested and the hand didn't make showdown, you
+can do whatever you like. You can two-roll, fold all four of your
+cards facedown, show one card, show three cards, show the wrong two
+cards, anything you can think of. There's no bad showdown behaviour
+here, it's your pot already and there's no showdown. Here's a few I've
+seen.
+
+1) There's a paired flop of K88, someone bets and takes the pot on
+the flop. He courtesy-shows a King and mucks his other three cards,
+which aren't of much interest. I've also seen the pot-winner show
+three cards but not the fourth (which you can tell from the betting
+was an eight).
+
+2) Someone bets on the turn on an unpaired board when the third spade
+arrives. He takes the pot and courtesy shows a high spade. You don't
+know if he had the spade flush or was running a blush bluff but you
+know he could well have had the flush.
+
+I sometimes have three spades here including the Ace and I'm
+nut-peddling the Ace-high flush. When the uncontested pot is sent to
+me, I courtesy show the other two flush cards, showing I had a
+Jack-high flush but keeping to myself the information that I was in
+fact even better than that this hand.
