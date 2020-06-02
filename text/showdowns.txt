@@ -14,11 +14,11 @@ the kicker plays (here it does, he's playing A77JT) but normally when
 you call and see that the other player has you beat, you can fold your
 losing hand unshown.
 
-In Holdem the main showdown sin is slowrolling. The first player shows
-what looks like the winner; the second player says "nice hand, you win"
+In Holdem the main showdown sin is slowrolling. The called player shows
+what looks like the winner; the calling player says "nice hand, you win"
 takes his time showing his cards...holds onto them... looks disappointed..
 and then finally shows an even better hand that takes the pot. This poor
-behaviour is designed to add to the pain of losing the pot to the loser,
+behaviour is designed to intensify the pain of losing the pot to the loser,
 who has thought for a few seconds that he's the winner.
 
 The next Holdem showdown sin is slowcalling. You bet all-in on the river,
@@ -27,8 +27,8 @@ what your hand might be, he wastes thirty seconds of playing time and
 then calls with the absolute nuts or a very strong hand that was always
 calling just on hand strength alone. In a cash game this needless
 stalling is an annoying waste of time, in a Tournament it's unforgiveable
-because a minute of your current level has been wasted and you'll get
-at least one less hand at this blind level before they go up again.
+because a minute of your current level has just been wasted and you'll get
+at least one less hand at this level before blinds go up again.
 
 A third showdown sin in Holdem is information asking. The called player
 has to show first. Sometimes he asks the caller all kinds of things
@@ -53,14 +53,17 @@ than Holdem and there's some crazy showdown behaviour unique to Omaha.
 Tworolling
 ----------
 
-This happens a little bit in Holdem as well.. there's a four flush
-on the board, a player gets called and he shows just one of his cards,
-the flush card winner. He has to show both of his cards at showdown,
-the calling player has the right to see both of his hole cards. Some
-strict games will consider a one card show followed by a muck to be
-a fold and will award the pot to the calling player; most dealers and
-supervisors will give a warning to the one-card shower and not let
-him do it again that session.
+Tworolling is the act of not showing all of your cards at the showdown,
+just the two that you're using.
+
+This happens a little bit in Holdem as well (it's one-rolling in Holdem)
+There's a four flush on the board, a player gets called and he shows
+just one of his cards, the flush card winner. He has to show both of
+his cards at showdown, the calling player has the right to see both of
+his hole cards. Some strict games will consider a one card show
+followed by a muck to be a fold and will award the pot to the calling
+player; most dealers and supervisors will give a warning to the
+one-card shower and not let him do it again that session.
 
 In Omaha, the called player has to show his four card holding, and if
 he's got an obvious winner it's polite for him to call his hand and show
