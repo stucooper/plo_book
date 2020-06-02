@@ -125,4 +125,20 @@ trick the caller into showing his (worse) hand before the called
 player reveals the rest of his cards and shows he has a much stronger
 hand.
 
+Here's a wrong-roll from May 2020 that really got me riled. I've got
+A753 on a J74 flop. A very tight player called Frank bets the pot and
+I call. Frank is so tight that he's got top two pair or a set here.
+The turn comes an Ace and while not the best card for me
+(straight-making 6 is better) I could now be in the lead with Aces up,
+AA77. The river is a 2 and on the finalboard J74A2 I call Frank's
+all-in.
+
+He shows J7. Great he did have the two pair and my better two pair
+outdrew him on the turn. Half a second after I celebrate this he
+shows a third card, another Jack. He didn't flop just two-pair, he
+flopped top set. And then he wrongrolled me. He's a dickhead, and I
+called him a worse name than that at the table. Wrongrolling seems to
+be his only bad showdown habit (he doesn't slowroll, or slowcall and
+his wrongroll wasn't a tworoll waiting for me to also show my hand)
+but he wrongrolls all the time.
 
