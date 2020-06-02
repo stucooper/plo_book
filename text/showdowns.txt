@@ -117,6 +117,12 @@ How it often works:
 
 Wrongrolling
 ------------
-FIXME: Add this section.
+
+Wrongrolling is the act of showing two of your hole cards first, but not
+the best two cards that you'll be using for your best hand. Again it's
+to trick the Station into thinking he'll win the pot, and sometimes to
+trick the caller into showing his (worse) hand before the called
+player reveals the rest of his cards and shows he has a much stronger
+hand.
 
 
