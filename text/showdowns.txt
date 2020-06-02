@@ -69,7 +69,7 @@ Information War, some called players like to show just the two cards they're
 using and keep their other two cards private.
 
 At Star, it works like this. Play is now stalled, and the called player
-hopes for the calling player to now fold. If the calling player wants
+hopes that the calling player will also show. If the calling player wants
 to see the called player's hand, the _calling_ player now has to reveal
 his four cards. If, and only if, he does that, the called player will
 now reveal the rest of his hand and now he has correctly shown down a hand
