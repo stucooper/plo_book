@@ -38,10 +38,10 @@ do this even though they hold the unbeatable Nuts.. they'll say
 "Do you have the flush?" and you show a Queen high flush and think you're
 the winner and they _still_ show the Ace high flush to you.
 
-Poker is an Information War and the first player at Showdown has no right
+Poker is an Information War and the called player at Showdown has no right
 to information on the caller's hand. If the caller loses, he has the
 right to fold face down and surrender the pot. If the caller wins, he
-needs to reveal his own hand and show a higher poker hand at Showdown.
+must reveal his own hand and show he has a higher poker hand.
 
 It sounds simple (and it is) but poker players worldwide just have to
 behave stupidly at showdown and do all kinds of Showdown Shenanigans.
