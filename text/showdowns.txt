@@ -170,11 +170,11 @@ cards, anything you can think of. There's no bad showdown behaviour
 here, it's your pot already and there's no showdown. Here's a few I've
 seen.
 
-1) There's a paired flop of K88, someone bets and takes the pot on
+1) There's a paired flop of KK8, someone bets and takes the pot on
 the flop. He courtesy-shows a King and mucks his other three cards,
 which aren't of much interest. I've also seen the pot-winner show
 three cards but not the fourth (which you can tell from the betting
-was an eight).
+was a King).
 
 2) Someone bets on the turn on an unpaired board when the third spade
 arrives. He takes the pot and courtesy shows a high spade. You don't
