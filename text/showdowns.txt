@@ -10,7 +10,7 @@ hand that beats you. He doesn't have to call his hand (cards speak),
 he just has to show you both of his cards and you can see that yes, he
 had the flush, or yes he has you outkicked. There's a few tricky ones
 like AJ on an A77T34 board where it's worth being entirely sure that
-the kicker plays (here it does, he's playing A77JT) but normally when
+the kicker plays (here it does, he's playing AA77J) but normally when
 you call and see that the other player has you beat, you can fold your
 losing hand unshown.
 
