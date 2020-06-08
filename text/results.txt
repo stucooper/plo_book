@@ -14,6 +14,6 @@ MONEY OWED (last number is the figure owed)
 Ponza owes me 1,000
 ===============
 (Next two lines belong together; Nick thinks in terms of re-paid money)
-Nick owes me  550 -> 480 -> 430 -> 360 -> 300
-Nick's paid me        70 -> 120 -> 190 -> 250
+Nick owes me  550 -> 480 -> 430 -> 360 -> 300 -> 230
+Nick's paid me        70 -> 120 -> 190 -> 250 -> 320
 ===============
