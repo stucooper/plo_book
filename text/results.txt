@@ -14,6 +14,12 @@ MONEY OWED (last number is the figure owed)
 Ponza owes me 1,000
 ===============
 (Next two lines belong together; Nick thinks in terms of re-paid money)
-Nick owes me  550 -> 480 -> 430 -> 360 -> 300 -> 230
-Nick's paid me        70 -> 120 -> 190 -> 250 -> 320
+Nick owes me  550 -> 480 -> 430 -> 360 -> 300 -> 230 -> 180
+Nick's paid me        70 -> 120 -> 190 -> 250 -> 320 -> 370
 ===============
+
+My bank details
+ACCOUNT: S R COOPER
+BSB 112-879
+Acct: 118 367 609
+
