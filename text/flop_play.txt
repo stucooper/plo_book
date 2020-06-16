@@ -1,6 +1,6 @@
 FLOP PLAY
 
-Last updated: 20190109
+Last updated: 20200616
 
 In Holdem you normally "play it or dump it" on the Preflop Betting
 Round. In Omaha you'll be taking a lot more flops, and your
@@ -12,7 +12,7 @@ a flop. In 1/3 PLO there are a lot of flops with 7 players having
 paid $3 to see a flop, or 5 players having paid $10 to see a flop.
 
 Hit, Fit or Fold
-----------------
+================
 
 You've got to connect with the flop strongly in Omaha. Overpairs
 aren't the winners that they are in Holdem. If someone bets the pot
@@ -30,12 +30,42 @@ in the runout.
 In Holdem you might ask yourself on the flop "Can I beat 
 Top Pair/Top Kicker on the next card?" in the face of a strong 
 flop bet, but in Omaha the hands are so strong that the question 
-to ask yourself is "Can I beat middle set by the turn?".
+to ask yourself is "Can I beat middle set on the next card?".
+
+Can I beat middle set on the next card?
+---------------------------------------
+
+Someone betting the pot on the flop in Omaha has one of these
+hands, with possible redraws to higher hands:
+
+* Top set
+* Middle set
+* Top two pair
+* Nut flush draw
+* Big Straight Draw
+
+If all you've got right now is top pair or an overpair, and you
+don't have good draws to straight or flushes, get out cheaply.
+The answer to "Can I beat middle set on the next card?" is NO.
+(strictly speaking if you have an overpair you can get top set
+with the right turn card but it's a thin two-out draw. If the call
+is cheap enough you can take one off and try to spike the overset
+but don't routinely do this).
 
 This question helps you play flush draws, straight draws and
 two pair flops well. If you've flopped top and bottom pair, or
 bottom two, you can't beat a flopped middle set by the turn
-unless the top pair repeats.
+unless the top pair repeats. So you should be frequently folding
+top and bottom pair and bottom two pair in Omaha. They're trash holdings
+and will only get you into big trouble later in the hand.
+
+Now sometimes you fold J987 on a 942 flop and the runout is 94289 and
+you've folded the stone-cold nuts. But the board doesn't run out that
+well for you often enough to justify the call. Far more often the
+board will bring a straight or someone with middle set of 444 holds
+up. Naked top pair hasn't flopped well in Omaha. Don't take long
+odds draws that cost you a lot time and time again when they miss.
+Just get out cheaply, there's another hand in two minutes.
 
 Once you've looked at your holding preflop and decided to play,
 you'll have a good idea what a good flop for you would be.
