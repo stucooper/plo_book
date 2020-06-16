@@ -348,6 +348,11 @@ MEGAPOT: A huge pot, over $800 and frequently over $1000.
 MIDRANGE CARD: A card between the BROADWAY CARDS and the WHEEL CARDS.
   A card in the range (5,6,7,8,9)
 
+MORE CARDS (DRS): The phenomenon of your enemies having big hands,
+  often nut hands, because everyone was dealt four cards and most of
+  the deck is in other player's hands, not sleeping cards at the
+  bottom of the deck.
+
 NAKED DRAW: A hand still contesting the pot that can win in one way only.
 
 NATURAL FLUSH: The flush made using two of the flop cards and a turn or
