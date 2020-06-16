@@ -89,6 +89,30 @@ advises to "Draw only to the Nuts"; if your straight draw or
 flush draw won't be the nut straight or flush if it hits, you're
 better off not paying to make what could be a very expensive loser.
 
+If I set on the turn, will it be the nuts?
+------------------------------------------
+
+If you hold a pocket pair, and it hasn't hit a set on the flop, have a
+quick think about whether your hand will be the (current) nuts if you
+get lucky and set up on the turn. Say you've got KK87 and there's a
+small bet on a J54 flop. This is a bet I'm happy to call; I have a
+nutshot 6 and if a King comes on the turn I know that gives me the
+current nuts with a set of Kings. Now let's have the same KK98 but
+this time the flop is Q96. This flop is a lot more dangerous. Spiking
+the K doesn't give me the current nuts anymore, because someone with
+the very playable JT now has the nut straight if the turnboard is
+Q96K. I've got an Open Ended straight draw but it's on the low side of
+the board; my only nut turn is a 5. The turnboard Q96T has KJ and J8
+both beating my 87, and there's so many cards out there in Omaha that
+I could well be behind. Facing a bet with KK87 on a Q96 flop, it's a
+fold.
+
+Sets go down in flames to straights and flushes all the time in
+Omaha. Don't stay in a hand when you're setting yourself up for
+a stack loss even when the best possible card comes for you on the
+turn. This is what T J Cloutier means when he says "draw only to the
+nuts".
+
 Top two pair
 ------------
 
