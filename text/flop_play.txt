@@ -15,7 +15,12 @@ Hit, Fit or Fold
 ================
 
 You've got to connect with the flop strongly in Omaha. Overpairs
-aren't the winners that they are in Holdem. If someone bets the pot
+aren't the winners that they are in Holdem. Once you've seen the flop,
+ask yourself "How well did I flop?" and re-assess your hand for draws
+and nuttability. If you've missed the flop, chances are excellent that
+it's hit someone else in the hand very, very strongly.
+
+If someone bets the pot
 and you're wondering what to do, ask yourself this question:
 "Can I beat middle set by the turn?". If you've got good outs
 to a hand that can beat middle set, call the bet, otherwise
@@ -40,6 +45,7 @@ hands, with possible redraws to higher hands:
 
 * Top set
 * Middle set
+* Bottom set
 * Top two pair
 * Nut flush draw
 * Big Straight Draw
@@ -112,6 +118,20 @@ Omaha. Don't stay in a hand when you're setting yourself up for
 a stack loss even when the best possible card comes for you on the
 turn. This is what T J Cloutier means when he says "draw only to the
 nuts".
+
+Middle set, bottom set
+----------------------
+
+Because of More Cards, there's many more pocket pairs in the holdings
+in Omaha, and with more pocket pairs out there there's a lot more
+set under set flops. Don't just call big bets and raises with
+Middle Set and Bottom Set in Omaha - you could be crushed. You'll
+develop some poker feel as you get more Omaha experience as to whether
+your set is good or not. It doesn't hurt to try to keep the pot size
+small; if you can't do that because your Enemy is blasting pot sized
+bets on every street, strongly consider folding. It's better getting
+bluffed off a few pots now and then than it is to routinely give away
+your whole stack every time you flop bottom set or middle set.
 
 Top two pair
 ------------
