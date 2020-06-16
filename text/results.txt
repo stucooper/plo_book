@@ -12,7 +12,8 @@ Date      Venue     Stakes     Hours    In-For      Out-For   Result
 
 20200612  PShamInn  $75 Pub NLH 4.00         75   (4th) 400   + 325
 20200612  CVale     1/2/5(opt)  4.00        600        1250   + 650
-20200613  Kyeemagh  1/2 Nick    4.00      FIXME
+20200613  Kyeemagh  1/2 Nick    4.00        600        1350   + 750
+20200614  RouseHill 1/2/5(opt)  8.00       2400        1375   -1025
 
 
 MONEY OWED (last number is the figure owed)
