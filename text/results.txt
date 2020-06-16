@@ -10,6 +10,11 @@ Date      Venue     Stakes     Hours    In-For      Out-For   Result
 20200319  Cantebury 1/1/2(opt)  6.00        300         620   + 320
 20200320  McCredie  1/2/5(opt)  3.00       1200        1055   - 150
 
+20200612  PShamInn  $75 Pub NLH 4.00         75   (4th) 400   + 325
+20200612  CVale     1/2/5(opt)  4.00        600        1250   + 650
+20200613  Kyeemagh  1/2 Nick    4.00      FIXME
+
+
 MONEY OWED (last number is the figure owed)
 Ponza owes me 1,000
 ===============
