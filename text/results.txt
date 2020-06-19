@@ -15,10 +15,10 @@ Date      Venue     Stakes     Hours    In-For      Out-For   Result
 20200613  Kyeemagh  1/2 Nick    4.00        600        1350   + 750
 20200614  RouseHill 1/2/5(opt)  8.00       2400        1375   -1025
 20200618  RouseHill 1/2/5 PLO5 10.00       1800        2450   + 650
+20200619  Ponza     1/2 PLO/8   8.00        200         800   + 600
 
 
 MONEY OWED (last number is the figure owed)
-Ponza owes me 1,000
 ===============
 (Next two lines belong together; Nick thinks in terms of re-paid money)
 Nick owes me  550 -> 480 -> 430 -> 360 -> 300 -> 230 -> 180
