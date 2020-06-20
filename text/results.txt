@@ -15,6 +15,7 @@ Date      Venue     Stakes     Hours    In-For      Out-For   Result
 20200613  Kyeemagh  1/2 Nick    4.00        600        1350   + 750
 20200614  RouseHill 1/2/5(opt)  8.00       2400        1375   -1025
 20200618  RouseHill 1/2/5 PLO5 10.00       1800        2450   + 650
+20200619  Kyeemagh  1/2 Nick    8.00       1100        1550   + 450
 
 
 MONEY OWED (last number is the figure owed)
