@@ -17,6 +17,7 @@ Date      Venue     Stakes     Hours    In-For      Out-For   Result
 20200618  RouseHill 1/2/5 PLO5 10.00       1800        2450   + 650
 20200619  Ponza     1/2 PLO/8   8.00        200         800   + 600
 20200621  Kyeemagh  1/2 Nick    8.00       1100        1550   + 450
+20200622  PInn tourn            1.00        110           0   - 110
 
 MONEY OWED (last number is the figure owed)
 ===============
