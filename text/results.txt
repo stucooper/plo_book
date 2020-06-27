@@ -22,13 +22,6 @@ Date      Venue     Stakes     Hours    In-For      Out-For   Result
 20200625  RouseHill 4c/5cPLO    9.00       2400        2040   - 360
 20200626  WalshBay  5/5 PLO     7.00       2000        2400   + 400
 
-MONEY OWED (last number is the figure owed)
-===============
-(Next two lines belong together; Nick thinks in terms of re-paid money)
-Nick owes me  550 -> 480 -> 430 -> 360 -> 300 -> 230 -> 180 -> 130
-Nick's paid me        70 -> 120 -> 190 -> 250 -> 320 -> 370 -> 420
-===============
-
 My bank details
 ACCOUNT: S R COOPER
 BSB 112-879
