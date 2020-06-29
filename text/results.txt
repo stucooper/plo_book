@@ -11,8 +11,8 @@ Date      Venue     Stakes     Hours    In-For      Out-For   Result
 20200320  McCredie  1/2/5(opt)  3.00       1200        1055   - 150
 
 20200612  PShamInn  $75 Pub NLH 4.00         75   (4th) 400   + 325
-20200612  CVale     1/2/5(opt)  4.00        600        1250   + 650
-20200613  Kyeemagh  1/2 Nick    4.00        600        1350   + 750
+20200612  CanVale   1/2/5 NLH   4.00        600        1250   + 650
+20200613  Kyeemagh  1/1 Nick    4.00        600        1350   + 750
 20200614  RouseHill 1/2/5(opt)  8.00       2400        1375   -1025
 20200617  RouseHill 1/2/5 PLO5 10.00       1800        2450   + 650
 20200618  Ponza     1/2 PLO/8   8.00        200         800   + 600
@@ -21,6 +21,11 @@ Date      Venue     Stakes     Hours    In-For      Out-For   Result
 20200624  Rookwood  1/2 NLH     5.00        600         430   - 170
 20200625  RouseHill 4c/5cPLO    9.00       2400        2040   - 360
 20200626  WalshBay  5/5 PLO     7.00       2000        2400   + 400
+FIXME: double check Kyeemagh Sat night result below
+I think it's correct because I gave Langers $40 = 10% on the night
+20200627  Kyeemagh  1/1 Nick    7.00        500         900   + 400
+20200628  Liv St    5/5 PLO     4.00        300        1650   +1350
+
 
 My bank details
 ACCOUNT: S R COOPER
