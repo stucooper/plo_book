@@ -25,6 +25,9 @@ FIXME: double check Kyeemagh Sat night result below
 I think it's correct because I gave Langers $40 = 10% on the night
 20200627  Kyeemagh  1/1 Nick    7.00        500         900   + 400
 20200628  Liv St    5/5 PLO     4.00        300        1650   +1350
+fri wharf -25 500 -> 475
+fri airport -2000 FFS
+sat canvale +2270 800 -> 3070
 
 
 My bank details
