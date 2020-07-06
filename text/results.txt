@@ -28,6 +28,9 @@ I think it's correct because I gave Langers $40 = 10% on the night
 fri wharf -25 500 -> 475
 fri airport -2000 FFS
 sat canvale +2270 800 -> 3070
+sun walletstart = 2400 FIXME remove this line after sunday reconciled
+sun kville  + 900 200 -> 1100
+sun airport -  60 1150 -> 1090
 
 
 My bank details
