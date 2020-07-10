@@ -31,6 +31,9 @@ sat canvale +2270 800 -> 3070
 sun walletstart = 2400 FIXME remove this line after sunday reconciled
 sun kville  + 900 200 -> 1100
 sun airport -  60 1150 -> 1090
+wed rookwood 240+220 -> 750 +90
+20200710  WalshBay  2/3 PLO     6.00        500        1150   + 650
+
 
 
 My bank details
