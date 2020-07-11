@@ -33,8 +33,12 @@ sun kville  + 900 200 -> 1100
 sun airport -  60 1150 -> 1090
 wed rookwood 240+220 -> 750 +90
 20200710  WalshBay  2/3 PLO     6.00        500        1150   + 650
+20200711  Rookwood 1/2/4 MNL    5.00        200         590   + 390
+# buyin rake of 20, dealer fee of 20 so realised +350 from Manila
 
 
+Nick owes me $270 plus I think another freebie from $50 gift in play
+($250 lent on a Saturday 11 July because he was short, $20 horserace bet)
 
 My bank details
 ACCOUNT: S R COOPER
