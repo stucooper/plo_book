@@ -21,24 +21,22 @@ Date      Venue     Stakes     Hours    In-For      Out-For   Result
 20200624  Rookwood  1/2 NLH     5.00        600         430   - 170
 20200625  RouseHill 4c/5cPLO    9.00       2400        2040   - 360
 20200626  WalshBay  5/5 PLO     7.00       2000        2400   + 400
-FIXME: double check Kyeemagh Sat night result below
-I think it's correct because I gave Langers $40 = 10% on the night
 20200627  Kyeemagh  1/1 Nick    7.00        500         900   + 400
 20200628  Liv St    5/5 PLO     4.00        300        1650   +1350
-fri wharf -25 500 -> 475
-fri airport -2000 FFS
-sat canvale +2270 800 -> 3070
-sun walletstart = 2400 FIXME remove this line after sunday reconciled
-sun kville  + 900 200 -> 1100
-sun airport -  60 1150 -> 1090
-wed rookwood 240+220 -> 750 +90
+20200703  WalshBay  5/5 PLO     2.00        500         425   -  25
+20200703  Kyeemagh  1/2 Nick    5.00       2070           0   -2070
+20200704  McCredie  1/2/5(opt)  5.00        800        3070   +2270
+20200705  RouseHill 4c/5cPLO    4.00        200        1100   + 900
+20200705  Kyeemagh  1/1 Nick    4.00       1150        1090   -  60
+20200708  Rookwood  1/2 NLH     5.00        400         750   + 150
 20200710  WalshBay  2/3 PLO     6.00        500        1150   + 650
 20200711  Rookwood 1/2/4 MNL    5.00        200         590   + 390
 # buyin rake of 20, dealer fee of 20 so realised +350 from Manila
+20200712  Kyeemagh  1/1 Nick    3.00        800           0   - 800
 
 
-Nick owes me $270 plus I think another freebie from $50 gift in play
-($250 lent on a Saturday 11 July because he was short, $20 horserace bet)
+Nick owes me $250
+($250 lent on a Saturday 11 July because he was short)
 
 My bank details
 ACCOUNT: S R COOPER
