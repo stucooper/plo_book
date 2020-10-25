@@ -22,6 +22,11 @@ and Seven Card Stud Hi-Lo (Eight or Better).
 The new flop game in Super System 2 is Omaha, with an Omaha Hi-Lo
 chapter and Pot Limit Omaha High chapter.
 
+If there was a Super System 3 coming out soon, the games
+would be No Limit Holdem, Pot Limit Omaha, Pot Limit 5-Card Omaha and maybe Courchevel, an
+Omaha variant where you see the first card of the flop in the pre-flop
+betting round, and the "flop" reveals two more cards of the community.
+
 Poker has evolved from Draw to Stud to Flop.
 
 Draw Games
