@@ -35,6 +35,7 @@ the_rake.txt
 advice_for_new_players.txt
 needling.txt
 know_your_rights.txt
+showdowns.txt
 tilt.txt
 part5_poker_fun.txt
 bad_beat_stories.txt
