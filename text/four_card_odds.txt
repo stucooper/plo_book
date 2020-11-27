@@ -34,7 +34,7 @@ them in a First Four Bet. One of your four horses will come first,
 then one of the remaining three will come second, then
 one of the remaining two will come third, then
 your last remaining horse will come fourth. If
-you imagine A as "horse number 1" and T as "horse number ten"
+you imagine the Ace (A) as "horse number 1" and the ten (T) as "horse number ten"
 then you can see my 24 combinations above cover all the
 finishing chances for the four horses. 4x3x2x1=24.
 
