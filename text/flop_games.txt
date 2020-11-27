@@ -11,13 +11,16 @@ the Hand Rankings used.
 Broadly speaking, Poker was Draw Games until the 1950s, Stud Games
 from the 1950s to the 1980s and Flop Games from the 1980s until today. You
 can see the migration in the two different editions of Super System.
-In Super System (1978) there's chapters on Draw Poker, both
-Draw Poker High and Lowball. There's also sections on Stud Hi,
-Stud Hi-Lo, Limit Holdem and No Limit Holdem. In Super System 2 (2005)
-traditional Draw Poker has disappeared, Mike Caro
+In the original Super System (1978) there are chapters on Draw Poker, both
+Draw Poker High and Lowball. There are also sections on Stud Hi,
+Stud Hi-Lo, Limit Holdem and No Limit Holdem. The 1978 Super System
+is roughly one-third Draw, one-third Stud and one-third Flop.
+
+In Super System 2 (2005) traditional Draw Poker has disappeared, Mike Caro
 grumbling in his Tips and Tells chapter that "Draw Poker isn't Dead!".
 There's just two non-flop-game chapters, Deuce-to-Seven Triple Draw
-and Seven Card Stud Hi-Lo (Eight or Better).
+and Seven Card Stud Hi-Lo (Eight or Better). The 2005 Super System 2 is
+roughly one-eighth Draw, one-eighth Stud and three-quarters Flop.
 
 The new flop game in Super System 2 is Omaha, with an Omaha Hi-Lo
 chapter and Pot Limit Omaha High chapter.
