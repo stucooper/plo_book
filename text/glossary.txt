@@ -90,7 +90,8 @@ BLUSH: A one-card flush bluff, you don't actually have the flush but
   you do have the highest possible flush card, so you know that
   nobody else can have the nut flush (you have the nut flush blocker)
   If you've got the Ace of spades (without another spade in your holding)
-  and the board has T94 of Spades, you have The Blush.
+  and the board has T94 of Spades, you have The Blush. This word is a
+  combination of "Flush" and "Bluff".
 
 BOARD: The shared community cards. Sometimes called the COMMUNITY. In this
   book I refer to the board at each of its three phases: the flop,
@@ -513,6 +514,8 @@ STACK SAVER: A preflop fold, where you get to see the runout. You flop so
   and saw the flop was T44. The final runout was T44KK and a player
   with KT made the best possible full house and would have won
   my stack.
+
+STEEL WHEEL: The Straight Flush 5432A.
 
 STRADDLE: A no-look bet posted from under the gun. If there's the usual
   situation of a $1 and $3 blind posted, and no other money in the pot,
