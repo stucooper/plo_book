@@ -10,18 +10,19 @@ build a bigger pot so you can win big with your big hand,
 but if you bet too big too soon you might lose your customers.
 So slowplay and trapping are a key part of No Limit Holdem.
 
-In No Limit Holdem, bets are often sized in the 60% of the pot
-to 80% of the pot range. In Pot Limit Omaha you can only bet
+In No Limit Holdem, post-flop bets are often sixty to eighty percent
+of the pot. In Pot Limit Omaha the most you can bet is
 the size of the pot (100%) and the bet is often exactly that size.
 So a $2/$3 NLH cash hand might have a raise to $10, a bunch of folds,
 the big blind call and a pot of $22. On the flop of K86 two diamonds,
 the preflop bettor bets $15 and the caller folds and we move onto the
-next hand. In a $1/3 Omaha cash hand, someone raises to $13 and there
-are three callers, including both blinds. The flop comes K86, two
-diamonds, the preflop bettor bets the full pot of $52 and one player
-drops out but two players call. In the Holdem hand the winner has a
-pot of $22 and we didn't get to see the turn, in the Omaha hand
-there's still three players hotly contesting a pot that's now $156.
+next hand. In a $1/3 Omaha cash hand, someone limps then the next player
+raises to $13 and there are three callers, including both blinds. The
+flop comes K86, two diamonds, the preflop bettor bets the full pot of
+$52 and one player drops out but two players call. In the Holdem hand
+the winner has a pot of $22 and we didn't get to see the turn, in the
+Omaha hand there's still three players hotly contesting a pot that's
+now $156.
 
 Pot Limit Omaha is not the trapping game that No Limit Holdem is.
 There's three key reasons for this.
@@ -31,17 +32,17 @@ There's three key reasons for this.
    well with the flop, and will call your big bets and give you action.
 
 2) Each player has four cards not two cards. Players can have a primary
-   draw with a backup draw. If the board pairs, it's very easy for a
+   draw with a backup draw. If the board pairs, it's possible for a
    player who was staying in with a different draw to make a full house
    using other cards in his holding.
 
 3) The betting is Pot Limit, so you can't blast players out of the pot
    on the flop with an oversized bet. The worst immediate odds a player
-   is getting,facing a single pot bet is 2 to 1. If the pot is $70 and
+   is getting, facing a single pot bet, is 2 to 1. If the pot is $70 and
    you bet the pot of $70, the first player is being presented with a
    call of $70 into a pot of $140, 2 to 1. Of course is a second player
    raises, other players in this pot aren't getting 2 to 1, they're
-   getting worse odds.
+   getting much worse odds.
 
 Computer people, especially those who work in accounting, will
 know the popular accounting software MYOB (Mind Your Own Business).
@@ -120,3 +121,17 @@ Own Betting.
 
 If I'd DYOB here, I'd have picked up a good $165 pot instead
 of losing another $235. DYOB!!
+
+Jamming with Top Set
+====================
+
+It's a tradition in PLO to Jam when you flop Top Set. Charge the other
+players for their draws and start building the pot. If the board pairs
+on the turn you might not get any further action so at least you've
+picked up some more money with the calls on the flop betting.
+
+Sometimes middle set or top two pair will raise your flop bet. This is
+a fantastic result as you can get your stack in against a player who
+might only have one out; the card that makes his middle set quads. A
+player with top two pair against your top set may have just runner-runner
+quads out only.
