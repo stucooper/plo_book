@@ -135,3 +135,14 @@ a fantastic result as you can get your stack in against a player who
 might only have one out; the card that makes his middle set quads. A
 player with top two pair against your top set may have just runner-runner
 quads out only.
+
+You can only check-raise on one street
+======================================
+
+If you check-raise flopstreet and get called, don't expect to be able
+to check-raise turnstreet. If the turn bricks and your top set is
+still good, you'll have to blast out a full-pot bet yourself;
+you really need to DYOB on this street. You've managed to get a lot
+of money into this pot, you can still get outdrawn of course and the
+"brick" turn has probably still created new straight wraps for your
+enemies, but you're protecting your hand as strongly as you can.
