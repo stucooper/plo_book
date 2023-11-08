@@ -1,6 +1,6 @@
 NUTSHOTTING
 
-Last updated: 20191201
+Last updated: 20231108
 
 Everyone knows that a gutshot straight draw is a thin draw
 with just 4 outs, and unless you're getting a ridiculous
@@ -32,7 +32,8 @@ to be true as possible:
    I won't be splitting this pot with the same straight.
 5) There's no board pair on the flop, and the flop isn't onesuit. Don't
    draw to straights when higher rung hands are already possible. A rainbow
-   flop is best.
+   flop is best. Flush draws are the mortal enemies of straight draws, and
+   a flush beats a straight.
 6) There's some other passengers in this pot, and if I call on the flop
    there will be a cascade of callers behind me, adding value when I hit
    and allowing me to put in an even bigger turn bet if I hit. Since
@@ -50,7 +51,8 @@ to be true as possible:
    the pot-sized bet on the flop, I often get to close the action with
    my call and don't have to worry about later actors. So the Rolf Seat
    often gives me "close the action" advantage on both the preflop and
-   flop streets.
+   flop streets. I also get the "value" call where I close off the
+   action and call after two (or even more!) other callers.
 
 Here's two example of Nutshot draws I took, from my session notes
 of 2nd March 2018. In the first hand I have Q776, four players have
@@ -64,7 +66,7 @@ are present. My draw is to the Nuts. If I spike the 4, I should be the
 only player with the 76 straight (I have two Sevens in my own holding).
 This is one part of Omaha where I do use Blocker Theory; the fact I
 have two sevens means it's very unlikely another player has the
-required 76 on the turnboard of Q534.
+required 76 if the turnboard comes Q534.
 
 I've got $190 left which I can blast all in with on the turn. With three
 players along for the ride I should get paid off if I hit. Also my call
@@ -155,7 +157,7 @@ quite forcibly that my nutshot draws are going well against
 the odds. Much of the time I get my nutshot on the turn and
 lose a huge pot when the river brings the third flush card
 or pairs the board; so even making the Nutshot can be a stack
-killer not a stack doubler. Nutshotting might not be a winner in
+killer not a stack doubler. Nutshotting may not be a winner in
 a risk/reward sense. I thought long and hard about leaving
 this chapter out of my book, but I have to be true to myself
 and my readers and be honest about how I play, and nutshotting
