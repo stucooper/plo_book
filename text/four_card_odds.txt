@@ -1,6 +1,6 @@
 FOUR CARD HOLDING ODDS
 
-Last updated: 20181117
+Last updated: 20231108
 
 I have a Maths degree as well as a Computer Science degree and
 while my day job is in Computers, I retain an interest and
@@ -159,3 +159,10 @@ result that doesn't need fancy multiplication and division,
 there are so few four card quad holdings you can list them:
 2222,3333,4444,5555,6666,7777,8888,9999,TTTT,JJJJ,QQQQ,KKKK,AAAA;
 there they all are, there's 13 of them.
+
+If you're mathematically minded you can work out the number of
+triple-ranked hands, the number of double-paired hands, the number
+of single-paired hands and the number of unpaired hands; work out
+all the percentages and check that they add up to 100%ish (rounding)
+and the full 270,725 holdings. I've done the easy one for you;
+there are 13 Quads holdings.
