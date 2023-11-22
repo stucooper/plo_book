@@ -1,6 +1,6 @@
 BUTTON BET THE TURN
 
-Last updated: 20181123
+Last updated: 20231122
 
 If you're on the Button and there's a small to moderate pot
 by the turn and everyone has checked to you,
@@ -57,11 +57,13 @@ would call; and the turn bet has built the pot so that I can sell it
 for more.
 
 Except when you're nut with a river two, you need to fold to a check-raise
-on either the turn or the river.
+on the river. If you get check-raised on your turn bet (unlikely, but they
+it can happen) this also looks like a fold.
 
 5) As you've taken the betting lead, you can consider a bluff if
 the river is a brick that doesn't complete any draws. On the AJ59
 turnboard, a river card that's not a Broadway card or an 8 is a Brick.
 Since you'd bet the turn it looks like you've got a good two pair hand
 like AA99 so if the river is a A,9,7,6,5,4,3 or 2 you can value bet
-or bluff.
+or bluff. I don't like bluffing at small pots much so I'd probably just
+give up, but that is a possibility in this situation.
