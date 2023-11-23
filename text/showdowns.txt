@@ -1,6 +1,6 @@
 SHOWDOWNS
 
-Last updated: 20200602
+Last updated: 20231123
 
 Showdowns are a lot different in Omaha than they are in Holdem and
 some words on Omaha showdowns are necessary in this book.
@@ -77,20 +77,24 @@ his hole cards. Some strict games will consider a one card show
 followed by a muck to be a fold and will award the pot to the calling
 player; most dealers and supervisors will give a warning to the
 one-card shower and not let him do it again that session.
+"Two cards to win" is the traditional instruction from the dealer.
 
 In Omaha, the called player has to show his four card holding, and if
 he's got an obvious winner it's polite for him to announce his hand and show
-which two cards he's using for his showdown hand. Poker being the
+which two cards he's using for his showdown hand. Poker being an
 Information War, some called players like to show just the two cards they're
 using and keep their other two cards private.
 
 At Star, it works like this. Play is now stalled, and the called player
 hopes that the calling player will also show. If the calling player wants
-to see the third and fourth card of the called player's hand, the _calling_ player now has to reveal
-his four cards. If, and only if, he does that, the called player will
-now reveal the rest of his hand and now he has correctly shown down a hand
-and can claim the pot.
+to see the third and fourth card of the called player's hand,
+the _calling_ player now has to reveal his four cards. If, and only if, he
+does that, the called player will now reveal the rest of his hand and now
+he has correctly shown down a four-card hand and can claim the pot.
  
+Typically thirty seconds to a minute-and-a-half of table time is wasted
+while all of this gets resolved. It gets very tiresome.
+
 I'll list the procedure as it should work, and how, sadly it often works
 
 How it should work:
@@ -148,7 +152,7 @@ A753 on a J74 flop. A very tight player called Frank bets the pot and
 I call. Frank is so tight that he's got top two pair or a set here.
 The turn comes an Ace and while not the best card for me
 (straight-making 6 is better) I could now be in the lead with Aces up,
-AA77. The river is a 2 and on the finalboard J74A2 I call Frank's
+AA77. The river is a 3 and on the finalboard J74A3 I call Frank's
 all-in.
 
 He shows J7. Great he did have the two pair and my better two pair
