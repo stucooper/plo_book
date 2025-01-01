@@ -359,8 +359,7 @@ NAKED DRAW: A hand still contesting the pot that can win in one way only.
 NATURAL FLUSH: The flush made using two of the flop cards and a turn or
   river card. If the flop comes two diamonds and a club, a Diamond flush
   is the Natural Flush and a club flush (needing both the turn and river to
-  be clubs) is the Backdoor Flush. I believe this term comes from the
-  Australian card game Manila.
+  be clubs) is the Backdoor Flush.
 
 NUTSHOT: A gutshot straight draw to the Nuts. Normally your
   drawing hands should have more outs than just a Nutshot, but even a
