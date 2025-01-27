@@ -19,10 +19,11 @@ decent kicker, they're often a long way behind top pair better
 kicker. So even when they flop decently they're Low Confidence
 Hands. They can't be bet strongly (which means they win small when
 they're ahead) and they're OK-enough to call with (which means they
-lose more when they're behind). Win small, lose big. This is the
-exact opposite of the Number One rule of gambling: Win big, lose
-small. So if you're dealt a Trouble Holding, you can save yourself
-money and some tough decisions by just folding it preflop. TAHITM.
+lose more when they're behind). They're too weak to bet, and too strong
+to fold. So they win small, lose big. This is the opposite of the
+Number One rule of gambling: Win big, lose small. So if you're dealt a
+Trouble Holding, you can save yourself money and some tough decisions
+by just folding it preflop. TAHITM.
 
 You might tell yourself "I'll flop two pair with this Queen-Jack
 and win the stack of the raiser who might have Ace-Queen or
