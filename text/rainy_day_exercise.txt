@@ -117,7 +117,7 @@ Preflop comment: Besides Seat 8's single suited Aces AAT8, the hands
 here aren't as strong as in Deal 1.
 Seats 1,3,4,5 and 7 shouldn't take a flop.  Seat 10 has a
 seductive hand, double suited with two different connectors;
-QJ and 54.  Like in Deal 1, two players have the same pocket pair;
+QJ and 65.  Like in Deal 1, two players have the same pocket pair;
 here Seat 2 and Seat 9 both have 99.
 
 Best chance: Seat 8: AAT8
