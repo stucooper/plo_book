@@ -26,6 +26,7 @@ flop_play.txt
 flop_hands.txt
 play_on_flush_flop.txt
 free_card_play.txt
+check_raising.txt
 nutshotting.txt
 crying_bet.txt
 button_bet_the_turn.txt
