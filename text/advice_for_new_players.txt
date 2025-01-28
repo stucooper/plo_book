@@ -1,6 +1,6 @@
 ADVICE FOR NEW PLAYERS
 
-Last updated: 20190630
+Last updated: 20250128
 
 If you're new to Omaha, here's some suggestions to help you in
 your first few sessions. As you get more experienced you'll
@@ -151,13 +151,15 @@ Don't draw to low flushes
 
 One of the traps Omaha has for Holdemites is low flushes. In Holdem
 a low flush using both of your hole cards is normally a winner, but in
-Omaha it's usually a loser. If you've done the work in the Rainy Day
+Omaha it's often a loser. If you've done the work in the Rainy Day
 chapter you'll have a good appreciation of the fact that suited
 cards as high as suited kings are often behind to the holdings of
 other players who have suited Aces in the same suit. That's the
 nature of the Top 40 Omaha deal and you don't really appreciate
 it unless (a) you've done the Rainy Day Exercise or (b) you've
 given your stack away to nut flushes time and time and time again.
+Save yourself $2000 in five $400 stack giveaways by doing the
+Rainy Day Exercise.
 
 You know from the Rainy Day Exercise that King-flush holdings
 are often behind, so don't even draw to low flushes.
@@ -197,5 +199,5 @@ for a call before the action is on them, providing a reliable tell for
 observant players that they will be calling. I'll try and train
 myself out of this habit so I don't give away this tell. I'm
 a quick and accurate counter of chips so if I just wait my
-turn I won't be slowing things down by waiting to get my
-call chips until action is on me.
+turn I won't be slowing things down much by waiting to get my
+call chips until the action is on me.
