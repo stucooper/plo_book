@@ -7,7 +7,7 @@ of the old Fixed Limit concepts apply to Pot Limit Omaha. In this
 chapter, I'll look at one of the great Fixed Limit plays, the
 Free Card Play.
 
-Here's how it works in Limit. You're on the button in a 10/20 game
+Here's how it works in Limit. You're on the button in a 10/20 Holdem game
 and you flop an open-ended straight draw. It's heads up on a flop
 of 984 and the cutoff bets $10. You raise to $20 and the cutoff
 calls. The turn card misses your straight draw, but the cutoff
