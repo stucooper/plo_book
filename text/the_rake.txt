@@ -87,7 +87,7 @@ that $15 taken out is almost inconsequential. Rake starts being an
 issue in dead-of-morning shorthanded games, where three $400 stacks
 are passing $60 pots around backwards and forwards and the casino
 is fully raking the 10% each time. If the pots are small and the
-rake is starting to bite and everyone's stacks are slowly shrinking,
+rake is starting to bite and everyone's stacks are gradually shrinking,
 it could be time to call it a night.
 
 Some casinos offer reduced rake when games are shorthanded. The Star 
