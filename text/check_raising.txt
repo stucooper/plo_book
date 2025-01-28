@@ -4,7 +4,7 @@ In the last chapter I wrote about an old idea from Fixed Limit Poker,
 the Free Card Play. In this chapter I look at another idea from Fixed
 Limit, Check Raising to limit the field.
 
-In a 10/20 Limit game a lot of players will call $10 preflop and hope
+In a 10/20 Limit Holdem game a lot of players will call $10 preflop and hope
 to see a flop for that price. If you're under the gun and make it $20
 preflop you might lose the weakest hands but a lot of players will still
 call the $20.
@@ -18,10 +18,10 @@ re-re-raises and caps it at $40.
 So an original bet of yours won't limit the field much, but if you
 can get a check-raise in you'll lose some enemies.
 
-Because you can only bet the size of the pot, similar considerations apply
-in PLO. You can only raise to $10 under the gun in 1/3 PLO but if you limp
-for 3 and there's a whole bunch of limpers and the button raises to 30
-you can suddenly re-raise to 100 and now you'll force people out.
+Similar considerations apply in PLO, because you can only bet the size of
+the pot. You can only raise to $10 under the gun in 1/3 PLO but if you limp
+for $3 and there's four more limpers and the button raises to $30
+you can suddenly re-raise to $100 and now you'll force people out.
 
 On the flop, you'll want to limit the field with hands as strong
 as top set. If you can only bet $70 you'll get a lot of callers but if
@@ -31,5 +31,6 @@ to get heads up and protect your hand.
 If the flop is superdry you're better off betting out; if you've got
 KK on a K83 flop just bet it yourself and pray someone has a lower set
 and will reraise to protect their "winner". On wet boards, try for the
-check-raise more often than not.
-
+check-raise more often than not. On flops with just three players, lean
+towards simply betting out; the chances of one of just two players
+putting in a bet for you to check raise are less.
