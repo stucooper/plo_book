@@ -170,7 +170,7 @@ get big, it's got little chance of still being the winning hand.
 In Holdem some great advice is "don't go broke with one pair",
 in PLO I suggest you "don't go broke with two pair". Remember that
 the winning hand shown down in PLO is often the Nuts, and two pair
-on a full board isn't very often the Nuts.
+on a final board is very rarely the Nuts.
 
 Have a look how wet or dry the flop is. Since straight wraps are
 so big in Omaha you need a widely separated flop to be convinced
@@ -212,7 +212,7 @@ Sometimes there's a third player in and there's big bets and calls
 on each of the flop, turn and river streets. This normally means
 that someone has flopped the Overfull with TT, and two other players
 holding a 6 are making crying calls trying to hit their full house
-when they're actually drawing dead. This is a fantastic result
+when they're both drawing dead. This is a fantastic result
 for the player with the overfull and sometimes he'll pick up the
 stacks of two other players, with no risk whatsoever.
 
@@ -228,13 +228,12 @@ in a big pot, well against the odds.
 
 In Holdem flop with low pairs like T66, 944 and K33 are "Orphan flops";
 flops where nobody is likely to have hit anything and a preflop raiser
-can make a pretty safe Continuation Bet and pick up the pot most of the
+can make a pretty safe Continuation Bet and pick up the pot much of the
 time. In Omaha you can't make these bets at Orphan flops, there's that
-many cards out there that on T66 it's likely someone has a 6, on 944
-it's likely someone has a 4, on K33 it's likely someone has a 3. So
-a bluff at these flops (I call them "Dope flops") is very unlikely to
-succeed; you're normally just giving your money away if you don't
-hold at least the trips card yourself.
+many cards out there that on T66 someone has a 6, on 944 someone has a
+4, on K33 someone has a 3. So a bluff at these flops (I call them
+"Dope flops") is very unlikely to succeed; you're normally just giving
+your money away if you don't hold the trip card yourself.
 
 Flush flops
 -----------
@@ -256,21 +255,28 @@ is out there (and it usually is, trust me). A set on a flush
 draw is really a 7 out draw to a full house on the flop and
 a 10 out draw to a full house on the turn. It gets there only 20%
 of the time, but when it does get there it's just about
-unbeatable. Proceed with caution.
+unbeatable although you might not win much more with it on the river
+as the board is now paired and the flush holder knows you've either
+got a smaller flush which he'd get value from or a full house which
+crushes him.
 
 If you've flopped the nut flush yourself, bet it strong to get the
 luckbox two pair draws out (or charge them the maximum) and get
 lots of money from any smaller flushes out there. Sometimes you'll
 pick up the small flop on the pot and you'll be disappointed that
 you didn't get action. But when that happens, you wouldn't have
-got any action later in the hand anyhow.. the best that could happen
-is you get one crying call from a made straight by the river and if
-the board pairs you have to slow down in case someone's Luckboated
-you for free. Just bet it right now. And bet it from any position,
-even under-the-gun, because lower flushes won't bet
-(remember they'll check/call, not bet themselves). Don't expect
-to be able to check-raise a flopped nut flush, you have to Do
-Your Own Betting.
+got any (losing) action later in the hand anyhow. The best that could
+happen is you get one crying call from a made straight by the river
+and if the board pairs you have to slow down in case someone's
+Luckboated you for free. Just bet it right now. And bet it from any
+position, even under-the-gun, because lower flushes won't bet
+(they'll check/call, not bet themselves). Don't expect to be able to
+check-raise a flopped nut flush, you have to Do Your Own Betting.
+If you're absolutely sneaky you can check flop, check turn and then
+get a check-raise in against a smaller flush on the river; I've seen
+nut flushes played like this but I personally think that
+straightforward flop betting with the nut flush is the way to go here;
+especially because you want to protect your hand against board pairs.
 
 It sounds weird but pot-betting your nut flush is sneakier and more
 deceptive than checking it or going for a check-raise. The hands
@@ -290,12 +296,12 @@ putting in big bets on scary flops and they know you're fearless.
 In Holdem you're sometimes afraid of losing your customers when
 you put bets in on the flop, so slow-playing is much more of a feature
 of that game. In Omaha you're rarely that far ahead that you
-can afford to slowplay, it's so easy to have a 2 pair hand in Omaha
-on the flop that if you give free cards and the board pairs you've
-cost youself badly. Had you bet the flop on an obvious made flush,
+can afford to slowplay. It's so easy for anyone to have a 2 pair hand
+in Omaha on the flop that if you give free cards and the board pairs
+you've cost youself badly. Had you bet the flop on an obvious made flush,
 the two-pair, four-out hand would've folded, but now you've cost
 yourself the pot and a lot more of your stack when you
-make a losing just-in-case crying call on the river betting.
+make a losing just-in-case crying call on the riverstreet.
 
 Straight flops
 ==============
