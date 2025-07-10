@@ -44,11 +44,19 @@ holding a single high Diamond. In Omaha, you need 2 Diamonds of your
 own to make the flush here.
 
 More 2+3 confusion occurs with double-paired Boards. In Texas if I have
-AK on a board of KK884 then I have a full house AKK88. But in Omaha
+AK on a board of KK884 then I have a full house KKK88. But in Omaha
 I don't - I have trip Kings. With a holding of AKQT and a board of
 KK884 my best hand is [AK]KK8 for KKKA8. I'm showing the 2 cards I'm
 using in square brackets [] here. Once I've used my two cards there's
 no room in the board 3 to include both those KK88 to fill up.
+
+In Omaha it's harder to have a fullhouse on the board of KK884 than it
+is on KK864. On KK884 to make a fullhouse a player needs both cards
+K8,K4,84 or 44. The 8 repeating on the turn doesn't change whether a
+player has a full house; a player must have flopped a full house to
+have it on the turn. In the same way, a fourth flush card on the turn
+doesn't change if a player has a flush. There are no "one-card
+flushes" or "one-card full houses" in Omaha.
 
 When there's three of a kind on the Board, you need a pocket pair in
 your own holding to make a full house. Holding AKQT to a board of K8883,
