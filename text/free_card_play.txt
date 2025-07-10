@@ -4,7 +4,7 @@ Last updated: 20190123
 
 I'm old enough to have played a lot of Fixed Limit Poker, and some
 of the old Fixed Limit concepts apply to Pot Limit Omaha. In this
-chapter, I'll look at one of the great Fixed Limit plays, the
+chapter, I'll look at one of the great Fixed Limit Holdem plays, the
 Free Card Play.
 
 Here's how it works in Limit. You're on the button in a 10/20 Holdem game
@@ -21,13 +21,17 @@ get to the river, not $30.
 
 Sometimes the cutoff will make it $30 to go on the flop and still bet
 $20 at you on the turn and it's now costing you $50 to see the river instead
-of $30, but most of the time the free card play saves you $10. Saving
+of $20, but most of the time the free card play saves you $10. Saving
 money here and there when you're behind is what Limit Poker is
 all about.
 
 The Free Card Play is a Pot Size Control technique; keeping the pot small
 while you're drawing and you're behind. This helps your main gambling
 goal of Win Big, Lose Small.
+
+The Free Card Play also works in Seven Card Stud; you raise on fourth
+street and hopefully you don't get bet at on fifth street and you get
+to see sixth street for free.
 
 Here's the Free Card Play in action in a PLO hand. I've got 99 on a flop
 of QJ9 two spades. The pot's already $100 and it's checked to me
@@ -43,8 +47,8 @@ My $70 "Free Card Play" bet on the button has let me get to the river
 for that price. While that turn 4 hasn't completed the flush, I'm leery
 of the fact I got two callers and suspect a low-confidence T8 straight
 could be out there. If I bet this turn I'm at risk of a check-raise
-that could force me out of the pot or cost me my stack. I'll take the
-free card.
+that could force me out of the pot or cost me my stack. I'll stick
+with my original plan and take the free card.
 
 The river is a repeat 4 and I'm checked to twice. That's a great full-house
 river for me and I now want to sell my hand into this $310 pot. I bet
@@ -57,7 +61,7 @@ enough to crying call with.
 
 Had the river not bought a repeater, I might have faced a tough river call
 with my set, but the river could have been a scare card fourth-straight-card
-flush-bringing Spade giving me the easiest of folds. As the hand played
+flush-bringing Spade giving me a much easier fold. As the hand played
 out I was able to value bet a non-nut full house, not fearing a raise, and
 get my bet paid off by two players. A great result for my Free Card Play.
 Excellent pot size control.
