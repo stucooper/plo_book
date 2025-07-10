@@ -22,8 +22,8 @@ aspect I call Floppability.
 
 The next concept is Nuttability - the ability of your holding to make
 the nuts, once all the cards are out. Because my hearts are Ah7h, the only
-heart flush I can make is the Ace-high flush, which in the absense of
-straight flush chances must be the nut flush. The straight cards 987
+heart flush I can make is the Ace-high flush, which in the absence of
+straight flush chances is the nut flush. The straight cards 987
 are less nutty; they are great on a flop of K65 but they are trouble
 on an AJT flop; where they can't make a nut straight and a hand like
 Q98 has it in serious trouble.
