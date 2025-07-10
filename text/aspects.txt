@@ -1,8 +1,11 @@
 ASPECTS OF YOUR HOLDING
 
 You know that if your hand makes it to showdown you'll be using
-exactly two of your cards, so you can look at the six two-card
+exactly two of your cards, so preflop you can look at the six two-card
 combinations of your holding and assess them as Holdem starting hands.
+
+(1) FLOPPABILITY
+
 When you hold Ah987h you have the six two-card hands: Ah7h (can make
 the nut flush), A9 (good two pair), A8 (iffy two pair), 98 (connectors
 for a straight), 97 (one gapper) and 87 (connectors).
@@ -14,6 +17,8 @@ This hand still needs to hit the right flop - all Omaha holdings do.
 But there are a lot of flops that it will fit well with. The ability
 of a holding to connect well with lots of different flops is an
 aspect I call Floppability.
+
+(2) NUTTABILITY
 
 The next concept is Nuttability - the ability of your holding to make
 the nuts, once all the cards are out. Because my hearts are Ah7h, the only
@@ -49,6 +54,8 @@ There's debate in Omaha circles on whether the best holding is AAKK double
 suited or AAJT double suited. AAKK is twice as likely to flop top set,
 but AAJT flops a lot of straight draws, all of them nut. Both have the
 same capacity to make nut flushes in two suits. Against a single opponent
-I'd take AAKK, in a three-way-or-more pot I'd prefer AAJT. On a flop of
-Q72 where I'm up against a weird two-pair or a set I'd take AAKK, on a flop
-of KQ4 I'd take AAJT with all the straight outs. 
+I'd take AAKK, in a three-way-or-more pot I'd prefer AAJT. AAJT on a
+KQx flop makes a draw I call "Broadway with the Nines" where if the
+turn or river brings another Broadway card, or a Nine, you make the
+Nut Straight. It's more outs than an open-ended straight draw (8) or
+the three card inside wrap (9); in most cases it's a 13 out nut draw.
